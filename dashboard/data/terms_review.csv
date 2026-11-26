@@ -1,0 +1,1761 @@
+month,mode,rank,id,label,df,df_share,score
+2026-01,freq,1,ihsg,ihsg,290,0.868263,0.868263
+2026-01,freq,2,gabungan,gabungan,283,0.847305,0.847305
+2026-01,freq,3,indeks_harga_saham,indeks harga saham,272,0.814371,0.814371
+2026-01,freq,4,saham,saham,246,0.736527,0.736527
+2026-01,freq,5,perdagangan,perdagangan,218,0.652695,0.652695
+2026-01,freq,6,menjadi,menjadi,204,0.610778,0.610778
+2026-01,freq,7,pasar,pasar,204,0.610778,0.610778
+2026-01,freq,8,naik,naik,201,0.601796,0.601796
+2026-01,freq,9,indeks,indeks,198,0.592814,0.592814
+2026-01,freq,10,ke_level,ke level,196,0.586826,0.586826
+2026-01,freq,11,turun,turun,181,0.541916,0.541916
+2026-01,freq,12,cnbc_indonesia,cnbc indonesia,180,0.538922,0.538922
+2026-01,freq,13,triliun,triliun,180,0.538922,0.538922
+2026-01,freq,14,hingga,hingga,179,0.535928,0.535928
+2026-01,freq,15,miliar,miliar,168,0.502994,0.502994
+2026-01,freq,16,indonesia,indonesia,165,0.494012,0.494012
+2026-01,freq,17,investor,investor,158,0.473054,0.473054
+2026-01,freq,18,menguat,menguat,155,0.464072,0.464072
+2026-01,freq,19,tersebut,tersebut,153,0.458084,0.458084
+2026-01,freq,20,sebanyak,sebanyak,149,0.446108,0.446108
+2026-01,freq,21,level,level,148,0.443114,0.443114
+2026-01,freq,22,pada_perdagangan,pada perdagangan,147,0.44012,0.44012
+2026-01,freq,23,jakarta,jakarta,145,0.434132,0.434132
+2026-01,freq,24,lebih,lebih,142,0.42515,0.42515
+2026-01,freq,25,nilai_transaksi,nilai transaksi,142,0.42515,0.42515
+2026-01,freq,26,hari_ini,hari ini,141,0.422156,0.422156
+2026-01,freq,27,global,global,130,0.389222,0.389222
+2026-01,freq,28,sementara_itu,sementara itu,128,0.383234,0.383234
+2026-01,freq,29,melibatkan,melibatkan,127,0.38024,0.38024
+2026-01,freq,30,mencapai_rp,mencapai rp,127,0.38024,0.38024
+2026-01,freq,31,terkait,terkait,114,0.341317,0.341317
+2026-01,freq,32,tahun,tahun,113,0.338323,0.338323
+2026-01,freq,33,transaksi,transaksi,113,0.338323,0.338323
+2026-01,freq,34,sempat,sempat,112,0.335329,0.335329
+2026-01,freq,35,per,per,111,0.332335,0.332335
+2026-01,freq,36,januari,januari,110,0.329341,0.329341
+2026-01,freq,37,rabu,rabu,109,0.326347,0.326347
+2026-01,freq,38,hari,hari,108,0.323353,0.323353
+2026-01,freq,39,tercatat,tercatat,108,0.323353,0.323353
+2026-01,freq,40,kamis,kamis,104,0.311377,0.311377
+2026-01,freq,41,sebesar,sebesar,101,0.302395,0.302395
+2026-01,freq,42,bergerak,bergerak,100,0.299401,0.299401
+2026-01,freq,43,bursa_efek_indonesia,bursa efek indonesia,100,0.299401,0.299401
+2026-01,freq,44,emiten,emiten,100,0.299401,0.299401
+2026-01,freq,45,meski,meski,100,0.299401,0.299401
+2026-01,freq,46,seluruh,seluruh,99,0.296407,0.296407
+2026-01,freq,47,tekanan,tekanan,99,0.296407,0.296407
+2026-01,freq,48,juta_kali,juta kali,98,0.293413,0.293413
+2026-01,freq,49,adapun,adapun,97,0.290419,0.290419
+2026-01,freq,50,baru,baru,97,0.290419,0.290419
+2026-01,freq,51,mencapai,mencapai,97,0.290419,0.290419
+2026-01,freq,52,tidak_bergerak,tidak bergerak,96,0.287425,0.287425
+2026-01,freq,53,besar,besar,95,0.284431,0.284431
+2026-01,freq,54,berada_di,berada di,93,0.278443,0.278443
+2026-01,freq,55,investor_asing,investor asing,93,0.278443,0.278443
+2026-01,freq,56,penguatan,penguatan,93,0.278443,0.278443
+2026-01,freq,57,sebelumnya,sebelumnya,93,0.278443,0.278443
+2026-01,freq,58,msci,MSCI,92,0.275449,0.275449
+2026-01,freq,59,awal,awal,91,0.272455,0.272455
+2026-01,freq,60,kenaikan,kenaikan,91,0.272455,0.272455
+2026-01,freq,61,sejumlah,sejumlah,91,0.272455,0.272455
+2026-01,freq,62,asing,asing,90,0.269461,0.269461
+2026-01,freq,63,bei,BEI,90,0.269461,0.269461
+2026-01,freq,64,data,data,87,0.260479,0.260479
+2026-01,freq,65,poin,poin,87,0.260479,0.260479
+2026-01,freq,66,sentimen,sentimen,87,0.260479,0.260479
+2026-01,freq,67,di_tengah,di tengah,86,0.257485,0.257485
+2026-01,freq,68,sektor,sektor,86,0.257485,0.257485
+2026-01,freq,69,signifikan,signifikan,85,0.254491,0.254491
+2026-01,freq,70,harga,harga,83,0.248503,0.248503
+2026-01,freq,71,poin_atau,poin atau,82,0.245509,0.245509
+2026-01,freq,72,termasuk,termasuk,81,0.242515,0.242515
+2026-01,freq,73,atas,atas,80,0.239521,0.239521
+2026-01,freq,74,kemarin,kemarin,80,0.239521,0.239521
+2026-01,freq,75,terjadi,terjadi,79,0.236527,0.236527
+2026-01,freq,76,koreksi,koreksi,78,0.233533,0.233533
+2026-01,freq,77,pelaku_pasar,pelaku pasar,78,0.233533,0.233533
+2026-01,freq,78,di_zona,di zona,77,0.230539,0.230539
+2026-01,freq,79,ditutup,ditutup,77,0.230539,0.230539
+2026-01,freq,80,dibuka,dibuka,76,0.227545,0.227545
+2026-01,khas,1,trading_halt,trading halt,69,0.206587,0.495374
+2026-01,khas,2,menteri_keuangan,menteri keuangan,63,0.188623,0.452298
+2026-01,khas,3,investor_global,investor global,58,0.173653,0.416402
+2026-01,khas,4,purbaya_yudhi_sadewa,purbaya yudhi sadewa,58,0.173653,0.416402
+2026-01,khas,5,free_float,free float,73,0.218563,0.372595
+2026-01,khas,6,transparansi,transparansi,48,0.143713,0.344609
+2026-01,khas,7,aksi,aksi,43,0.128743,0.308712
+2026-01,khas,8,nyaris,nyaris,43,0.128743,0.308712
+2026-01,khas,9,otoritas,otoritas,43,0.128743,0.308712
+2026-01,khas,10,khususnya,khususnya,41,0.122754,0.294351
+2026-01,khas,11,bumi,BUMI,54,0.161677,0.275619
+2026-01,khas,12,bi,BI,38,0.113772,0.272813
+2026-01,khas,13,bobot,bobot,38,0.113772,0.272813
+2026-01,khas,14,bank,BANK,36,0.107784,0.258455
+2026-01,khas,15,faktor,faktor,36,0.107784,0.258455
+2026-01,khas,16,pernyataan,pernyataan,36,0.107784,0.258455
+2026-01,khas,17,tambahan,tambahan,34,0.101796,0.244096
+2026-01,khas,18,acuan,acuan,32,0.095808,0.229738
+2026-01,khas,19,tunai,tunai,32,0.095808,0.229738
+2026-01,khas,20,ambruk,ambruk,58,0.173653,0.225624
+2026-01,khas,21,net_foreign_sell,net foreign sell,31,0.092814,0.222558
+2026-01,khas,22,melihat,melihat,43,0.128743,0.219474
+2026-01,khas,23,cenderung,cenderung,30,0.08982,0.215379
+2026-01,khas,24,komoditas,komoditas,30,0.08982,0.215379
+2026-01,khas,25,mana,mana,30,0.08982,0.215379
+2026-01,khas,26,menegaskan,menegaskan,30,0.08982,0.215379
+2026-01,khas,27,sesuai,sesuai,30,0.08982,0.215379
+2026-01,khas,28,kekhawatiran,kekhawatiran,54,0.161677,0.210064
+2026-01,khas,29,aturan,aturan,29,0.086826,0.2082
+2026-01,khas,30,keluar,keluar,29,0.086826,0.2082
+2026-01,khas,31,kemungkinan,kemungkinan,29,0.086826,0.2082
+2026-01,khas,32,tren,tren,29,0.086826,0.2082
+2026-01,khas,33,menembus,menembus,28,0.083832,0.20102
+2026-01,khas,34,arah,arah,39,0.116766,0.199057
+2026-01,khas,35,geopolitik,geopolitik,39,0.116766,0.199057
+2026-01,khas,36,risiko,risiko,39,0.116766,0.199057
+2026-01,khas,37,ekspektasi,ekspektasi,27,0.080838,0.193841
+2026-01,khas,38,tak,tak,27,0.080838,0.193841
+2026-01,khas,39,sedang,sedang,37,0.110778,0.188849
+2026-01,khas,40,aset,aset,26,0.077844,0.186662
+2026-01,khas,41,volatilitas,volatilitas,26,0.077844,0.186662
+2026-01,khas,42,nasional,nasional,25,0.07485,0.179482
+2026-01,khas,43,zona_merah,zona merah,25,0.07485,0.179482
+2026-01,khas,44,terlihat,terlihat,35,0.10479,0.178641
+2026-01,khas,45,tajam,tajam,45,0.134731,0.175054
+2026-01,khas,46,fundamental,fundamental,34,0.101796,0.173537
+2026-01,khas,47,menahan,menahan,34,0.101796,0.173537
+2026-01,khas,48,modal,modal,34,0.101796,0.173537
+2026-01,khas,49,cuan,CUAN,24,0.071856,0.172303
+2026-01,khas,50,cepat,cepat,33,0.098802,0.168433
+2026-01,khas,51,net_sell,net sell,33,0.098802,0.168433
+2026-01,khas,52,terdapat,terdapat,43,0.128743,0.167274
+2026-01,khas,53,harian,harian,23,0.068862,0.165124
+2026-01,khas,54,menyumbang,menyumbang,23,0.068862,0.165124
+2026-01,khas,55,aksi_jual,aksi jual,42,0.125749,0.163384
+2026-01,khas,56,menutup,menutup,42,0.125749,0.163384
+2026-01,khas,57,dinamika,dinamika,32,0.095808,0.163329
+2026-01,khas,58,ekonomi,ekonomi,69,0.206587,0.162885
+2026-01,khas,59,regulator,regulator,22,0.065868,0.157945
+2026-01,khas,60,upaya,upaya,22,0.065868,0.157945
+2026-01,khas,61,ojk,OJK,52,0.155689,0.157495
+2026-01,khas,62,bank_indonesia,Bank Indonesia,51,0.152695,0.154466
+2026-01,khas,63,signifikan,signifikan,85,0.254491,0.154256
+2026-01,khas,64,dana,dana,30,0.08982,0.15312
+2026-01,khas,65,pengumuman,pengumuman,30,0.08982,0.15312
+2026-01,khas,66,internasional,internasional,21,0.062874,0.150765
+2026-01,khas,67,lima,lima,21,0.062874,0.150765
+2026-01,khas,68,situasi,situasi,21,0.062874,0.150765
+2026-01,khas,69,pertumbuhan_ekonomi,pertumbuhan ekonomi,29,0.086826,0.148016
+2026-01,khas,70,menilai,menilai,61,0.182635,0.144
+2026-01,khas,71,moneter,moneter,20,0.05988,0.143586
+2026-01,khas,72,prospek,prospek,28,0.083832,0.142912
+2026-01,khas,73,merupakan,merupakan,60,0.179641,0.141639
+2026-01,khas,74,koreksi,koreksi,78,0.233533,0.141553
+2026-01,khas,75,investasi,investasi,59,0.176647,0.139279
+2026-01,khas,76,industri,industri,27,0.080838,0.137808
+2026-01,khas,77,emerging_market,emerging market,19,0.056886,0.136407
+2026-01,khas,78,jasa_keuangan,jasa keuangan,19,0.056886,0.136407
+2026-01,khas,79,rilis,rilis,19,0.056886,0.136407
+2026-01,khas,80,sanggahan,sanggahan,19,0.056886,0.136407
+2026-02,freq,1,ihsg,ihsg,213,0.981567,0.981567
+2026-02,freq,2,gabungan,gabungan,202,0.930876,0.930876
+2026-02,freq,3,saham,saham,199,0.917051,0.917051
+2026-02,freq,4,indeks_harga_saham,indeks harga saham,195,0.898618,0.898618
+2026-02,freq,5,pasar,pasar,171,0.788018,0.788018
+2026-02,freq,6,turun,turun,169,0.778802,0.778802
+2026-02,freq,7,indeks,indeks,166,0.764977,0.764977
+2026-02,freq,8,perdagangan,perdagangan,166,0.764977,0.764977
+2026-02,freq,9,naik,naik,164,0.75576,0.75576
+2026-02,freq,10,miliar,miliar,163,0.751152,0.751152
+2026-02,freq,11,triliun,triliun,159,0.732719,0.732719
+2026-02,freq,12,menjadi,menjadi,158,0.728111,0.728111
+2026-02,freq,13,ke_level,ke level,151,0.695853,0.695853
+2026-02,freq,14,sebanyak,sebanyak,138,0.635945,0.635945
+2026-02,freq,15,tersebut,tersebut,135,0.62212,0.62212
+2026-02,freq,16,nilai_transaksi,nilai transaksi,134,0.617512,0.617512
+2026-02,freq,17,pada_perdagangan,pada perdagangan,131,0.603687,0.603687
+2026-02,freq,18,hari_ini,hari ini,129,0.59447,0.59447
+2026-02,freq,19,hingga,hingga,128,0.589862,0.589862
+2026-02,freq,20,indonesia,indonesia,125,0.576037,0.576037
+2026-02,freq,21,melibatkan,melibatkan,119,0.548387,0.548387
+2026-02,freq,22,cnbc_indonesia,cnbc indonesia,117,0.539171,0.539171
+2026-02,freq,23,sementara_itu,sementara itu,117,0.539171,0.539171
+2026-02,freq,24,mencapai_rp,mencapai rp,116,0.534562,0.534562
+2026-02,freq,25,sebesar,sebesar,116,0.534562,0.534562
+2026-02,freq,26,lebih,lebih,111,0.511521,0.511521
+2026-02,freq,27,tidak_bergerak,tidak bergerak,108,0.497696,0.497696
+2026-02,freq,28,transaksi,transaksi,107,0.493088,0.493088
+2026-02,freq,29,investor,investor,106,0.488479,0.488479
+2026-02,freq,30,level,level,106,0.488479,0.488479
+2026-02,freq,31,seluruh,seluruh,106,0.488479,0.488479
+2026-02,freq,32,tercatat,tercatat,106,0.488479,0.488479
+2026-02,freq,33,utama,utama,106,0.488479,0.488479
+2026-02,freq,34,jakarta,jakarta,101,0.465438,0.465438
+2026-02,freq,35,mulai,mulai,101,0.465438,0.465438
+2026-02,freq,36,sektor,sektor,101,0.465438,0.465438
+2026-02,freq,37,terjadi,terjadi,101,0.465438,0.465438
+2026-02,freq,38,juta_kali,juta kali,100,0.460829,0.460829
+2026-02,freq,39,sejumlah,sejumlah,98,0.451613,0.451613
+2026-02,freq,40,lalu,lalu,96,0.442396,0.442396
+2026-02,freq,41,kapitalisasi_pasar,kapitalisasi pasar,95,0.437788,0.437788
+2026-02,freq,42,menguat,menguat,93,0.428571,0.428571
+2026-02,freq,43,baru,baru,92,0.423963,0.423963
+2026-02,freq,44,tekanan,tekanan,92,0.423963,0.423963
+2026-02,freq,45,hari,hari,90,0.414747,0.414747
+2026-02,freq,46,berada_di,berada di,89,0.410138,0.410138
+2026-02,freq,47,kemarin,kemarin,89,0.410138,0.410138
+2026-02,freq,48,bergerak,bergerak,88,0.40553,0.40553
+2026-02,freq,49,kenaikan,kenaikan,88,0.40553,0.40553
+2026-02,freq,50,poin,poin,88,0.40553,0.40553
+2026-02,freq,51,msci,MSCI,87,0.400922,0.400922
+2026-02,freq,52,penguatan,penguatan,87,0.400922,0.400922
+2026-02,freq,53,asing,asing,86,0.396313,0.396313
+2026-02,freq,54,ditutup,ditutup,86,0.396313,0.396313
+2026-02,freq,55,emiten,emiten,85,0.391705,0.391705
+2026-02,freq,56,terbesar,terbesar,85,0.391705,0.391705
+2026-02,freq,57,terkait,terkait,85,0.391705,0.391705
+2026-02,freq,58,tahun,tahun,84,0.387097,0.387097
+2026-02,freq,59,sebelumnya,sebelumnya,83,0.382488,0.382488
+2026-02,freq,60,global,global,82,0.37788,0.37788
+2026-02,freq,61,pergerakan,pergerakan,80,0.368664,0.368664
+2026-02,freq,62,besar,besar,79,0.364055,0.364055
+2026-02,freq,63,investor_asing,investor asing,79,0.364055,0.364055
+2026-02,freq,64,atas,atas,78,0.359447,0.359447
+2026-02,freq,65,awal,awal,75,0.345622,0.345622
+2026-02,freq,66,domestik,domestik,75,0.345622,0.345622
+2026-02,freq,67,tetap,tetap,75,0.345622,0.345622
+2026-02,freq,68,harga,harga,74,0.341014,0.341014
+2026-02,freq,69,mencapai,mencapai,74,0.341014,0.341014
+2026-02,freq,70,pemerintah,pemerintah,74,0.341014,0.341014
+2026-02,freq,71,adapun,adapun,73,0.336406,0.336406
+2026-02,freq,72,berikut,berikut,73,0.336406,0.336406
+2026-02,freq,73,di_zona,di zona,73,0.336406,0.336406
+2026-02,freq,74,mengalami,mengalami,72,0.331797,0.331797
+2026-02,freq,75,pasar_modal,pasar modal,72,0.331797,0.331797
+2026-02,freq,76,sempat,sempat,72,0.331797,0.331797
+2026-02,freq,77,ojk,OJK,71,0.327189,0.327189
+2026-02,freq,78,pelaku_pasar,pelaku pasar,71,0.327189,0.327189
+2026-02,freq,79,saat_ini,saat ini,71,0.327189,0.327189
+2026-02,freq,80,akhir,akhir,70,0.322581,0.322581
+2026-02,khas,1,danantara,Danantara,47,0.21659,0.51936
+2026-02,khas,2,bumi,BUMI,63,0.290323,0.494928
+2026-02,khas,3,transparansi,transparansi,43,0.198157,0.47516
+2026-02,khas,4,menegaskan,menegaskan,41,0.18894,0.453058
+2026-02,khas,5,sesuai,sesuai,41,0.18894,0.453058
+2026-02,khas,6,khususnya,khususnya,40,0.184332,0.442009
+2026-02,khas,7,industri,industri,56,0.258065,0.439936
+2026-02,khas,8,berjalan,berjalan,36,0.165899,0.397808
+2026-02,khas,9,terbuka,terbuka,36,0.165899,0.397808
+2026-02,khas,10,kontribusi,kontribusi,35,0.16129,0.386757
+2026-02,khas,11,regulator,regulator,35,0.16129,0.386757
+2026-02,khas,12,pertemuan,pertemuan,48,0.221198,0.377087
+2026-02,khas,13,otoritas,otoritas,34,0.156682,0.375707
+2026-02,khas,14,wall_street,wall street,34,0.156682,0.375707
+2026-02,khas,15,jasa_keuangan,jasa keuangan,33,0.152074,0.364658
+2026-02,khas,16,menyumbang,menyumbang,33,0.152074,0.364658
+2026-02,khas,17,rilis,rilis,33,0.152074,0.364658
+2026-02,khas,18,stabil,stabil,33,0.152074,0.364658
+2026-02,khas,19,upaya,upaya,33,0.152074,0.364658
+2026-02,khas,20,hampir,hampir,32,0.147465,0.353606
+2026-02,khas,21,presiden_as,presiden as,32,0.147465,0.353606
+2026-02,khas,22,tren,tren,32,0.147465,0.353606
+2026-02,khas,23,cepat,cepat,44,0.202765,0.345663
+2026-02,khas,24,cenderung,cenderung,30,0.138249,0.331507
+2026-02,khas,25,laporan,laporan,30,0.138249,0.331507
+2026-02,khas,26,tunai,tunai,30,0.138249,0.331507
+2026-02,khas,27,ojk,OJK,71,0.327189,0.330985
+2026-02,khas,28,free_float,free float,42,0.193548,0.329951
+2026-02,khas,29,otoritas_jasa_keuangan,otoritas jasa keuangan,55,0.253456,0.329311
+2026-02,khas,30,sedang,sedang,41,0.18894,0.322095
+2026-02,khas,31,terlihat,terlihat,41,0.18894,0.322095
+2026-02,khas,32,aturan,aturan,29,0.133641,0.320457
+2026-02,khas,33,bertahan,bertahan,29,0.133641,0.320457
+2026-02,khas,34,berupa_pandangan,berupa pandangan,29,0.133641,0.320457
+2026-02,khas,35,bisnis,bisnis,29,0.133641,0.320457
+2026-02,khas,36,ekspektasi,ekspektasi,29,0.133641,0.320457
+2026-02,khas,37,nasional,nasional,29,0.133641,0.320457
+2026-02,khas,38,analisis,analisis,40,0.184332,0.31424
+2026-02,khas,39,menahan,menahan,40,0.184332,0.31424
+2026-02,khas,40,acuan,acuan,28,0.129032,0.309405
+2026-02,khas,41,sanggahan,sanggahan,28,0.129032,0.309405
+2026-02,khas,42,kata,kata,39,0.179724,0.306384
+2026-02,khas,43,aksi,aksi,27,0.124424,0.298356
+2026-02,khas,44,bobot,bobot,27,0.124424,0.298356
+2026-02,khas,45,zona_merah,zona merah,27,0.124424,0.298356
+2026-02,khas,46,aset,aset,26,0.119816,0.287306
+2026-02,khas,47,mana,mana,26,0.119816,0.287306
+2026-02,khas,48,menteri_keuangan,menteri keuangan,26,0.119816,0.287306
+2026-02,khas,49,teknologi,teknologi,26,0.119816,0.287306
+2026-02,khas,50,research,research,36,0.165899,0.282816
+2026-02,khas,51,kesepakatan,kesepakatan,25,0.115207,0.276254
+2026-02,khas,52,menambah,menambah,25,0.115207,0.276254
+2026-02,khas,53,situasi,situasi,25,0.115207,0.276254
+2026-02,khas,54,dinamika,dinamika,35,0.16129,0.274959
+2026-02,khas,55,fundamental,fundamental,35,0.16129,0.274959
+2026-02,khas,56,pertumbuhan_ekonomi,pertumbuhan ekonomi,35,0.16129,0.274959
+2026-02,khas,57,keputusan_sepenuhnya,keputusan sepenuhnya,34,0.156682,0.267103
+2026-02,khas,58,melihat,melihat,34,0.156682,0.267103
+2026-02,khas,59,mengajak_pembaca,mengajak pembaca,34,0.156682,0.267103
+2026-02,khas,60,mengutip_refinitiv,mengutip refinitiv,34,0.156682,0.267103
+2026-02,khas,61,modal,modal,34,0.156682,0.267103
+2026-02,khas,62,muncul,muncul,34,0.156682,0.267103
+2026-02,khas,63,produk_jurnalistik,produk jurnalistik,34,0.156682,0.267103
+2026-02,khas,64,segala_kerugian,segala kerugian,34,0.156682,0.267103
+2026-02,khas,65,dolar,dolar,24,0.110599,0.265205
+2026-02,khas,66,produksi,produksi,24,0.110599,0.265205
+2026-02,khas,67,proyeksi,proyeksi,24,0.110599,0.265205
+2026-02,khas,68,menutup,menutup,43,0.198157,0.257462
+2026-02,khas,69,terbaru,terbaru,43,0.198157,0.257462
+2026-02,khas,70,disampaikan,disampaikan,23,0.105991,0.254155
+2026-02,khas,71,keluar,keluar,23,0.105991,0.254155
+2026-02,khas,72,net_foreign_sell,net foreign sell,23,0.105991,0.254155
+2026-02,khas,73,tenaga_kerja,tenaga kerja,23,0.105991,0.254155
+2026-02,khas,74,pertumbuhan,pertumbuhan,54,0.248848,0.251735
+2026-02,khas,75,risiko,risiko,32,0.147465,0.251391
+2026-02,khas,76,sama,sama,32,0.147465,0.251391
+2026-02,khas,77,mengenai,mengenai,41,0.18894,0.245487
+2026-02,khas,78,minggu,minggu,31,0.142857,0.243535
+2026-02,khas,79,ancaman,ancaman,22,0.101382,0.243103
+2026-02,khas,80,biaya,biaya,22,0.101382,0.243103
+2026-03,freq,1,ihsg,ihsg,202,0.971154,0.971154
+2026-03,freq,2,gabungan,gabungan,196,0.942308,0.942308
+2026-03,freq,3,indeks_harga_saham,indeks harga saham,192,0.923077,0.923077
+2026-03,freq,4,saham,saham,187,0.899038,0.899038
+2026-03,freq,5,pasar,pasar,167,0.802885,0.802885
+2026-03,freq,6,triliun,triliun,166,0.798077,0.798077
+2026-03,freq,7,menjadi,menjadi,164,0.788462,0.788462
+2026-03,freq,8,tersebut,tersebut,164,0.788462,0.788462
+2026-03,freq,9,turun,turun,163,0.783654,0.783654
+2026-03,freq,10,ke_level,ke level,160,0.769231,0.769231
+2026-03,freq,11,miliar,miliar,158,0.759615,0.759615
+2026-03,freq,12,naik,naik,148,0.711538,0.711538
+2026-03,freq,13,perdagangan,perdagangan,148,0.711538,0.711538
+2026-03,freq,14,indeks,indeks,143,0.6875,0.6875
+2026-03,freq,15,hingga,hingga,140,0.673077,0.673077
+2026-03,freq,16,sebanyak,sebanyak,140,0.673077,0.673077
+2026-03,freq,17,nilai_transaksi,nilai transaksi,135,0.649038,0.649038
+2026-03,freq,18,cnbc_indonesia,cnbc indonesia,133,0.639423,0.639423
+2026-03,freq,19,global,global,129,0.620192,0.620192
+2026-03,freq,20,pada_perdagangan,pada perdagangan,129,0.620192,0.620192
+2026-03,freq,21,lebih,lebih,127,0.610577,0.610577
+2026-03,freq,22,hari_ini,hari ini,119,0.572115,0.572115
+2026-03,freq,23,sementara_itu,sementara itu,119,0.572115,0.572115
+2026-03,freq,24,tidak_bergerak,tidak bergerak,112,0.538462,0.538462
+2026-03,freq,25,amerika_serikat,amerika serikat,109,0.524038,0.524038
+2026-03,freq,26,ditutup,ditutup,106,0.509615,0.509615
+2026-03,freq,27,iran,iran,105,0.504808,0.504808
+2026-03,freq,28,indonesia,indonesia,104,0.5,0.5
+2026-03,freq,29,melibatkan,melibatkan,103,0.495192,0.495192
+2026-03,freq,30,mencapai,mencapai,103,0.495192,0.495192
+2026-03,freq,31,sebelumnya,sebelumnya,103,0.495192,0.495192
+2026-03,freq,32,sebesar,sebesar,103,0.495192,0.495192
+2026-03,freq,33,mencapai_rp,mencapai rp,100,0.480769,0.480769
+2026-03,freq,34,jakarta,jakarta,99,0.475962,0.475962
+2026-03,freq,35,poin,poin,99,0.475962,0.475962
+2026-03,freq,36,tercatat,tercatat,98,0.471154,0.471154
+2026-03,freq,37,terjadi,terjadi,98,0.471154,0.471154
+2026-03,freq,38,transaksi,transaksi,98,0.471154,0.471154
+2026-03,freq,39,berada_di,berada di,96,0.461538,0.461538
+2026-03,freq,40,harga_minyak,harga minyak,96,0.461538,0.461538
+2026-03,freq,41,sejumlah,sejumlah,96,0.461538,0.461538
+2026-03,freq,42,sektor,sektor,96,0.461538,0.461538
+2026-03,freq,43,investor,investor,94,0.451923,0.451923
+2026-03,freq,44,posisi,posisi,94,0.451923,0.451923
+2026-03,freq,45,di_tengah,di tengah,93,0.447115,0.447115
+2026-03,freq,46,timur_tengah,timur tengah,93,0.447115,0.447115
+2026-03,freq,47,utama,utama,93,0.447115,0.447115
+2026-03,freq,48,hari,hari,92,0.442308,0.442308
+2026-03,freq,49,kondisi,kondisi,90,0.432692,0.432692
+2026-03,freq,50,israel,israel,89,0.427885,0.427885
+2026-03,freq,51,energi,energi,88,0.423077,0.423077
+2026-03,freq,52,tahun,tahun,88,0.423077,0.423077
+2026-03,freq,53,tekanan,tekanan,88,0.423077,0.423077
+2026-03,freq,54,kenaikan,kenaikan,87,0.418269,0.418269
+2026-03,freq,55,paling,paling,85,0.408654,0.408654
+2026-03,freq,56,menguat,menguat,84,0.403846,0.403846
+2026-03,freq,57,domestik,domestik,82,0.394231,0.394231
+2026-03,freq,58,pelemahan,pelemahan,82,0.394231,0.394231
+2026-03,freq,59,senin,senin,82,0.394231,0.394231
+2026-03,freq,60,besar,besar,81,0.389423,0.389423
+2026-03,freq,61,penurunan,penurunan,81,0.389423,0.389423
+2026-03,freq,62,seluruh,seluruh,81,0.389423,0.389423
+2026-03,freq,63,koreksi,koreksi,80,0.384615,0.384615
+2026-03,freq,64,level,level,80,0.384615,0.384615
+2026-03,freq,65,pergerakan,pergerakan,80,0.384615,0.384615
+2026-03,freq,66,awal,awal,79,0.379808,0.379808
+2026-03,freq,67,saat_ini,saat ini,79,0.379808,0.379808
+2026-03,freq,68,selama,selama,79,0.379808,0.379808
+2026-03,freq,69,melemah,melemah,78,0.375,0.375
+2026-03,freq,70,mulai,mulai,78,0.375,0.375
+2026-03,freq,71,perang,perang,77,0.370192,0.370192
+2026-03,freq,72,selat_hormuz,selat hormuz,77,0.370192,0.370192
+2026-03,freq,73,terakhir,terakhir,77,0.370192,0.370192
+2026-03,freq,74,beberapa,beberapa,76,0.365385,0.365385
+2026-03,freq,75,juta_kali,juta kali,76,0.365385,0.365385
+2026-03,freq,76,tetap,tetap,76,0.365385,0.365385
+2026-03,freq,77,sentimen,sentimen,75,0.360577,0.360577
+2026-03,freq,78,terutama,terutama,75,0.360577,0.360577
+2026-03,freq,79,berikut,berikut,74,0.355769,0.355769
+2026-03,freq,80,kapitalisasi_pasar,kapitalisasi pasar,74,0.355769,0.355769
+2026-03,khas,1,israel,israel,89,0.427885,0.729436
+2026-03,khas,2,militer,militer,52,0.25,0.599474
+2026-03,khas,3,konflik,konflik,73,0.350962,0.598302
+2026-03,khas,4,ketidakpastian,ketidakpastian,47,0.225962,0.541833
+2026-03,khas,5,volatilitas,volatilitas,45,0.216346,0.518775
+2026-03,khas,6,faktor,faktor,44,0.211538,0.507246
+2026-03,khas,7,mana,mana,44,0.211538,0.507246
+2026-03,khas,8,risiko,risiko,60,0.288462,0.491755
+2026-03,khas,9,hampir,hampir,42,0.201923,0.48419
+2026-03,khas,10,presiden_as,presiden as,42,0.201923,0.48419
+2026-03,khas,11,perang,perang,77,0.370192,0.480984
+2026-03,khas,12,selat_hormuz,selat hormuz,77,0.370192,0.480984
+2026-03,khas,13,berupa_pandangan,berupa pandangan,40,0.192308,0.461134
+2026-03,khas,14,perang_iran,perang iran,40,0.192308,0.461134
+2026-03,khas,15,hormuz,hormuz,38,0.182692,0.438076
+2026-03,khas,16,asia,asia,53,0.254808,0.434383
+2026-03,khas,17,aset,aset,37,0.177885,0.42655
+2026-03,khas,18,menghadapi,menghadapi,37,0.177885,0.42655
+2026-03,khas,19,proyeksi,proyeksi,37,0.177885,0.42655
+2026-03,khas,20,zona_merah,zona merah,37,0.177885,0.42655
+2026-03,khas,21,jalur,jalur,52,0.25,0.426187
+2026-03,khas,22,serangan,serangan,51,0.245192,0.417991
+2026-03,khas,23,kapal,kapal,36,0.173077,0.415021
+2026-03,khas,24,nyaris,nyaris,36,0.173077,0.415021
+2026-03,khas,25,sanggahan,sanggahan,36,0.173077,0.415021
+2026-03,khas,26,situasi,situasi,36,0.173077,0.415021
+2026-03,khas,27,tambahan,tambahan,36,0.173077,0.415021
+2026-03,khas,28,tren,tren,36,0.173077,0.415021
+2026-03,khas,29,cenderung,cenderung,35,0.168269,0.403491
+2026-03,khas,30,intermediate,intermediate,35,0.168269,0.403491
+2026-03,khas,31,lebaran,lebaran,35,0.168269,0.403491
+2026-03,khas,32,west_texas,west texas,35,0.168269,0.403491
+2026-03,khas,33,menahan,menahan,49,0.235577,0.401599
+2026-03,khas,34,tajam,tajam,64,0.307692,0.399779
+2026-03,khas,35,infrastruktur,infrastruktur,34,0.163462,0.391965
+2026-03,khas,36,memanas,memanas,34,0.163462,0.391965
+2026-03,khas,37,mentah,mentah,34,0.163462,0.391965
+2026-03,khas,38,bobot,bobot,33,0.158654,0.380436
+2026-03,khas,39,eskalasi_konflik,eskalasi konflik,33,0.158654,0.380436
+2026-03,khas,40,kemungkinan,kemungkinan,33,0.158654,0.380436
+2026-03,khas,41,laporan,laporan,33,0.158654,0.380436
+2026-03,khas,42,terbatas,terbatas,33,0.158654,0.380436
+2026-03,khas,43,geopolitik,geopolitik,46,0.221154,0.377012
+2026-03,khas,44,ketegangan,ketegangan,32,0.153846,0.368907
+2026-03,khas,45,lima,lima,32,0.153846,0.368907
+2026-03,khas,46,memasuki,memasuki,32,0.153846,0.368907
+2026-03,khas,47,menuju,menuju,32,0.153846,0.368907
+2026-03,khas,48,analisis,analisis,45,0.216346,0.368815
+2026-03,khas,49,sedang,sedang,45,0.216346,0.368815
+2026-03,khas,50,ambruk,ambruk,59,0.283654,0.368547
+2026-03,khas,51,jepang,jepang,58,0.278846,0.3623
+2026-03,khas,52,dampak,dampak,44,0.211538,0.360619
+2026-03,khas,53,menambah,menambah,31,0.149038,0.357378
+2026-03,khas,54,mengalami_penurunan,mengalami penurunan,31,0.149038,0.357378
+2026-03,khas,55,nasional,nasional,31,0.149038,0.357378
+2026-03,khas,56,fundamental,fundamental,43,0.206731,0.352424
+2026-03,khas,57,industri,industri,43,0.206731,0.352424
+2026-03,khas,58,minggu,minggu,43,0.206731,0.352424
+2026-03,khas,59,teknologi,teknologi,30,0.144231,0.345851
+2026-03,khas,60,sama,sama,42,0.201923,0.344228
+2026-03,khas,61,teheran,teheran,42,0.201923,0.344228
+2026-03,khas,62,merosot,merosot,41,0.197115,0.336031
+2026-03,khas,63,terlihat,terlihat,41,0.197115,0.336031
+2026-03,khas,64,aksi,aksi,29,0.139423,0.334322
+2026-03,khas,65,internasional,internasional,29,0.139423,0.334322
+2026-03,khas,66,produksi,produksi,29,0.139423,0.334322
+2026-03,khas,67,dinamika,dinamika,40,0.192308,0.327837
+2026-03,khas,68,keputusan_sepenuhnya,keputusan sepenuhnya,40,0.192308,0.327837
+2026-03,khas,69,mengajak_pembaca,mengajak pembaca,40,0.192308,0.327837
+2026-03,khas,70,produk_jurnalistik,produk jurnalistik,40,0.192308,0.327837
+2026-03,khas,71,research,research,40,0.192308,0.327837
+2026-03,khas,72,segala_kerugian,segala kerugian,40,0.192308,0.327837
+2026-03,khas,73,ekspektasi,ekspektasi,28,0.134615,0.322793
+2026-03,khas,74,eksternal,eksternal,39,0.1875,0.31964
+2026-03,khas,75,gencatan_senjata,gencatan senjata,27,0.129808,0.311266
+2026-03,khas,76,dana,dana,37,0.177885,0.303249
+2026-03,khas,77,berjalan,berjalan,26,0.125,0.299737
+2026-03,khas,78,index,index,26,0.125,0.299737
+2026-03,khas,79,menegaskan,menegaskan,26,0.125,0.299737
+2026-03,khas,80,stabil,stabil,26,0.125,0.299737
+2026-04,freq,1,ihsg,ihsg,189,0.891509,0.891509
+2026-04,freq,2,gabungan,gabungan,175,0.825472,0.825472
+2026-04,freq,3,saham,saham,169,0.79717,0.79717
+2026-04,freq,4,indeks_harga_saham,indeks harga saham,165,0.778302,0.778302
+2026-04,freq,5,ke_level,ke level,155,0.731132,0.731132
+2026-04,freq,6,triliun,triliun,152,0.716981,0.716981
+2026-04,freq,7,pasar,pasar,148,0.698113,0.698113
+2026-04,freq,8,menjadi,menjadi,147,0.693396,0.693396
+2026-04,freq,9,miliar,miliar,147,0.693396,0.693396
+2026-04,freq,10,naik,naik,143,0.674528,0.674528
+2026-04,freq,11,perdagangan,perdagangan,137,0.646226,0.646226
+2026-04,freq,12,indeks,indeks,136,0.641509,0.641509
+2026-04,freq,13,turun,turun,131,0.617925,0.617925
+2026-04,freq,14,nilai_transaksi,nilai transaksi,124,0.584906,0.584906
+2026-04,freq,15,cnbc_indonesia,cnbc indonesia,120,0.566038,0.566038
+2026-04,freq,16,tersebut,tersebut,119,0.561321,0.561321
+2026-04,freq,17,pada_perdagangan,pada perdagangan,114,0.537736,0.537736
+2026-04,freq,18,hingga,hingga,111,0.523585,0.523585
+2026-04,freq,19,sebanyak,sebanyak,111,0.523585,0.523585
+2026-04,freq,20,sementara_itu,sementara itu,108,0.509434,0.509434
+2026-04,freq,21,menguat,menguat,104,0.490566,0.490566
+2026-04,freq,22,global,global,99,0.466981,0.466981
+2026-04,freq,23,sebelumnya,sebelumnya,99,0.466981,0.466981
+2026-04,freq,24,melibatkan,melibatkan,97,0.457547,0.457547
+2026-04,freq,25,hari_ini,hari ini,95,0.448113,0.448113
+2026-04,freq,26,per,per,95,0.448113,0.448113
+2026-04,freq,27,lebih,lebih,94,0.443396,0.443396
+2026-04,freq,28,melemah,melemah,94,0.443396,0.443396
+2026-04,freq,29,indonesia,indonesia,93,0.438679,0.438679
+2026-04,freq,30,tercatat,tercatat,93,0.438679,0.438679
+2026-04,freq,31,transaksi,transaksi,91,0.429245,0.429245
+2026-04,freq,32,berada_di,berada di,89,0.419811,0.419811
+2026-04,freq,33,seluruh,seluruh,89,0.419811,0.419811
+2026-04,freq,34,poin,poin,88,0.415094,0.415094
+2026-04,freq,35,iran,iran,87,0.410377,0.410377
+2026-04,freq,36,jakarta,jakarta,87,0.410377,0.410377
+2026-04,freq,37,kapitalisasi_pasar,kapitalisasi pasar,87,0.410377,0.410377
+2026-04,freq,38,juta_kali,juta kali,86,0.40566,0.40566
+2026-04,freq,39,utama,utama,86,0.40566,0.40566
+2026-04,freq,40,mencapai_rp,mencapai rp,85,0.400943,0.400943
+2026-04,freq,41,sebesar,sebesar,84,0.396226,0.396226
+2026-04,freq,42,amerika_serikat,amerika serikat,83,0.391509,0.391509
+2026-04,freq,43,ditutup,ditutup,83,0.391509,0.391509
+2026-04,freq,44,level,level,82,0.386792,0.386792
+2026-04,freq,45,mencapai,mencapai,81,0.382075,0.382075
+2026-04,freq,46,kenaikan,kenaikan,80,0.377358,0.377358
+2026-04,freq,47,hari,hari,78,0.367925,0.367925
+2026-04,freq,48,rabu,rabu,78,0.367925,0.367925
+2026-04,freq,49,tetap,tetap,77,0.363208,0.363208
+2026-04,freq,50,di_tengah,di tengah,76,0.358491,0.358491
+2026-04,freq,51,investor_asing,investor asing,75,0.353774,0.353774
+2026-04,freq,52,besar,besar,73,0.34434,0.34434
+2026-04,freq,53,bergerak,bergerak,72,0.339623,0.339623
+2026-04,freq,54,investor,investor,72,0.339623,0.339623
+2026-04,freq,55,trump,Trump,72,0.339623,0.339623
+2026-04,freq,56,rupiah,rupiah,71,0.334906,0.334906
+2026-04,freq,57,sentimen,sentimen,70,0.330189,0.330189
+2026-04,freq,58,poin_atau,poin atau,69,0.325472,0.325472
+2026-04,freq,59,energi,energi,67,0.316038,0.316038
+2026-04,freq,60,mulai,mulai,67,0.316038,0.316038
+2026-04,freq,61,selasa,selasa,67,0.316038,0.316038
+2026-04,freq,62,di_zona,di zona,65,0.306604,0.306604
+2026-04,freq,63,termasuk,termasuk,64,0.301887,0.301887
+2026-04,freq,64,emiten,emiten,63,0.29717,0.29717
+2026-04,freq,65,pekan,pekan,63,0.29717,0.29717
+2026-04,freq,66,tidak_bergerak,tidak bergerak,63,0.29717,0.29717
+2026-04,freq,67,april,april,60,0.283019,0.283019
+2026-04,freq,68,kamis,kamis,60,0.283019,0.283019
+2026-04,freq,69,asing,asing,59,0.278302,0.278302
+2026-04,freq,70,selama,selama,59,0.278302,0.278302
+2026-04,freq,71,adapun,adapun,58,0.273585,0.273585
+2026-04,freq,72,bbri,BBRI,58,0.273585,0.273585
+2026-04,freq,73,harga_minyak,harga minyak,58,0.273585,0.273585
+2026-04,freq,74,negosiasi,negosiasi,58,0.273585,0.273585
+2026-04,freq,75,terjadi,terjadi,58,0.273585,0.273585
+2026-04,freq,76,paling,paling,57,0.268868,0.268868
+2026-04,freq,77,pelaku_pasar,pelaku pasar,57,0.268868,0.268868
+2026-04,freq,78,terbesar,terbesar,57,0.268868,0.268868
+2026-04,freq,79,sejumlah,sejumlah,56,0.264151,0.264151
+2026-04,freq,80,selain_itu,selain itu,56,0.264151,0.264151
+2026-04,khas,1,gencatan_senjata,gencatan senjata,50,0.235849,0.565541
+2026-04,khas,2,kesepakatan,kesepakatan,41,0.193396,0.463743
+2026-04,khas,3,trump,Trump,72,0.339623,0.441266
+2026-04,khas,4,konflik,konflik,49,0.231132,0.394022
+2026-04,khas,5,nasdaq,nasdaq,34,0.160377,0.384567
+2026-04,khas,6,asia,asia,44,0.207547,0.353815
+2026-04,khas,7,infrastruktur,infrastruktur,31,0.146226,0.350635
+2026-04,khas,8,pernyataan,pernyataan,31,0.146226,0.350635
+2026-04,khas,9,presiden_as,presiden as,30,0.141509,0.339324
+2026-04,khas,10,israel,israel,42,0.198113,0.337733
+2026-04,khas,11,militer,militer,29,0.136792,0.328013
+2026-04,khas,12,sesuai,sesuai,28,0.132075,0.316702
+2026-04,khas,13,upaya,upaya,28,0.132075,0.316702
+2026-04,khas,14,korea_selatan,korea selatan,38,0.179245,0.305568
+2026-04,khas,15,minggu,minggu,38,0.179245,0.305568
+2026-04,khas,16,komoditas,komoditas,27,0.127358,0.305391
+2026-04,khas,17,donald_trump,donald trump,49,0.231132,0.300306
+2026-04,khas,18,selat_hormuz,selat hormuz,49,0.231132,0.300306
+2026-04,khas,19,jalur,jalur,36,0.169811,0.289485
+2026-04,khas,20,presiden_donald,presiden donald,25,0.117925,0.282772
+2026-04,khas,21,tren,tren,25,0.117925,0.282772
+2026-04,khas,22,dow_jones,dow jones,46,0.216981,0.28192
+2026-04,khas,23,geopolitik,geopolitik,35,0.165094,0.281444
+2026-04,khas,24,kata,kata,35,0.165094,0.281444
+2026-04,khas,25,jepang,jepang,45,0.212264,0.275791
+2026-04,khas,26,serangan,serangan,34,0.160377,0.273402
+2026-04,khas,27,aksi,aksi,24,0.113208,0.271461
+2026-04,khas,28,intermediate,intermediate,24,0.113208,0.271461
+2026-04,khas,29,net_foreign_sell,net foreign sell,24,0.113208,0.271461
+2026-04,khas,30,rilis,rilis,24,0.113208,0.271461
+2026-04,khas,31,tunai,tunai,24,0.113208,0.271461
+2026-04,khas,32,west_texas,west texas,24,0.113208,0.271461
+2026-04,khas,33,menutup,menutup,44,0.207547,0.269662
+2026-04,khas,34,teheran,teheran,33,0.15566,0.265361
+2026-04,khas,35,mayoritas,mayoritas,23,0.108491,0.26015
+2026-04,khas,36,perang,perang,42,0.198113,0.257405
+2026-04,khas,37,ketidakpastian,ketidakpastian,22,0.103774,0.248839
+2026-04,khas,38,mana,mana,22,0.103774,0.248839
+2026-04,khas,39,pengumuman,pengumuman,30,0.141509,0.241237
+2026-04,khas,40,disampaikan,disampaikan,21,0.099057,0.237528
+2026-04,khas,41,menegaskan,menegaskan,21,0.099057,0.237528
+2026-04,khas,42,mengutip,mengutip,21,0.099057,0.237528
+2026-04,khas,43,terbatas,terbatas,21,0.099057,0.237528
+2026-04,khas,44,zona_merah,zona merah,21,0.099057,0.237528
+2026-04,khas,45,hsc,hsc,20,0.09434,0.226217
+2026-04,khas,46,dampak,dampak,28,0.132075,0.225155
+2026-04,khas,47,terbaru,terbaru,36,0.169811,0.220633
+2026-04,khas,48,cuan,CUAN,19,0.089623,0.214907
+2026-04,khas,49,keluar,keluar,19,0.089623,0.214907
+2026-04,khas,50,proyeksi,proyeksi,19,0.089623,0.214907
+2026-04,khas,51,tak,tak,19,0.089623,0.214907
+2026-04,khas,52,wall_street,wall street,19,0.089623,0.214907
+2026-04,khas,53,luar_negeri,luar negeri,35,0.165094,0.214504
+2026-04,khas,54,pertemuan,pertemuan,26,0.122642,0.209074
+2026-04,khas,55,biaya,biaya,18,0.084906,0.203596
+2026-04,khas,56,cenderung,cenderung,18,0.084906,0.203596
+2026-04,khas,57,faktor,faktor,18,0.084906,0.203596
+2026-04,khas,58,tambahan,tambahan,18,0.084906,0.203596
+2026-04,khas,59,bunga,bunga,25,0.117925,0.201032
+2026-04,khas,60,mengutip_refinitiv,mengutip refinitiv,25,0.117925,0.201032
+2026-04,khas,61,risiko,risiko,25,0.117925,0.201032
+2026-04,khas,62,mengumumkan,mengumumkan,32,0.150943,0.196118
+2026-04,khas,63,target,target,32,0.150943,0.196118
+2026-04,khas,64,arah,arah,24,0.113208,0.192991
+2026-04,khas,65,pertumbuhan_ekonomi,pertumbuhan ekonomi,24,0.113208,0.192991
+2026-04,khas,66,berjalan,berjalan,17,0.080189,0.192285
+2026-04,khas,67,bertambah,bertambah,17,0.080189,0.192285
+2026-04,khas,68,dolar,dolar,17,0.080189,0.192285
+2026-04,khas,69,hampir,hampir,17,0.080189,0.192285
+2026-04,khas,70,keputusan_suku,keputusan suku,17,0.080189,0.192285
+2026-04,khas,71,khususnya,khususnya,17,0.080189,0.192285
+2026-04,khas,72,energi,energi,67,0.316038,0.191562
+2026-04,khas,73,menekan,menekan,31,0.146226,0.189989
+2026-04,khas,74,iran,iran,87,0.410377,0.185484
+2026-04,khas,75,mengenai,mengenai,30,0.141509,0.18386
+2026-04,khas,76,harian,harian,16,0.075472,0.180974
+2026-04,khas,77,kemungkinan,kemungkinan,16,0.075472,0.180974
+2026-04,khas,78,ketegangan,ketegangan,16,0.075472,0.180974
+2026-04,khas,79,menambah,menambah,16,0.075472,0.180974
+2026-04,khas,80,nasional,nasional,16,0.075472,0.180974
+2026-05,freq,1,ihsg,ihsg,219,0.931915,0.931915
+2026-05,freq,2,saham,saham,176,0.748936,0.748936
+2026-05,freq,3,gabungan,gabungan,171,0.72766,0.72766
+2026-05,freq,4,perdagangan,perdagangan,162,0.689362,0.689362
+2026-05,freq,5,indeks_harga_saham,indeks harga saham,161,0.685106,0.685106
+2026-05,freq,6,pasar,pasar,154,0.655319,0.655319
+2026-05,freq,7,ke_level,ke level,153,0.651064,0.651064
+2026-05,freq,8,menjadi,menjadi,143,0.608511,0.608511
+2026-05,freq,9,miliar,miliar,136,0.578723,0.578723
+2026-05,freq,10,triliun,triliun,136,0.578723,0.578723
+2026-05,freq,11,melemah,melemah,133,0.565957,0.565957
+2026-05,freq,12,hingga,hingga,128,0.544681,0.544681
+2026-05,freq,13,pada_perdagangan,pada perdagangan,127,0.540426,0.540426
+2026-05,freq,14,indeks,indeks,126,0.53617,0.53617
+2026-05,freq,15,turun,turun,126,0.53617,0.53617
+2026-05,freq,16,indonesia,indonesia,122,0.519149,0.519149
+2026-05,freq,17,naik,naik,120,0.510638,0.510638
+2026-05,freq,18,cnbc_indonesia,cnbc indonesia,118,0.502128,0.502128
+2026-05,freq,19,hari_ini,hari ini,117,0.497872,0.497872
+2026-05,freq,20,jakarta,jakarta,114,0.485106,0.485106
+2026-05,freq,21,nilai_transaksi,nilai transaksi,114,0.485106,0.485106
+2026-05,freq,22,tersebut,tersebut,114,0.485106,0.485106
+2026-05,freq,23,sebanyak,sebanyak,113,0.480851,0.480851
+2026-05,freq,24,menguat,menguat,110,0.468085,0.468085
+2026-05,freq,25,per,per,110,0.468085,0.468085
+2026-05,freq,26,tekanan,tekanan,109,0.46383,0.46383
+2026-05,freq,27,sementara_itu,sementara itu,106,0.451064,0.451064
+2026-05,freq,28,lebih,lebih,104,0.442553,0.442553
+2026-05,freq,29,tercatat,tercatat,104,0.442553,0.442553
+2026-05,freq,30,mencapai,mencapai,99,0.421277,0.421277
+2026-05,freq,31,msci,MSCI,96,0.408511,0.408511
+2026-05,freq,32,posisi,posisi,92,0.391489,0.391489
+2026-05,freq,33,rupiah,rupiah,90,0.382979,0.382979
+2026-05,freq,34,global,global,87,0.370213,0.370213
+2026-05,freq,35,sebesar,sebesar,86,0.365957,0.365957
+2026-05,freq,36,investor,investor,84,0.357447,0.357447
+2026-05,freq,37,sempat,sempat,84,0.357447,0.357447
+2026-05,freq,38,anjlok,anjlok,82,0.348936,0.348936
+2026-05,freq,39,sebelumnya,sebelumnya,82,0.348936,0.348936
+2026-05,freq,40,pelemahan,pelemahan,81,0.344681,0.344681
+2026-05,freq,41,senin,senin,81,0.344681,0.344681
+2026-05,freq,42,juta_kali,juta kali,80,0.340426,0.340426
+2026-05,freq,43,transaksi,transaksi,80,0.340426,0.340426
+2026-05,freq,44,adapun,adapun,78,0.331915,0.331915
+2026-05,freq,45,di_tengah,di tengah,75,0.319149,0.319149
+2026-05,freq,46,seluruh,seluruh,75,0.319149,0.319149
+2026-05,freq,47,level,level,74,0.314894,0.314894
+2026-05,freq,48,poin,poin,74,0.314894,0.314894
+2026-05,freq,49,rabu,rabu,72,0.306383,0.306383
+2026-05,freq,50,mei,mei,70,0.297872,0.297872
+2026-05,freq,51,sejumlah,sejumlah,70,0.297872,0.297872
+2026-05,freq,52,terjadi,terjadi,70,0.297872,0.297872
+2026-05,freq,53,ditutup,ditutup,69,0.293617,0.293617
+2026-05,freq,54,emiten,emiten,69,0.293617,0.293617
+2026-05,freq,55,terbesar,terbesar,69,0.293617,0.293617
+2026-05,freq,56,utama,utama,69,0.293617,0.293617
+2026-05,freq,57,bergerak,bergerak,67,0.285106,0.285106
+2026-05,freq,58,investor_asing,investor asing,67,0.285106,0.285106
+2026-05,freq,59,baru,baru,66,0.280851,0.280851
+2026-05,freq,60,besar,besar,66,0.280851,0.280851
+2026-05,freq,61,dolar_as,dolar as,66,0.280851,0.280851
+2026-05,freq,62,di_zona,di zona,65,0.276596,0.276596
+2026-05,freq,63,tpia,TPIA,65,0.276596,0.276596
+2026-05,freq,64,awal,awal,64,0.27234,0.27234
+2026-05,freq,65,pelaku_pasar,pelaku pasar,64,0.27234,0.27234
+2026-05,freq,66,selasa,selasa,64,0.27234,0.27234
+2026-05,freq,67,bei,BEI,63,0.268085,0.268085
+2026-05,freq,68,kenaikan,kenaikan,63,0.268085,0.268085
+2026-05,freq,69,penutupan,penutupan,63,0.268085,0.268085
+2026-05,freq,70,sentimen,sentimen,63,0.268085,0.268085
+2026-05,freq,71,pengumuman,pengumuman,62,0.26383,0.26383
+2026-05,freq,72,poin_atau,poin atau,62,0.26383,0.26383
+2026-05,freq,73,bursa_efek_indonesia,bursa efek indonesia,61,0.259574,0.259574
+2026-05,freq,74,dibuka,dibuka,61,0.259574,0.259574
+2026-05,freq,75,pergerakan,pergerakan,59,0.251064,0.251064
+2026-05,freq,76,selain_itu,selain itu,59,0.251064,0.251064
+2026-05,freq,77,domestik,domestik,58,0.246809,0.246809
+2026-05,freq,78,dssa,DSSA,57,0.242553,0.242553
+2026-05,freq,79,sektor,sektor,57,0.242553,0.242553
+2026-05,freq,80,terkait,terkait,57,0.242553,0.242553
+2026-05,khas,1,keluar,keluar,49,0.208511,0.499988
+2026-05,khas,2,pengumuman,pengumuman,62,0.26383,0.449764
+2026-05,khas,3,cuan,CUAN,39,0.165957,0.397948
+2026-05,khas,4,index,index,35,0.148936,0.357133
+2026-05,khas,5,upaya,upaya,33,0.140426,0.336727
+2026-05,khas,6,mayoritas,mayoritas,31,0.131915,0.316318
+2026-05,khas,7,mana,mana,29,0.123404,0.29591
+2026-05,khas,8,zona_merah,zona merah,29,0.123404,0.29591
+2026-05,khas,9,ambruk,ambruk,53,0.225532,0.29303
+2026-05,khas,10,komoditas,komoditas,27,0.114894,0.275504
+2026-05,khas,11,kontribusi,kontribusi,26,0.110638,0.265298
+2026-05,khas,12,dampak,dampak,36,0.153191,0.261152
+2026-05,khas,13,bank,BANK,25,0.106383,0.255095
+2026-05,khas,14,aturan,aturan,24,0.102128,0.244892
+2026-05,khas,15,faktor,faktor,24,0.102128,0.244892
+2026-05,khas,16,mengeluarkan,mengeluarkan,24,0.102128,0.244892
+2026-05,khas,17,cenderung,cenderung,23,0.097872,0.234687
+2026-05,khas,18,tunai,tunai,23,0.097872,0.234687
+2026-05,khas,19,menekan,menekan,41,0.174468,0.226683
+2026-05,khas,20,bergerak_stagnan,bergerak stagnan,31,0.131915,0.224882
+2026-05,khas,21,bobot,bobot,22,0.093617,0.224484
+2026-05,khas,22,hsc,hsc,22,0.093617,0.224484
+2026-05,khas,23,teknologi,teknologi,22,0.093617,0.224484
+2026-05,khas,24,tren,tren,22,0.093617,0.224484
+2026-05,khas,25,tpia,TPIA,65,0.276596,0.218084
+2026-05,khas,26,menegaskan,menegaskan,21,0.089362,0.214281
+2026-05,khas,27,nyaris,nyaris,21,0.089362,0.214281
+2026-05,khas,28,otoritas,otoritas,21,0.089362,0.214281
+2026-05,khas,29,penekan,penekan,21,0.089362,0.214281
+2026-05,khas,30,presiden_as,presiden as,21,0.089362,0.214281
+2026-05,khas,31,melihat,melihat,29,0.123404,0.210373
+2026-05,khas,32,ekspor,ekspor,37,0.157447,0.204568
+2026-05,khas,33,frekuensi,frekuensi,20,0.085106,0.204075
+2026-05,khas,34,korea_selatan,korea selatan,28,0.119149,0.203119
+2026-05,khas,35,merosot,merosot,27,0.114894,0.195865
+2026-05,khas,36,harian,harian,19,0.080851,0.193872
+2026-05,khas,37,rentang,rentang,19,0.080851,0.193872
+2026-05,khas,38,dolar,dolar,18,0.076596,0.183669
+2026-05,khas,39,menghadapi,menghadapi,18,0.076596,0.183669
+2026-05,khas,40,kata,kata,25,0.106383,0.181356
+2026-05,khas,41,asii,ASII,32,0.13617,0.176923
+2026-05,khas,42,modal,modal,24,0.102128,0.174103
+2026-05,khas,43,bi,BI,17,0.07234,0.173464
+2026-05,khas,44,nasdaq,nasdaq,17,0.07234,0.173464
+2026-05,khas,45,selat_hormuz,selat hormuz,31,0.131915,0.171395
+2026-05,khas,46,bumi,BUMI,23,0.097872,0.166847
+2026-05,khas,47,berjalan,berjalan,16,0.068085,0.163261
+2026-05,khas,48,internasional,internasional,16,0.068085,0.163261
+2026-05,khas,49,net_foreign_sell,net foreign sell,16,0.068085,0.163261
+2026-05,khas,50,sesuai,sesuai,16,0.068085,0.163261
+2026-05,khas,51,arah,arah,22,0.093617,0.159593
+2026-05,khas,52,tertekan,tertekan,37,0.157447,0.159274
+2026-05,khas,53,tajam,tajam,28,0.119149,0.154808
+2026-05,khas,54,periode,periode,46,0.195745,0.154337
+2026-05,khas,55,infrastruktur,infrastruktur,15,0.06383,0.153058
+2026-05,khas,56,sell,sell,15,0.06383,0.153058
+2026-05,khas,57,dssa,DSSA,57,0.242553,0.14702
+2026-05,khas,58,free_float,free float,20,0.085106,0.145084
+2026-05,khas,59,pertumbuhan_ekonomi,pertumbuhan ekonomi,20,0.085106,0.145084
+2026-05,khas,60,mengumumkan,mengumumkan,26,0.110638,0.14375
+2026-05,khas,61,tumbuh,tumbuh,26,0.110638,0.14375
+2026-05,khas,62,danantara,Danantara,14,0.059574,0.142852
+2026-05,khas,63,kapal,kapal,14,0.059574,0.142852
+2026-05,khas,64,kesepakatan,kesepakatan,14,0.059574,0.142852
+2026-05,khas,65,ketidakpastian,ketidakpastian,14,0.059574,0.142852
+2026-05,khas,66,mengutip,mengutip,14,0.059574,0.142852
+2026-05,khas,67,nasional,nasional,14,0.059574,0.142852
+2026-05,khas,68,regulator,regulator,14,0.059574,0.142852
+2026-05,khas,69,volatilitas,volatilitas,14,0.059574,0.142852
+2026-05,khas,70,semakin,semakin,33,0.140426,0.142055
+2026-05,khas,71,koreksi,koreksi,55,0.234043,0.141862
+2026-05,khas,72,dilakukan,dilakukan,42,0.178723,0.140915
+2026-05,khas,73,buy,buy,25,0.106383,0.138222
+2026-05,khas,74,mengutip_refinitiv,mengutip refinitiv,19,0.080851,0.137831
+2026-05,khas,75,terlihat,terlihat,19,0.080851,0.137831
+2026-05,khas,76,ojk,OJK,32,0.13617,0.13775
+2026-05,khas,77,bren,BREN,53,0.225532,0.136703
+2026-05,khas,78,perubahan,perubahan,31,0.131915,0.133445
+2026-05,khas,79,lainnya,lainnya,24,0.102128,0.132693
+2026-05,khas,80,aksi,aksi,13,0.055319,0.132649
+2026-06,freq,1,ihsg,ihsg,249,0.889286,0.889286
+2026-06,freq,2,gabungan,gabungan,216,0.771429,0.771429
+2026-06,freq,3,saham,saham,213,0.760714,0.760714
+2026-06,freq,4,indeks_harga_saham,indeks harga saham,211,0.753571,0.753571
+2026-06,freq,5,perdagangan,perdagangan,210,0.75,0.75
+2026-06,freq,6,pasar,pasar,209,0.746429,0.746429
+2026-06,freq,7,ke_level,ke level,191,0.682143,0.682143
+2026-06,freq,8,menjadi,menjadi,186,0.664286,0.664286
+2026-06,freq,9,triliun,triliun,182,0.65,0.65
+2026-06,freq,10,miliar,miliar,181,0.646429,0.646429
+2026-06,freq,11,menguat,menguat,169,0.603571,0.603571
+2026-06,freq,12,hingga,hingga,163,0.582143,0.582143
+2026-06,freq,13,turun,turun,161,0.575,0.575
+2026-06,freq,14,pada_perdagangan,pada perdagangan,159,0.567857,0.567857
+2026-06,freq,15,indonesia,indonesia,158,0.564286,0.564286
+2026-06,freq,16,tersebut,tersebut,156,0.557143,0.557143
+2026-06,freq,17,sebanyak,sebanyak,147,0.525,0.525
+2026-06,freq,18,indeks,indeks,145,0.517857,0.517857
+2026-06,freq,19,nilai_transaksi,nilai transaksi,145,0.517857,0.517857
+2026-06,freq,20,cnbc_indonesia,cnbc indonesia,142,0.507143,0.507143
+2026-06,freq,21,sebesar,sebesar,139,0.496429,0.496429
+2026-06,freq,22,naik,naik,137,0.489286,0.489286
+2026-06,freq,23,melemah,melemah,136,0.485714,0.485714
+2026-06,freq,24,jakarta,jakarta,135,0.482143,0.482143
+2026-06,freq,25,tercatat,tercatat,134,0.478571,0.478571
+2026-06,freq,26,mencapai,mencapai,132,0.471429,0.471429
+2026-06,freq,27,rupiah,rupiah,132,0.471429,0.471429
+2026-06,freq,28,hari_ini,hari ini,131,0.467857,0.467857
+2026-06,freq,29,lebih,lebih,127,0.453571,0.453571
+2026-06,freq,30,investor,investor,125,0.446429,0.446429
+2026-06,freq,31,sementara_itu,sementara itu,125,0.446429,0.446429
+2026-06,freq,32,posisi,posisi,122,0.435714,0.435714
+2026-06,freq,33,sebelumnya,sebelumnya,122,0.435714,0.435714
+2026-06,freq,34,level,level,121,0.432143,0.432143
+2026-06,freq,35,seluruh,seluruh,119,0.425,0.425
+2026-06,freq,36,utama,utama,117,0.417857,0.417857
+2026-06,freq,37,global,global,116,0.414286,0.414286
+2026-06,freq,38,tekanan,tekanan,111,0.396429,0.396429
+2026-06,freq,39,per,per,109,0.389286,0.389286
+2026-06,freq,40,di_tengah,di tengah,108,0.385714,0.385714
+2026-06,freq,41,investor_asing,investor asing,108,0.385714,0.385714
+2026-06,freq,42,berada_di,berada di,107,0.382143,0.382143
+2026-06,freq,43,terjadi,terjadi,107,0.382143,0.382143
+2026-06,freq,44,bbri,BBRI,106,0.378571,0.378571
+2026-06,freq,45,transaksi,transaksi,105,0.375,0.375
+2026-06,freq,46,poin,poin,103,0.367857,0.367857
+2026-06,freq,47,emiten,emiten,102,0.364286,0.364286
+2026-06,freq,48,ditutup,ditutup,97,0.346429,0.346429
+2026-06,freq,49,sejumlah,sejumlah,97,0.346429,0.346429
+2026-06,freq,50,bbca,BBCA,96,0.342857,0.342857
+2026-06,freq,51,kenaikan,kenaikan,95,0.339286,0.339286
+2026-06,freq,52,asing,asing,94,0.335714,0.335714
+2026-06,freq,53,domestik,domestik,93,0.332143,0.332143
+2026-06,freq,54,sepanjang,sepanjang,91,0.325,0.325
+2026-06,freq,55,bergerak,bergerak,90,0.321429,0.321429
+2026-06,freq,56,di_zona,di zona,89,0.317857,0.317857
+2026-06,freq,57,tahun,tahun,89,0.317857,0.317857
+2026-06,freq,58,dengan_volume,dengan volume,88,0.314286,0.314286
+2026-06,freq,59,dolar_as,dolar as,88,0.314286,0.314286
+2026-06,freq,60,adapun,adapun,87,0.310714,0.310714
+2026-06,freq,61,juni,juni,87,0.310714,0.310714
+2026-06,freq,62,besar,besar,86,0.307143,0.307143
+2026-06,freq,63,bmri,BMRI,86,0.307143,0.307143
+2026-06,freq,64,juta_kali,juta kali,86,0.307143,0.307143
+2026-06,freq,65,pergerakan,pergerakan,85,0.303571,0.303571
+2026-06,freq,66,rabu,rabu,85,0.303571,0.303571
+2026-06,freq,67,pasar_keuangan,pasar keuangan,83,0.296429,0.296429
+2026-06,freq,68,selasa,selasa,83,0.296429,0.296429
+2026-06,freq,69,mulai,mulai,81,0.289286,0.289286
+2026-06,freq,70,pelemahan,pelemahan,81,0.289286,0.289286
+2026-06,freq,71,penutupan,penutupan,81,0.289286,0.289286
+2026-06,freq,72,anjlok,anjlok,79,0.282143,0.282143
+2026-06,freq,73,awal,awal,79,0.282143,0.282143
+2026-06,freq,74,pelaku_pasar,pelaku pasar,78,0.278571,0.278571
+2026-06,freq,75,sempat,sempat,78,0.278571,0.278571
+2026-06,freq,76,dibuka,dibuka,77,0.275,0.275
+2026-06,freq,77,selain_itu,selain itu,77,0.275,0.275
+2026-06,freq,78,hari,hari,76,0.271429,0.271429
+2026-06,freq,79,penguatan,penguatan,75,0.267857,0.267857
+2026-06,freq,80,sesi,sesi,75,0.267857,0.267857
+2026-06,khas,1,bergerak_stagnan,bergerak stagnan,70,0.25,0.426187
+2026-06,khas,2,komoditas,komoditas,48,0.171429,0.411069
+2026-06,khas,3,bank,BANK,44,0.157143,0.376812
+2026-06,khas,4,mayoritas,mayoritas,43,0.153571,0.368247
+2026-06,khas,5,nasional,nasional,42,0.15,0.359684
+2026-06,khas,6,tunai,tunai,41,0.146429,0.351121
+2026-06,khas,7,menegaskan,menegaskan,40,0.142857,0.342556
+2026-06,khas,8,sell,sell,38,0.135714,0.325428
+2026-06,khas,9,upaya,upaya,37,0.132143,0.316865
+2026-06,khas,10,bbni,BBNI,36,0.128571,0.3083
+2026-06,khas,11,senilai,senilai,47,0.167857,0.286154
+2026-06,khas,12,net_sell,net sell,46,0.164286,0.280066
+2026-06,khas,13,tajam,tajam,60,0.214286,0.278418
+2026-06,khas,14,aset,aset,32,0.114286,0.274046
+2026-06,khas,15,emerging_market,emerging market,32,0.114286,0.274046
+2026-06,khas,16,tren,tren,32,0.114286,0.274046
+2026-06,khas,17,presiden_as,presiden as,31,0.110714,0.265481
+2026-06,khas,18,situasi,situasi,29,0.103571,0.248352
+2026-06,khas,19,zona_merah,zona merah,29,0.103571,0.248352
+2026-06,khas,20,keluar,keluar,28,0.1,0.23979
+2026-06,khas,21,memasuki,memasuki,28,0.1,0.23979
+2026-06,khas,22,pertemuan,pertemuan,39,0.139286,0.237448
+2026-06,khas,23,mana,mana,26,0.092857,0.222661
+2026-06,khas,24,sama,sama,36,0.128571,0.219181
+2026-06,khas,25,hampir,hampir,25,0.089286,0.214098
+2026-06,khas,26,net_foreign_sell,net foreign sell,25,0.089286,0.214098
+2026-06,khas,27,eksternal,eksternal,35,0.125,0.213094
+2026-06,khas,28,geopolitik,geopolitik,35,0.125,0.213094
+2026-06,khas,29,kata,kata,35,0.125,0.213094
+2026-06,khas,30,berjalan,berjalan,24,0.085714,0.205533
+2026-06,khas,31,rentang,rentang,24,0.085714,0.205533
+2026-06,khas,32,aksi_jual,aksi jual,44,0.157143,0.204173
+2026-06,khas,33,dinamika,dinamika,33,0.117857,0.200916
+2026-06,khas,34,merosot,merosot,33,0.117857,0.200916
+2026-06,khas,35,target,target,43,0.153571,0.199532
+2026-06,khas,36,dolar,dolar,23,0.082143,0.19697
+2026-06,khas,37,infrastruktur,infrastruktur,23,0.082143,0.19697
+2026-06,khas,38,kesepakatan,kesepakatan,23,0.082143,0.19697
+2026-06,khas,39,ketidakpastian,ketidakpastian,23,0.082143,0.19697
+2026-06,khas,40,teknologi,teknologi,23,0.082143,0.19697
+2026-06,khas,41,volatilitas,volatilitas,23,0.082143,0.19697
+2026-06,khas,42,asia,asia,32,0.114286,0.194829
+2026-06,khas,43,korea_selatan,korea selatan,32,0.114286,0.194829
+2026-06,khas,44,prospek,prospek,32,0.114286,0.194829
+2026-06,khas,45,modal,modal,31,0.110714,0.188739
+2026-06,khas,46,khususnya,khususnya,22,0.078571,0.188405
+2026-06,khas,47,kontribusi,kontribusi,22,0.078571,0.188405
+2026-06,khas,48,laporan,laporan,22,0.078571,0.188405
+2026-06,khas,49,lima,lima,22,0.078571,0.188405
+2026-06,khas,50,terendah,terendah,52,0.185714,0.187868
+2026-06,khas,51,dana,dana,30,0.107143,0.182652
+2026-06,khas,52,menyumbang,menyumbang,21,0.075,0.179842
+2026-06,khas,53,nasdaq,nasdaq,21,0.075,0.179842
+2026-06,khas,54,terlihat,terlihat,29,0.103571,0.176562
+2026-06,khas,55,terdapat,terdapat,38,0.135714,0.176331
+2026-06,khas,56,faktor,faktor,20,0.071429,0.171279
+2026-06,khas,57,nyaris,nyaris,20,0.071429,0.171279
+2026-06,khas,58,sesuai,sesuai,20,0.071429,0.171279
+2026-06,khas,59,arah,arah,28,0.1,0.170475
+2026-06,khas,60,lainnya,lainnya,36,0.128571,0.16705
+2026-06,khas,61,pengumuman,pengumuman,27,0.096429,0.164387
+2026-06,khas,62,acuan,acuan,19,0.067857,0.162714
+2026-06,khas,63,aksi,aksi,19,0.067857,0.162714
+2026-06,khas,64,mengutip,mengutip,19,0.067857,0.162714
+2026-06,khas,65,stabil,stabil,19,0.067857,0.162714
+2026-06,khas,66,wall_street,wall street,19,0.067857,0.162714
+2026-06,khas,67,kekhawatiran,kekhawatiran,35,0.125,0.16241
+2026-06,khas,68,tlkm,TLKM,57,0.203571,0.160507
+2026-06,khas,69,fundamental,fundamental,26,0.092857,0.158298
+2026-06,khas,70,koreksi,koreksi,73,0.260714,0.158028
+2026-06,khas,71,ambruk,ambruk,34,0.121429,0.157771
+2026-06,khas,72,donald_trump,donald trump,34,0.121429,0.157771
+2026-06,khas,73,the_fed,The Fed,34,0.121429,0.157771
+2026-06,khas,74,positif,positif,55,0.196429,0.154876
+2026-06,khas,75,bobot,bobot,18,0.064286,0.154151
+2026-06,khas,76,gencatan_senjata,gencatan senjata,18,0.064286,0.154151
+2026-06,khas,77,investor_global,investor global,18,0.064286,0.154151
+2026-06,khas,78,net_buy,net buy,18,0.064286,0.154151
+2026-06,khas,79,rapat,rapat,18,0.064286,0.154151
+2026-06,khas,80,tertinggi_sejak,tertinggi sejak,18,0.064286,0.154151
+2026-07,freq,1,ihsg,ihsg,221,0.894737,0.894737
+2026-07,freq,2,gabungan,gabungan,203,0.821862,0.821862
+2026-07,freq,3,indeks_harga_saham,indeks harga saham,196,0.793522,0.793522
+2026-07,freq,4,saham,saham,195,0.789474,0.789474
+2026-07,freq,5,pasar,pasar,192,0.777328,0.777328
+2026-07,freq,6,perdagangan,perdagangan,188,0.761134,0.761134
+2026-07,freq,7,ke_level,ke level,181,0.732794,0.732794
+2026-07,freq,8,miliar,miliar,176,0.712551,0.712551
+2026-07,freq,9,triliun,triliun,167,0.676113,0.676113
+2026-07,freq,10,menjadi,menjadi,159,0.643725,0.643725
+2026-07,freq,11,pada_perdagangan,pada perdagangan,158,0.639676,0.639676
+2026-07,freq,12,menguat,menguat,151,0.611336,0.611336
+2026-07,freq,13,nilai_transaksi,nilai transaksi,149,0.603239,0.603239
+2026-07,freq,14,melemah,melemah,145,0.587045,0.587045
+2026-07,freq,15,hingga,hingga,143,0.578947,0.578947
+2026-07,freq,16,naik,naik,140,0.566802,0.566802
+2026-07,freq,17,sebanyak,sebanyak,140,0.566802,0.566802
+2026-07,freq,18,sebesar,sebesar,139,0.562753,0.562753
+2026-07,freq,19,indeks,indeks,138,0.558704,0.558704
+2026-07,freq,20,sementara_itu,sementara itu,134,0.54251,0.54251
+2026-07,freq,21,tersebut,tersebut,130,0.526316,0.526316
+2026-07,freq,22,mencapai,mencapai,125,0.506073,0.506073
+2026-07,freq,23,turun,turun,119,0.481781,0.481781
+2026-07,freq,24,level,level,117,0.473684,0.473684
+2026-07,freq,25,seluruh,seluruh,117,0.473684,0.473684
+2026-07,freq,26,cnbc_indonesia,cnbc indonesia,113,0.45749,0.45749
+2026-07,freq,27,transaksi,transaksi,112,0.453441,0.453441
+2026-07,freq,28,investor_asing,investor asing,110,0.445344,0.445344
+2026-07,freq,29,sebelumnya,sebelumnya,110,0.445344,0.445344
+2026-07,freq,30,hari_ini,hari ini,109,0.441296,0.441296
+2026-07,freq,31,indonesia,indonesia,107,0.433198,0.433198
+2026-07,freq,32,jakarta,jakarta,105,0.425101,0.425101
+2026-07,freq,33,lebih,lebih,105,0.425101,0.425101
+2026-07,freq,34,kenaikan,kenaikan,101,0.408907,0.408907
+2026-07,freq,35,di_tengah,di tengah,98,0.396761,0.396761
+2026-07,freq,36,global,global,97,0.392713,0.392713
+2026-07,freq,37,ditutup,ditutup,96,0.388664,0.388664
+2026-07,freq,38,tercatat,tercatat,92,0.37247,0.37247
+2026-07,freq,39,investor,investor,91,0.368421,0.368421
+2026-07,freq,40,bergerak,bergerak,88,0.356275,0.356275
+2026-07,freq,41,bmri,BMRI,88,0.356275,0.356275
+2026-07,freq,42,hari,hari,88,0.356275,0.356275
+2026-07,freq,43,bbca,BBCA,86,0.348178,0.348178
+2026-07,freq,44,bbri,BBRI,86,0.348178,0.348178
+2026-07,freq,45,di_zona,di zona,86,0.348178,0.348178
+2026-07,freq,46,sektor,sektor,86,0.348178,0.348178
+2026-07,freq,47,dengan_volume,dengan volume,85,0.34413,0.34413
+2026-07,freq,48,juta_kali,juta kali,85,0.34413,0.34413
+2026-07,freq,49,per,per,85,0.34413,0.34413
+2026-07,freq,50,berada_di,berada di,84,0.340081,0.340081
+2026-07,freq,51,bursa_efek_indonesia,bursa efek indonesia,84,0.340081,0.340081
+2026-07,freq,52,emiten,emiten,83,0.336032,0.336032
+2026-07,freq,53,pelaku_pasar,pelaku pasar,82,0.331984,0.331984
+2026-07,freq,54,sejumlah,sejumlah,82,0.331984,0.331984
+2026-07,freq,55,asing,asing,80,0.323887,0.323887
+2026-07,freq,56,utama,utama,80,0.323887,0.323887
+2026-07,freq,57,sepanjang,sepanjang,79,0.319838,0.319838
+2026-07,freq,58,poin_atau,poin atau,78,0.315789,0.315789
+2026-07,freq,59,terjadi,terjadi,78,0.315789,0.315789
+2026-07,freq,60,penguatan,penguatan,77,0.311741,0.311741
+2026-07,freq,61,poin,poin,77,0.311741,0.311741
+2026-07,freq,62,tekanan,tekanan,77,0.311741,0.311741
+2026-07,freq,63,terbesar,terbesar,76,0.307692,0.307692
+2026-07,freq,64,bei,BEI,71,0.287449,0.287449
+2026-07,freq,65,amerika_serikat,amerika serikat,70,0.283401,0.283401
+2026-07,freq,66,rupiah,rupiah,70,0.283401,0.283401
+2026-07,freq,67,ammn,AMMN,68,0.275304,0.275304
+2026-07,freq,68,rabu,rabu,67,0.271255,0.271255
+2026-07,freq,69,sisi_lain,sisi lain,67,0.271255,0.271255
+2026-07,freq,70,stagnan,stagnan,67,0.271255,0.271255
+2026-07,freq,71,kamis,kamis,66,0.267206,0.267206
+2026-07,freq,72,nilai,nilai,65,0.263158,0.263158
+2026-07,freq,73,pasar_reguler,pasar reguler,65,0.263158,0.263158
+2026-07,freq,74,pelemahan,pelemahan,65,0.263158,0.263158
+2026-07,freq,75,pergerakan,pergerakan,65,0.263158,0.263158
+2026-07,freq,76,dari_sisi,dari sisi,64,0.259109,0.259109
+2026-07,freq,77,mulai,mulai,64,0.259109,0.259109
+2026-07,freq,78,baru,baru,63,0.255061,0.255061
+2026-07,freq,79,pasar_keuangan,pasar keuangan,63,0.255061,0.255061
+2026-07,freq,80,turut,turut,63,0.255061,0.255061
+2026-07,khas,1,net_foreign_sell,net foreign sell,46,0.186235,0.446572
+2026-07,khas,2,bergerak_stagnan,bergerak stagnan,61,0.246964,0.421011
+2026-07,khas,3,teknologi,teknologi,42,0.17004,0.407738
+2026-07,khas,4,senilai,senilai,50,0.202429,0.34509
+2026-07,khas,5,bank,BANK,35,0.1417,0.339782
+2026-07,khas,6,bbni,BBNI,35,0.1417,0.339782
+2026-07,khas,7,tunai,tunai,35,0.1417,0.339782
+2026-07,khas,8,nyaris,nyaris,32,0.129555,0.310659
+2026-07,khas,9,bi,BI,31,0.125506,0.30095
+2026-07,khas,10,hampir,hampir,30,0.121457,0.291241
+2026-07,khas,11,prospek,prospek,39,0.157895,0.269171
+2026-07,khas,12,bunga,bunga,37,0.149798,0.255368
+2026-07,khas,13,internasional,internasional,26,0.105263,0.25241
+2026-07,khas,14,mayoritas,mayoritas,26,0.105263,0.25241
+2026-07,khas,15,eksternal,eksternal,36,0.145749,0.248465
+2026-07,khas,16,asii,ASII,47,0.190283,0.247231
+2026-07,khas,17,aksi,aksi,25,0.101215,0.242703
+2026-07,khas,18,bertambah,bertambah,25,0.101215,0.242703
+2026-07,khas,19,net_buy,net buy,25,0.101215,0.242703
+2026-07,khas,20,buy,buy,46,0.186235,0.241972
+2026-07,khas,21,terdapat,terdapat,46,0.186235,0.241972
+2026-07,khas,22,dana,dana,35,0.1417,0.241563
+2026-07,khas,23,faktor,faktor,24,0.097166,0.232994
+2026-07,khas,24,kontribusi,kontribusi,24,0.097166,0.232994
+2026-07,khas,25,pembelian_bersih,pembelian bersih,24,0.097166,0.232994
+2026-07,khas,26,membukukan,membukukan,55,0.222672,0.225255
+2026-07,khas,27,nasdaq,nasdaq,23,0.093117,0.223285
+2026-07,khas,28,bank_indonesia,Bank Indonesia,54,0.218623,0.221159
+2026-07,khas,29,bank_sentral,bank sentral,42,0.17004,0.22093
+2026-07,khas,30,bumi,BUMI,31,0.125506,0.213956
+2026-07,khas,31,konflik,konflik,31,0.125506,0.213956
+2026-07,khas,32,stagnan,stagnan,67,0.271255,0.213873
+2026-07,khas,33,bertahan,bertahan,22,0.089069,0.213578
+2026-07,khas,34,moneter,moneter,22,0.089069,0.213578
+2026-07,khas,35,rentang,rentang,22,0.089069,0.213578
+2026-07,khas,36,volatilitas,volatilitas,22,0.089069,0.213578
+2026-07,khas,37,zona_merah,zona merah,22,0.089069,0.213578
+2026-07,khas,38,modal,modal,30,0.121457,0.207054
+2026-07,khas,39,net_sell,net sell,30,0.121457,0.207054
+2026-07,khas,40,komoditas,komoditas,21,0.08502,0.203869
+2026-07,khas,41,mengutip_refinitiv,mengutip refinitiv,29,0.117409,0.200153
+2026-07,khas,42,aksi_jual,aksi jual,38,0.153846,0.199889
+2026-07,khas,43,cuan,CUAN,20,0.080972,0.194162
+2026-07,khas,44,harian,harian,20,0.080972,0.194162
+2026-07,khas,45,khususnya,khususnya,20,0.080972,0.194162
+2026-07,khas,46,menegaskan,menegaskan,20,0.080972,0.194162
+2026-07,khas,47,rilis,rilis,20,0.080972,0.194162
+2026-07,khas,48,nasional,nasional,19,0.076923,0.184453
+2026-07,khas,49,tlkm,TLKM,57,0.230769,0.181952
+2026-07,khas,50,bisnis,bisnis,18,0.072874,0.174744
+2026-07,khas,51,memasuki,memasuki,18,0.072874,0.174744
+2026-07,khas,52,proyeksi,proyeksi,18,0.072874,0.174744
+2026-07,khas,53,stabil,stabil,18,0.072874,0.174744
+2026-07,khas,54,aktivitas,aktivitas,33,0.133603,0.173588
+2026-07,khas,55,disusul,disusul,53,0.214575,0.169183
+2026-07,khas,56,dow_jones,dow jones,32,0.129555,0.168329
+2026-07,khas,57,korea_selatan,korea selatan,24,0.097166,0.165644
+2026-07,khas,58,terlihat,terlihat,24,0.097166,0.165644
+2026-07,khas,59,ekspektasi,ekspektasi,17,0.068826,0.165038
+2026-07,khas,60,federal_reserve,Federal Reserve,17,0.068826,0.165038
+2026-07,khas,61,mengutip,mengutip,17,0.068826,0.165038
+2026-07,khas,62,sell,sell,17,0.068826,0.165038
+2026-07,khas,63,brms,BRMS,40,0.161943,0.163822
+2026-07,khas,64,jepang,jepang,31,0.125506,0.163068
+2026-07,khas,65,suku_bunga,suku bunga,51,0.206478,0.162799
+2026-07,khas,66,industri,industri,23,0.093117,0.158741
+2026-07,khas,67,china,china,30,0.121457,0.157807
+2026-07,khas,68,acuan,acuan,16,0.064777,0.155328
+2026-07,khas,69,aset,aset,16,0.064777,0.155328
+2026-07,khas,70,berjalan,berjalan,16,0.064777,0.155328
+2026-07,khas,71,ketegangan,ketegangan,16,0.064777,0.155328
+2026-07,khas,72,menyumbang,menyumbang,16,0.064777,0.155328
+2026-07,khas,73,tren,tren,16,0.064777,0.155328
+2026-07,khas,74,upaya,upaya,16,0.064777,0.155328
+2026-07,khas,75,lainnya,lainnya,29,0.117409,0.152548
+2026-07,khas,76,the_fed,The Fed,29,0.117409,0.152548
+2026-07,khas,77,dolar,dolar,15,0.060729,0.145622
+2026-07,khas,78,keluar,keluar,15,0.060729,0.145622
+2026-07,khas,79,keputusan_suku,keputusan suku,15,0.060729,0.145622
+2026-07,khas,80,sesuai,sesuai,15,0.060729,0.145622
+2026-08,freq,1,ihsg,ihsg,180,0.8867,0.8867
+2026-08,freq,2,menguat,menguat,165,0.812808,0.812808
+2026-08,freq,3,perdagangan,perdagangan,157,0.773399,0.773399
+2026-08,freq,4,gabungan,gabungan,153,0.753695,0.753695
+2026-08,freq,5,saham,saham,151,0.743842,0.743842
+2026-08,freq,6,indeks_harga_saham,indeks harga saham,148,0.729064,0.729064
+2026-08,freq,7,miliar,miliar,145,0.714286,0.714286
+2026-08,freq,8,pasar,pasar,139,0.684729,0.684729
+2026-08,freq,9,ke_level,ke level,138,0.679803,0.679803
+2026-08,freq,10,melemah,melemah,136,0.669951,0.669951
+2026-08,freq,11,pada_perdagangan,pada perdagangan,136,0.669951,0.669951
+2026-08,freq,12,triliun,triliun,133,0.655172,0.655172
+2026-08,freq,13,menjadi,menjadi,132,0.650246,0.650246
+2026-08,freq,14,level,level,123,0.605911,0.605911
+2026-08,freq,15,sebesar,sebesar,115,0.566502,0.566502
+2026-08,freq,16,tersebut,tersebut,114,0.561576,0.561576
+2026-08,freq,17,indeks,indeks,113,0.55665,0.55665
+2026-08,freq,18,nilai_transaksi,nilai transaksi,110,0.541872,0.541872
+2026-08,freq,19,mencapai,mencapai,109,0.536946,0.536946
+2026-08,freq,20,cnbc_indonesia,cnbc indonesia,108,0.53202,0.53202
+2026-08,freq,21,tercatat,tercatat,104,0.512315,0.512315
+2026-08,freq,22,berdasarkan_data,berdasarkan data,103,0.507389,0.507389
+2026-08,freq,23,investor_asing,investor asing,99,0.487685,0.487685
+2026-08,freq,24,sejumlah,sejumlah,98,0.482759,0.482759
+2026-08,freq,25,hingga,hingga,97,0.477833,0.477833
+2026-08,freq,26,naik,naik,97,0.477833,0.477833
+2026-08,freq,27,sebelumnya,sebelumnya,96,0.472906,0.472906
+2026-08,freq,28,sementara_itu,sementara itu,94,0.463054,0.463054
+2026-08,freq,29,sebanyak,sebanyak,93,0.458128,0.458128
+2026-08,freq,30,hari_ini,hari ini,91,0.448276,0.448276
+2026-08,freq,31,berada_di,berada di,86,0.423645,0.423645
+2026-08,freq,32,per,per,86,0.423645,0.423645
+2026-08,freq,33,seluruh,seluruh,83,0.408867,0.408867
+2026-08,freq,34,turun,turun,83,0.408867,0.408867
+2026-08,freq,35,bursa_efek_indonesia,bursa efek indonesia,81,0.399015,0.399015
+2026-08,freq,36,indonesia,indonesia,81,0.399015,0.399015
+2026-08,freq,37,transaksi,transaksi,80,0.394089,0.394089
+2026-08,freq,38,bei,BEI,75,0.369458,0.369458
+2026-08,freq,39,ditutup,ditutup,75,0.369458,0.369458
+2026-08,freq,40,asing,asing,74,0.364532,0.364532
+2026-08,freq,41,bbca,BBCA,74,0.364532,0.364532
+2026-08,freq,42,bergerak,bergerak,74,0.364532,0.364532
+2026-08,freq,43,poin_atau,poin atau,74,0.364532,0.364532
+2026-08,freq,44,terbesar,terbesar,74,0.364532,0.364532
+2026-08,freq,45,jakarta,jakarta,73,0.359606,0.359606
+2026-08,freq,46,penutupan,penutupan,72,0.35468,0.35468
+2026-08,freq,47,pukul,pukul,72,0.35468,0.35468
+2026-08,freq,48,wib,wib,72,0.35468,0.35468
+2026-08,freq,49,dengan_volume,dengan volume,70,0.344828,0.344828
+2026-08,freq,50,posisi,posisi,70,0.344828,0.344828
+2026-08,freq,51,di_tengah,di tengah,69,0.339901,0.339901
+2026-08,freq,52,di_zona,di zona,69,0.339901,0.339901
+2026-08,freq,53,global,global,69,0.339901,0.339901
+2026-08,freq,54,juta_kali,juta kali,69,0.339901,0.339901
+2026-08,freq,55,pergerakan,pergerakan,68,0.334975,0.334975
+2026-08,freq,56,terkoreksi,terkoreksi,67,0.330049,0.330049
+2026-08,freq,57,agustus,agustus,66,0.325123,0.325123
+2026-08,freq,58,dibuka,dibuka,66,0.325123,0.325123
+2026-08,freq,59,investor,investor,66,0.325123,0.325123
+2026-08,freq,60,bbri,BBRI,65,0.320197,0.320197
+2026-08,freq,61,sentimen,sentimen,64,0.315271,0.315271
+2026-08,freq,62,sisi_lain,sisi lain,64,0.315271,0.315271
+2026-08,freq,63,lebih,lebih,63,0.310345,0.310345
+2026-08,freq,64,sektor,sektor,63,0.310345,0.310345
+2026-08,freq,65,tekanan,tekanan,62,0.305419,0.305419
+2026-08,freq,66,kenaikan,kenaikan,61,0.300493,0.300493
+2026-08,freq,67,dolar_as,dolar as,60,0.295567,0.295567
+2026-08,freq,68,utama,utama,60,0.295567,0.295567
+2026-08,freq,69,terjadi,terjadi,59,0.29064,0.29064
+2026-08,freq,70,amerika_serikat,amerika serikat,58,0.285714,0.285714
+2026-08,freq,71,data,data,58,0.285714,0.285714
+2026-08,freq,72,nilai,nilai,58,0.285714,0.285714
+2026-08,freq,73,penguatan,penguatan,58,0.285714,0.285714
+2026-08,freq,74,rupiah,rupiah,58,0.285714,0.285714
+2026-08,freq,75,pelaku_pasar,pelaku pasar,57,0.280788,0.280788
+2026-08,freq,76,adapun,adapun,56,0.275862,0.275862
+2026-08,freq,77,bmri,BMRI,56,0.275862,0.275862
+2026-08,freq,78,buy,buy,56,0.275862,0.275862
+2026-08,freq,79,kamis,kamis,54,0.26601,0.26601
+2026-08,freq,80,sepanjang,sepanjang,54,0.26601,0.26601
+2026-08,khas,1,lainnya_stagnan,lainnya stagnan,40,0.197044,0.472491
+2026-08,khas,2,net_buy,net buy,40,0.197044,0.472491
+2026-08,khas,3,bbni,BBNI,39,0.192118,0.460679
+2026-08,khas,4,sell,sell,35,0.172414,0.413431
+2026-08,khas,5,buy,buy,56,0.275862,0.358423
+2026-08,khas,6,kontribusi,kontribusi,29,0.142857,0.342556
+2026-08,khas,7,net_sell,net sell,39,0.192118,0.327513
+2026-08,khas,8,mayoritas,mayoritas,27,0.133005,0.318932
+2026-08,khas,9,net_foreign_sell,net foreign sell,27,0.133005,0.318932
+2026-08,khas,10,bi,BI,26,0.128079,0.30712
+2026-08,khas,11,komoditas,komoditas,26,0.128079,0.30712
+2026-08,khas,12,yield,yield,26,0.128079,0.30712
+2026-08,khas,13,cenderung,cenderung,25,0.123153,0.295308
+2026-08,khas,14,teknologi,teknologi,25,0.123153,0.295308
+2026-08,khas,15,frekuensi,frekuensi,24,0.118227,0.283496
+2026-08,khas,16,eksternal,eksternal,33,0.162562,0.277127
+2026-08,khas,17,terdapat,terdapat,42,0.206897,0.268818
+2026-08,khas,18,the_fed,The Fed,42,0.206897,0.268818
+2026-08,khas,19,senilai,senilai,30,0.147783,0.251933
+2026-08,khas,20,bumi,BUMI,29,0.142857,0.243535
+2026-08,khas,21,aset,aset,20,0.098522,0.236245
+2026-08,khas,22,rentang,rentang,20,0.098522,0.236245
+2026-08,khas,23,terlihat,terlihat,28,0.137931,0.235138
+2026-08,khas,24,index,index,19,0.093596,0.224433
+2026-08,khas,25,pembelian_bersih,pembelian bersih,19,0.093596,0.224433
+2026-08,khas,26,lainnya,lainnya,35,0.172414,0.224015
+2026-08,khas,27,selat_hormuz,selat hormuz,35,0.172414,0.224015
+2026-08,khas,28,pertumbuhan_ekonomi,pertumbuhan ekonomi,26,0.128079,0.218342
+2026-08,khas,29,tumbuh,tumbuh,34,0.167488,0.217614
+2026-08,khas,30,aksi,aksi,18,0.08867,0.212621
+2026-08,khas,31,bertambah,bertambah,18,0.08867,0.212621
+2026-08,khas,32,menyumbang,menyumbang,18,0.08867,0.212621
+2026-08,khas,33,penekan,penekan,18,0.08867,0.212621
+2026-08,khas,34,arah_kebijakan,arah kebijakan,25,0.123153,0.209945
+2026-08,khas,35,byan,BYAN,32,0.157635,0.204812
+2026-08,khas,36,perhatian,perhatian,32,0.157635,0.204812
+2026-08,khas,37,brms,BRMS,41,0.20197,0.204313
+2026-08,khas,38,prospek,prospek,24,0.118227,0.201547
+2026-08,khas,39,rilis,rilis,17,0.083744,0.200809
+2026-08,khas,40,tunai,tunai,17,0.083744,0.200809
+2026-08,khas,41,emas,EMAS,31,0.152709,0.198412
+2026-08,khas,42,disusul,disusul,51,0.251232,0.198086
+2026-08,khas,43,membukukan,membukukan,39,0.192118,0.194347
+2026-08,khas,44,jepang,jepang,30,0.147783,0.192012
+2026-08,khas,45,cuan,CUAN,16,0.078818,0.188997
+2026-08,khas,46,menembus,menembus,16,0.078818,0.188997
+2026-08,khas,47,presiden_as,presiden as,16,0.078818,0.188997
+2026-08,khas,48,us_treasury,us treasury,16,0.078818,0.188997
+2026-08,khas,49,industri,industri,22,0.108374,0.18475
+2026-08,khas,50,terendah,terendah,36,0.17734,0.179397
+2026-08,khas,51,mengenai,mengenai,28,0.137931,0.179211
+2026-08,khas,52,bank,BANK,15,0.073892,0.177185
+2026-08,khas,53,investor_global,investor global,15,0.073892,0.177185
+2026-08,khas,54,dana,dana,20,0.098522,0.167955
+2026-08,khas,55,risiko,risiko,20,0.098522,0.167955
+2026-08,khas,56,asii,ASII,26,0.128079,0.166411
+2026-08,khas,57,acuan,acuan,14,0.068966,0.165373
+2026-08,khas,58,berjalan,berjalan,14,0.068966,0.165373
+2026-08,khas,59,ekspektasi,ekspektasi,14,0.068966,0.165373
+2026-08,khas,60,ketegangan,ketegangan,14,0.068966,0.165373
+2026-08,khas,61,menuju,menuju,14,0.068966,0.165373
+2026-08,khas,62,nasdaq,nasdaq,14,0.068966,0.165373
+2026-08,khas,63,bank_indonesia,Bank Indonesia,33,0.162562,0.164448
+2026-08,khas,64,asia,asia,19,0.093596,0.159558
+2026-08,khas,65,suku_bunga,suku bunga,40,0.197044,0.155361
+2026-08,khas,66,tpia,TPIA,40,0.197044,0.155361
+2026-08,khas,67,aktivitas,aktivitas,24,0.118227,0.15361
+2026-08,khas,68,konsumen,konsumen,13,0.064039,0.153559
+2026-08,khas,69,sektor_energi,sektor energi,13,0.064039,0.153559
+2026-08,khas,70,sektor_keuangan,sektor keuangan,13,0.064039,0.153559
+2026-08,khas,71,positif,positif,39,0.192118,0.151477
+2026-08,khas,72,arah,arah,18,0.08867,0.15116
+2026-08,khas,73,bergerak_stagnan,bergerak stagnan,18,0.08867,0.15116
+2026-08,khas,74,keuangan,keuangan,23,0.1133,0.147209
+2026-08,khas,75,stagnan,stagnan,37,0.182266,0.143709
+2026-08,khas,76,aset_berisiko,aset berisiko,12,0.059113,0.141747
+2026-08,khas,77,bertahan,bertahan,12,0.059113,0.141747
+2026-08,khas,78,keluar,keluar,12,0.059113,0.141747
+2026-08,khas,79,memasuki,memasuki,12,0.059113,0.141747
+2026-08,khas,80,produksi,produksi,12,0.059113,0.141747
+2026-09,freq,1,ihsg,ihsg,174,0.945652,0.945652
+2026-09,freq,2,perdagangan,perdagangan,153,0.831522,0.831522
+2026-09,freq,3,gabungan,gabungan,152,0.826087,0.826087
+2026-09,freq,4,indeks_harga_saham,indeks harga saham,151,0.820652,0.820652
+2026-09,freq,5,ke_level,ke level,150,0.815217,0.815217
+2026-09,freq,6,pasar,pasar,147,0.798913,0.798913
+2026-09,freq,7,melemah,melemah,142,0.771739,0.771739
+2026-09,freq,8,pada_perdagangan,pada perdagangan,142,0.771739,0.771739
+2026-09,freq,9,saham,saham,142,0.771739,0.771739
+2026-09,freq,10,menguat,menguat,132,0.717391,0.717391
+2026-09,freq,11,miliar,miliar,127,0.690217,0.690217
+2026-09,freq,12,mencapai,mencapai,125,0.679348,0.679348
+2026-09,freq,13,sebesar,sebesar,120,0.652174,0.652174
+2026-09,freq,14,menjadi,menjadi,117,0.63587,0.63587
+2026-09,freq,15,triliun,triliun,113,0.61413,0.61413
+2026-09,freq,16,indeks,indeks,110,0.597826,0.597826
+2026-09,freq,17,nilai_transaksi,nilai transaksi,107,0.581522,0.581522
+2026-09,freq,18,level,level,104,0.565217,0.565217
+2026-09,freq,19,sebanyak,sebanyak,101,0.548913,0.548913
+2026-09,freq,20,tersebut,tersebut,101,0.548913,0.548913
+2026-09,freq,21,hingga,hingga,100,0.543478,0.543478
+2026-09,freq,22,sementara_itu,sementara itu,100,0.543478,0.543478
+2026-09,freq,23,turun,turun,99,0.538043,0.538043
+2026-09,freq,24,kenaikan,kenaikan,96,0.521739,0.521739
+2026-09,freq,25,tercatat,tercatat,94,0.51087,0.51087
+2026-09,freq,26,naik,naik,93,0.505435,0.505435
+2026-09,freq,27,bergerak,bergerak,88,0.478261,0.478261
+2026-09,freq,28,rupiah,rupiah,87,0.472826,0.472826
+2026-09,freq,29,tekanan,tekanan,87,0.472826,0.472826
+2026-09,freq,30,hari_ini,hari ini,83,0.451087,0.451087
+2026-09,freq,31,pergerakan,pergerakan,83,0.451087,0.451087
+2026-09,freq,32,poin_atau,poin atau,83,0.451087,0.451087
+2026-09,freq,33,berdasarkan_data,berdasarkan data,79,0.429348,0.429348
+2026-09,freq,34,sebelumnya,sebelumnya,79,0.429348,0.429348
+2026-09,freq,35,terjadi,terjadi,79,0.429348,0.429348
+2026-09,freq,36,awal,awal,77,0.418478,0.418478
+2026-09,freq,37,cnbc_indonesia,cnbc indonesia,77,0.418478,0.418478
+2026-09,freq,38,harga_minyak,harga minyak,77,0.418478,0.418478
+2026-09,freq,39,di_tengah,di tengah,75,0.407609,0.407609
+2026-09,freq,40,ditutup,ditutup,74,0.402174,0.402174
+2026-09,freq,41,global,global,74,0.402174,0.402174
+2026-09,freq,42,indonesia,indonesia,74,0.402174,0.402174
+2026-09,freq,43,sejumlah,sejumlah,73,0.396739,0.396739
+2026-09,freq,44,poin,poin,72,0.391304,0.391304
+2026-09,freq,45,sektor,sektor,72,0.391304,0.391304
+2026-09,freq,46,dibuka,dibuka,71,0.38587,0.38587
+2026-09,freq,47,investor,investor,71,0.38587,0.38587
+2026-09,freq,48,level_tertinggi,level tertinggi,70,0.380435,0.380435
+2026-09,freq,49,amerika_serikat,amerika serikat,69,0.375,0.375
+2026-09,freq,50,sepanjang,sepanjang,69,0.375,0.375
+2026-09,freq,51,september,september,69,0.375,0.375
+2026-09,freq,52,suku_bunga,suku bunga,69,0.375,0.375
+2026-09,freq,53,adapun,adapun,68,0.369565,0.369565
+2026-09,freq,54,lebih,lebih,68,0.369565,0.369565
+2026-09,freq,55,berada_di,berada di,67,0.36413,0.36413
+2026-09,freq,56,inflasi,inflasi,67,0.36413,0.36413
+2026-09,freq,57,juta_kali,juta kali,67,0.36413,0.36413
+2026-09,freq,58,turut,turut,67,0.36413,0.36413
+2026-09,freq,59,selasa,selasa,65,0.353261,0.353261
+2026-09,freq,60,sempat,sempat,65,0.353261,0.353261
+2026-09,freq,61,senin,senin,65,0.353261,0.353261
+2026-09,freq,62,terendah,terendah,64,0.347826,0.347826
+2026-09,freq,63,pasar_keuangan,pasar keuangan,62,0.336957,0.336957
+2026-09,freq,64,pelemahan,pelemahan,62,0.336957,0.336957
+2026-09,freq,65,per,per,62,0.336957,0.336957
+2026-09,freq,66,terkoreksi,terkoreksi,62,0.336957,0.336957
+2026-09,freq,67,the_fed,The Fed,62,0.336957,0.336957
+2026-09,freq,68,anjlok,anjlok,61,0.331522,0.331522
+2026-09,freq,69,dolar_as,dolar as,61,0.331522,0.331522
+2026-09,freq,70,pukul,pukul,61,0.331522,0.331522
+2026-09,freq,71,penguatan,penguatan,60,0.326087,0.326087
+2026-09,freq,72,rabu,rabu,60,0.326087,0.326087
+2026-09,freq,73,wib,wib,60,0.326087,0.326087
+2026-09,freq,74,bbca,BBCA,59,0.320652,0.320652
+2026-09,freq,75,data,data,59,0.320652,0.320652
+2026-09,freq,76,investor_asing,investor asing,58,0.315217,0.315217
+2026-09,freq,77,posisi,posisi,58,0.315217,0.315217
+2026-09,freq,78,bbri,BBRI,56,0.304348,0.304348
+2026-09,freq,79,di_zona,di zona,56,0.304348,0.304348
+2026-09,freq,80,harga,harga,56,0.304348,0.304348
+2026-09,khas,1,tunai,tunai,45,0.244565,0.586441
+2026-09,khas,2,menembus,menembus,40,0.217391,0.521281
+2026-09,khas,3,bunga,bunga,55,0.298913,0.509571
+2026-09,khas,4,frekuensi,frekuensi,39,0.211957,0.508251
+2026-09,khas,5,rentang,rentang,39,0.211957,0.508251
+2026-09,khas,6,sektor_energi,sektor energi,38,0.206522,0.495218
+2026-09,khas,7,tenor,tenor,38,0.206522,0.495218
+2026-09,khas,8,menaikkan_suku,menaikkan suku,36,0.195652,0.469153
+2026-09,khas,9,bi,BI,35,0.190217,0.45612
+2026-09,khas,10,federal_reserve,Federal Reserve,34,0.184783,0.44309
+2026-09,khas,11,us_treasury,us treasury,34,0.184783,0.44309
+2026-09,khas,12,the_fed,The Fed,62,0.336957,0.437802
+2026-09,khas,13,yield,yield,32,0.173913,0.417025
+2026-09,khas,14,aktivitas,aktivitas,54,0.293478,0.381311
+2026-09,khas,15,keputusan_suku,keputusan suku,28,0.152174,0.364897
+2026-09,khas,16,tertinggi_sejak,tertinggi sejak,28,0.152174,0.364897
+2026-09,khas,17,harian,harian,27,0.146739,0.351865
+2026-09,khas,18,terendah,terendah,64,0.347826,0.351861
+2026-09,khas,19,bertahan,bertahan,26,0.141304,0.338832
+2026-09,khas,20,ekspektasi,ekspektasi,26,0.141304,0.338832
+2026-09,khas,21,memasuki,memasuki,25,0.13587,0.325802
+2026-09,khas,22,obligasi,obligasi,25,0.13587,0.325802
+2026-09,khas,23,dolar,dolar,24,0.130435,0.312769
+2026-09,khas,24,tak,tak,24,0.130435,0.312769
+2026-09,khas,25,suku_bunga,suku bunga,69,0.375,0.295672
+2026-09,khas,26,perhatian,perhatian,41,0.222826,0.289514
+2026-09,khas,27,bbni,BBNI,22,0.119565,0.286704
+2026-09,khas,28,hampir,hampir,22,0.119565,0.286704
+2026-09,khas,29,net_foreign_sell,net foreign sell,22,0.119565,0.286704
+2026-09,khas,30,bank_indonesia,Bank Indonesia,50,0.271739,0.274891
+2026-09,khas,31,acuan,acuan,21,0.11413,0.273672
+2026-09,khas,32,tambahan,tambahan,21,0.11413,0.273672
+2026-09,khas,33,tenaga_kerja,tenaga kerja,21,0.11413,0.273672
+2026-09,khas,34,byan,BYAN,38,0.206522,0.268331
+2026-09,khas,35,menekan,menekan,38,0.206522,0.268331
+2026-09,khas,36,biaya,biaya,20,0.108696,0.260642
+2026-09,khas,37,lainnya_stagnan,lainnya stagnan,20,0.108696,0.260642
+2026-09,khas,38,sesuai,sesuai,20,0.108696,0.260642
+2026-09,khas,39,sell,sell,19,0.103261,0.247609
+2026-09,khas,40,teknologi,teknologi,19,0.103261,0.247609
+2026-09,khas,41,wall_street,wall street,19,0.103261,0.247609
+2026-09,khas,42,zona_merah,zona merah,19,0.103261,0.247609
+2026-09,khas,43,bank_sentral,bank sentral,35,0.190217,0.247146
+2026-09,khas,44,lainnya,lainnya,34,0.184783,0.240085
+2026-09,khas,45,aset,aset,18,0.097826,0.234577
+2026-09,khas,46,menambah,menambah,18,0.097826,0.234577
+2026-09,khas,47,menghadapi,menghadapi,18,0.097826,0.234577
+2026-09,khas,48,menuju,menuju,18,0.097826,0.234577
+2026-09,khas,49,eksternal,eksternal,25,0.13587,0.231624
+2026-09,khas,50,wti,wti,32,0.173913,0.225962
+2026-09,khas,51,arah_kebijakan,arah kebijakan,24,0.130435,0.222359
+2026-09,khas,52,merosot,merosot,24,0.130435,0.222359
+2026-09,khas,53,cenderung,cenderung,17,0.092391,0.221544
+2026-09,khas,54,kontribusi,kontribusi,17,0.092391,0.221544
+2026-09,khas,55,menyumbang,menyumbang,17,0.092391,0.221544
+2026-09,khas,56,brent,brent,31,0.168478,0.218901
+2026-09,khas,57,china,china,31,0.168478,0.218901
+2026-09,khas,58,disusul,disusul,50,0.271739,0.214255
+2026-09,khas,59,komoditas,komoditas,16,0.086957,0.208514
+2026-09,khas,60,moneter,moneter,16,0.086957,0.208514
+2026-09,khas,61,lonjakan,lonjakan,48,0.26087,0.205685
+2026-09,khas,62,keuangan,keuangan,29,0.157609,0.204779
+2026-09,khas,63,asia,asia,22,0.119565,0.203828
+2026-09,khas,64,bumi,BUMI,22,0.119565,0.203828
+2026-09,khas,65,jepang,jepang,28,0.152174,0.197717
+2026-09,khas,66,berikutnya,berikutnya,15,0.081522,0.195481
+2026-09,khas,67,eskalasi_konflik,eskalasi konflik,15,0.081522,0.195481
+2026-09,khas,68,jalur,jalur,21,0.11413,0.194563
+2026-09,khas,69,risiko,risiko,21,0.11413,0.194563
+2026-09,khas,70,stagnan,stagnan,45,0.244565,0.192829
+2026-09,khas,71,minyak,minyak,35,0.190217,0.192424
+2026-09,khas,72,tertekan,tertekan,35,0.190217,0.192424
+2026-09,khas,73,luar_negeri,luar negeri,27,0.146739,0.190655
+2026-09,khas,74,modal,modal,20,0.108696,0.185299
+2026-09,khas,75,bisnis,bisnis,14,0.076087,0.182449
+2026-09,khas,76,ketegangan,ketegangan,14,0.076087,0.182449
+2026-09,khas,77,mayoritas,mayoritas,14,0.076087,0.182449
+2026-09,khas,78,mentah,mentah,14,0.076087,0.182449
+2026-09,khas,79,industri,industri,19,0.103261,0.176034
+2026-09,khas,80,melihat,melihat,19,0.103261,0.176034
+2026-10,freq,1,ihsg,ihsg,272,0.964539,0.964539
+2026-10,freq,2,gabungan,gabungan,242,0.858156,0.858156
+2026-10,freq,3,indeks_harga_saham,indeks harga saham,231,0.819149,0.819149
+2026-10,freq,4,pasar,pasar,223,0.79078,0.79078
+2026-10,freq,5,perdagangan,perdagangan,219,0.776596,0.776596
+2026-10,freq,6,saham,saham,208,0.737589,0.737589
+2026-10,freq,7,pada_perdagangan,pada perdagangan,200,0.70922,0.70922
+2026-10,freq,8,hingga,hingga,197,0.698582,0.698582
+2026-10,freq,9,menjadi,menjadi,189,0.670213,0.670213
+2026-10,freq,10,indeks,indeks,182,0.64539,0.64539
+2026-10,freq,11,level,level,180,0.638298,0.638298
+2026-10,freq,12,melemah,melemah,175,0.620567,0.620567
+2026-10,freq,13,miliar,miliar,173,0.613475,0.613475
+2026-10,freq,14,turun,turun,173,0.613475,0.613475
+2026-10,freq,15,tercatat,tercatat,169,0.599291,0.599291
+2026-10,freq,16,mencapai,mencapai,167,0.592199,0.592199
+2026-10,freq,17,indonesia,indonesia,160,0.567376,0.567376
+2026-10,freq,18,ke_level,ke level,159,0.56383,0.56383
+2026-10,freq,19,menguat,menguat,158,0.560284,0.560284
+2026-10,freq,20,naik,naik,158,0.560284,0.560284
+2026-10,freq,21,tersebut,tersebut,155,0.549645,0.549645
+2026-10,freq,22,triliun,triliun,151,0.535461,0.535461
+2026-10,freq,23,nilai_transaksi,nilai transaksi,150,0.531915,0.531915
+2026-10,freq,24,sebesar,sebesar,149,0.528369,0.528369
+2026-10,freq,25,hari_ini,hari ini,148,0.524823,0.524823
+2026-10,freq,26,investor,investor,147,0.521277,0.521277
+2026-10,freq,27,poin_atau,poin atau,143,0.507092,0.507092
+2026-10,freq,28,lebih,lebih,138,0.489362,0.489362
+2026-10,freq,29,tekanan,tekanan,138,0.489362,0.489362
+2026-10,freq,30,anjlok,anjlok,133,0.471631,0.471631
+2026-10,freq,31,juta_lot,juta lot,133,0.471631,0.471631
+2026-10,freq,32,berada_di,berada di,130,0.460993,0.460993
+2026-10,freq,33,sebelumnya,sebelumnya,129,0.457447,0.457447
+2026-10,freq,34,pergerakan,pergerakan,125,0.443262,0.443262
+2026-10,freq,35,sejumlah,sejumlah,125,0.443262,0.443262
+2026-10,freq,36,kenaikan,kenaikan,124,0.439716,0.439716
+2026-10,freq,37,bergerak,bergerak,123,0.43617,0.43617
+2026-10,freq,38,aktivitas,aktivitas,122,0.432624,0.432624
+2026-10,freq,39,wib,wib,119,0.421986,0.421986
+2026-10,freq,40,pukul,pukul,116,0.411348,0.411348
+2026-10,freq,41,dari_sisi,dari sisi,115,0.407801,0.407801
+2026-10,freq,42,dibuka,dibuka,115,0.407801,0.407801
+2026-10,freq,43,awal,awal,114,0.404255,0.404255
+2026-10,freq,44,volume_transaksi,volume transaksi,112,0.397163,0.397163
+2026-10,freq,45,sentimen,sentimen,110,0.390071,0.390071
+2026-10,freq,46,di_tengah,di tengah,109,0.386525,0.386525
+2026-10,freq,47,sempat,sempat,109,0.386525,0.386525
+2026-10,freq,48,rupiah,rupiah,108,0.382979,0.382979
+2026-10,freq,49,termasuk,termasuk,108,0.382979,0.382979
+2026-10,freq,50,global,global,107,0.379433,0.379433
+2026-10,freq,51,oktober,oktober,106,0.375887,0.375887
+2026-10,freq,52,tahun,tahun,106,0.375887,0.375887
+2026-10,freq,53,amerika_serikat,amerika serikat,104,0.368794,0.368794
+2026-10,freq,54,msci,MSCI,104,0.368794,0.368794
+2026-10,freq,55,di_zona,di zona,100,0.35461,0.35461
+2026-10,freq,56,sementara_itu,sementara itu,100,0.35461,0.35461
+2026-10,freq,57,berikut,berikut,99,0.351064,0.351064
+2026-10,freq,58,harga,harga,98,0.347518,0.347518
+2026-10,freq,59,senin,senin,98,0.347518,0.347518
+2026-10,freq,60,sektor,sektor,97,0.343972,0.343972
+2026-10,freq,61,kebijakan,kebijakan,95,0.336879,0.336879
+2026-10,freq,62,menjadi_perhatian,menjadi perhatian,95,0.336879,0.336879
+2026-10,freq,63,inflasi,inflasi,94,0.333333,0.333333
+2026-10,freq,64,pelemahan,pelemahan,94,0.333333,0.333333
+2026-10,freq,65,baru,baru,93,0.329787,0.329787
+2026-10,freq,66,sepanjang,sepanjang,93,0.329787,0.329787
+2026-10,freq,67,sejak,sejak,92,0.326241,0.326241
+2026-10,freq,68,september,september,92,0.326241,0.326241
+2026-10,freq,69,seluruh,seluruh,91,0.322695,0.322695
+2026-10,freq,70,mulai,mulai,90,0.319149,0.319149
+2026-10,freq,71,pasar_keuangan,pasar keuangan,90,0.319149,0.319149
+2026-10,freq,72,hari,hari,89,0.315603,0.315603
+2026-10,freq,73,investor_asing,investor asing,89,0.315603,0.315603
+2026-10,freq,74,jumat,jumat,89,0.315603,0.315603
+2026-10,freq,75,perkembangan,perkembangan,89,0.315603,0.315603
+2026-10,freq,76,tetap,tetap,89,0.315603,0.315603
+2026-10,freq,77,penguatan,penguatan,88,0.312057,0.312057
+2026-10,freq,78,cnbc_indonesia,cnbc indonesia,87,0.308511,0.308511
+2026-10,freq,79,dolar_as,dolar as,87,0.308511,0.308511
+2026-10,freq,80,bbri,BBRI,86,0.304965,0.304965
+2026-10,khas,1,emerging_market,emerging market,70,0.248227,0.595222
+2026-10,khas,2,aktivitas,aktivitas,122,0.432624,0.562101
+2026-10,khas,3,standalone_market,standalone market,62,0.219858,0.527196
+2026-10,khas,4,acuan,acuan,60,0.212766,0.510191
+2026-10,khas,5,bertahan,bertahan,60,0.212766,0.510191
+2026-10,khas,6,ekspektasi,ekspektasi,55,0.195035,0.467674
+2026-10,khas,7,pernyataan,pernyataan,55,0.195035,0.467674
+2026-10,khas,8,aksi,aksi,54,0.191489,0.459171
+2026-10,khas,9,dana,dana,75,0.265957,0.45339
+2026-10,khas,10,risiko,risiko,75,0.265957,0.45339
+2026-10,khas,11,tak,tak,53,0.187943,0.450668
+2026-10,khas,12,prospek,prospek,71,0.251773,0.42921
+2026-10,khas,13,berikutnya,berikutnya,50,0.177305,0.425159
+2026-10,khas,14,moneter,moneter,50,0.177305,0.425159
+2026-10,khas,15,menambah,menambah,49,0.173759,0.416656
+2026-10,khas,16,dolar,dolar,48,0.170213,0.408153
+2026-10,khas,17,biaya,biaya,47,0.166667,0.39965
+2026-10,khas,18,membayangi,membayangi,47,0.166667,0.39965
+2026-10,khas,19,mengutip,mengutip,47,0.166667,0.39965
+2026-10,khas,20,mengenai,mengenai,82,0.29078,0.377806
+2026-10,khas,21,aset_berisiko,aset berisiko,44,0.156028,0.374139
+2026-10,khas,22,obligasi,obligasi,44,0.156028,0.374139
+2026-10,khas,23,tajam,tajam,81,0.287234,0.373198
+2026-10,khas,24,ancaman,ancaman,43,0.152482,0.365636
+2026-10,khas,25,internasional,internasional,43,0.152482,0.365636
+2026-10,khas,26,perkembangan_perang,perkembangan perang,43,0.152482,0.365636
+2026-10,khas,27,bank,BANK,42,0.148936,0.357133
+2026-10,khas,28,memasuki,memasuki,41,0.14539,0.34863
+2026-10,khas,29,tunai,tunai,41,0.14539,0.34863
+2026-10,khas,30,kekhawatiran,kekhawatiran,74,0.262411,0.340946
+2026-10,khas,31,menegaskan,menegaskan,40,0.141844,0.340127
+2026-10,khas,32,tenaga_kerja,tenaga kerja,40,0.141844,0.340127
+2026-10,khas,33,us_treasury,us treasury,40,0.141844,0.340127
+2026-10,khas,34,harian,harian,39,0.138298,0.331624
+2026-10,khas,35,lima,lima,39,0.138298,0.331624
+2026-10,khas,36,mengumumkan,mengumumkan,71,0.251773,0.327124
+2026-10,khas,37,hsc,hsc,38,0.134752,0.323121
+2026-10,khas,38,tenor,tenor,38,0.134752,0.323121
+2026-10,khas,39,menekan,menekan,70,0.248227,0.322517
+2026-10,khas,40,keluar,keluar,37,0.131206,0.314618
+2026-10,khas,41,the_fed,The Fed,67,0.237589,0.308695
+2026-10,khas,42,sektor_energi,sektor energi,36,0.12766,0.306115
+2026-10,khas,43,konsumen,konsumen,35,0.124113,0.29761
+2026-10,khas,44,tertinggi_sejak,tertinggi sejak,35,0.124113,0.29761
+2026-10,khas,45,federal_reserve,Federal Reserve,34,0.120567,0.289107
+2026-10,khas,46,keputusan_suku,keputusan suku,34,0.120567,0.289107
+2026-10,khas,47,arah,arah,47,0.166667,0.284125
+2026-10,khas,48,bunga,bunga,47,0.166667,0.284125
+2026-10,khas,49,aturan,aturan,33,0.117021,0.280604
+2026-10,khas,50,faktor,faktor,33,0.117021,0.280604
+2026-10,khas,51,arah_kebijakan,arah kebijakan,46,0.163121,0.27808
+2026-10,khas,52,hampir,hampir,32,0.113475,0.272101
+2026-10,khas,53,komoditas,komoditas,32,0.113475,0.272101
+2026-10,khas,54,laporan,laporan,32,0.113475,0.272101
+2026-10,khas,55,menghadapi,menghadapi,32,0.113475,0.272101
+2026-10,khas,56,pengumuman,pengumuman,45,0.159574,0.272033
+2026-10,khas,57,rencana,rencana,59,0.20922,0.271836
+2026-10,khas,58,yoy,yoy,44,0.156028,0.265988
+2026-10,khas,59,kemungkinan,kemungkinan,31,0.109929,0.263598
+2026-10,khas,60,perhitungan,perhitungan,31,0.109929,0.263598
+2026-10,khas,61,terbatas,terbatas,31,0.109929,0.263598
+2026-10,khas,62,china,china,57,0.202128,0.262621
+2026-10,khas,63,perhatian,perhatian,57,0.202128,0.262621
+2026-10,khas,64,permintaan,permintaan,57,0.202128,0.262621
+2026-10,khas,65,muncul,muncul,43,0.152482,0.259943
+2026-10,khas,66,pertemuan,pertemuan,43,0.152482,0.259943
+2026-10,khas,67,perubahan,perubahan,71,0.251773,0.254694
+2026-10,khas,68,perkembangan,perkembangan,89,0.315603,0.24884
+2026-10,khas,69,bi,BI,29,0.102837,0.246592
+2026-10,khas,70,danantara,Danantara,29,0.102837,0.246592
+2026-10,khas,71,sesuai,sesuai,29,0.102837,0.246592
+2026-10,khas,72,aset,aset,28,0.099291,0.238089
+2026-10,khas,73,net_foreign_sell,net foreign sell,28,0.099291,0.238089
+2026-10,khas,74,penekan,penekan,28,0.099291,0.238089
+2026-10,khas,75,proyeksi,proyeksi,28,0.099291,0.238089
+2026-10,khas,76,tambahan,tambahan,28,0.099291,0.238089
+2026-10,khas,77,serangan,serangan,39,0.138298,0.235763
+2026-10,khas,78,bank_sentral,bank sentral,50,0.177305,0.230369
+2026-10,khas,79,tumbuh,tumbuh,50,0.177305,0.230369
+2026-10,khas,80,merosot,merosot,38,0.134752,0.229718
+2026-11,freq,1,ihsg,ihsg,65,0.915493,0.915493
+2026-11,freq,2,gabungan,gabungan,61,0.859155,0.859155
+2026-11,freq,3,indeks_harga_saham,indeks harga saham,61,0.859155,0.859155
+2026-11,freq,4,perdagangan,perdagangan,56,0.788732,0.788732
+2026-11,freq,5,pasar,pasar,53,0.746479,0.746479
+2026-11,freq,6,sebesar,sebesar,51,0.71831,0.71831
+2026-11,freq,7,saham,saham,50,0.704225,0.704225
+2026-11,freq,8,indeks,indeks,48,0.676056,0.676056
+2026-11,freq,9,hingga,hingga,45,0.633803,0.633803
+2026-11,freq,10,menguat,menguat,45,0.633803,0.633803
+2026-11,freq,11,mencapai,mencapai,43,0.605634,0.605634
+2026-11,freq,12,miliar,miliar,43,0.605634,0.605634
+2026-11,freq,13,level,level,42,0.591549,0.591549
+2026-11,freq,14,menjadi,menjadi,41,0.577465,0.577465
+2026-11,freq,15,tercatat,tercatat,39,0.549296,0.549296
+2026-11,freq,16,triliun,triliun,39,0.549296,0.549296
+2026-11,freq,17,melemah,melemah,37,0.521127,0.521127
+2026-11,freq,18,pada_perdagangan,pada perdagangan,37,0.521127,0.521127
+2026-11,freq,19,turun,turun,37,0.521127,0.521127
+2026-11,freq,20,nilai_transaksi,nilai transaksi,36,0.507042,0.507042
+2026-11,freq,21,poin_atau,poin atau,36,0.507042,0.507042
+2026-11,freq,22,naik,naik,35,0.492958,0.492958
+2026-11,freq,23,tersebut,tersebut,35,0.492958,0.492958
+2026-11,freq,24,hari_ini,hari ini,34,0.478873,0.478873
+2026-11,freq,25,juta_lot,juta lot,34,0.478873,0.478873
+2026-11,freq,26,ke_level,ke level,34,0.478873,0.478873
+2026-11,freq,27,sementara_itu,sementara itu,34,0.478873,0.478873
+2026-11,freq,28,indonesia,indonesia,33,0.464789,0.464789
+2026-11,freq,29,lebih,lebih,33,0.464789,0.464789
+2026-11,freq,30,tekanan,tekanan,33,0.464789,0.464789
+2026-11,freq,31,ditutup,ditutup,32,0.450704,0.450704
+2026-11,freq,32,sejumlah,sejumlah,32,0.450704,0.450704
+2026-11,freq,33,awal,awal,31,0.43662,0.43662
+2026-11,freq,34,berikut,berikut,31,0.43662,0.43662
+2026-11,freq,35,dari_sisi,dari sisi,31,0.43662,0.43662
+2026-11,freq,36,seluruh,seluruh,30,0.422535,0.422535
+2026-11,freq,37,sebelumnya,sebelumnya,29,0.408451,0.408451
+2026-11,freq,38,sektor,sektor,29,0.408451,0.408451
+2026-11,freq,39,berada_di,berada di,28,0.394366,0.394366
+2026-11,freq,40,data,data,28,0.394366,0.394366
+2026-11,freq,41,kebijakan,kebijakan,28,0.394366,0.394366
+2026-11,freq,42,oktober,oktober,28,0.394366,0.394366
+2026-11,freq,43,pergerakan,pergerakan,28,0.394366,0.394366
+2026-11,freq,44,aktivitas,aktivitas,27,0.380282,0.380282
+2026-11,freq,45,investor_asing,investor asing,27,0.380282,0.380282
+2026-11,freq,46,meningkat,meningkat,27,0.380282,0.380282
+2026-11,freq,47,september,september,27,0.380282,0.380282
+2026-11,freq,48,di_zona,di zona,26,0.366197,0.366197
+2026-11,freq,49,dibuka,dibuka,26,0.366197,0.366197
+2026-11,freq,50,global,global,26,0.366197,0.366197
+2026-11,freq,51,turut,turut,26,0.366197,0.366197
+2026-11,freq,52,anjlok,anjlok,25,0.352113,0.352113
+2026-11,freq,53,berhasil,berhasil,25,0.352113,0.352113
+2026-11,freq,54,di_tengah,di tengah,25,0.352113,0.352113
+2026-11,freq,55,hasil,hasil,25,0.352113,0.352113
+2026-11,freq,56,kenaikan,kenaikan,25,0.352113,0.352113
+2026-11,freq,57,mencatat,mencatat,25,0.352113,0.352113
+2026-11,freq,58,adapun,adapun,24,0.338028,0.338028
+2026-11,freq,59,amerika_serikat,amerika serikat,24,0.338028,0.338028
+2026-11,freq,60,mencatatkan,mencatatkan,24,0.338028,0.338028
+2026-11,freq,61,senin,senin,24,0.338028,0.338028
+2026-11,freq,62,sepanjang,sepanjang,24,0.338028,0.338028
+2026-11,freq,63,terkoreksi,terkoreksi,24,0.338028,0.338028
+2026-11,freq,64,tumbuh,tumbuh,24,0.338028,0.338028
+2026-11,freq,65,angka,angka,23,0.323944,0.323944
+2026-11,freq,66,investor,investor,23,0.323944,0.323944
+2026-11,freq,67,kuartal_iii,kuartal iii,23,0.323944,0.323944
+2026-11,freq,68,wib,wib,23,0.323944,0.323944
+2026-11,freq,69,dalam_negeri,dalam negeri,22,0.309859,0.309859
+2026-11,freq,70,dibandingkan,dibandingkan,22,0.309859,0.309859
+2026-11,freq,71,inflasi,inflasi,22,0.309859,0.309859
+2026-11,freq,72,melalui,melalui,22,0.309859,0.309859
+2026-11,freq,73,meski,meski,22,0.309859,0.309859
+2026-11,freq,74,pasar_keuangan,pasar keuangan,22,0.309859,0.309859
+2026-11,freq,75,penguatan,penguatan,22,0.309859,0.309859
+2026-11,freq,76,pukul,pukul,22,0.309859,0.309859
+2026-11,freq,77,bbca,BBCA,21,0.295775,0.295775
+2026-11,freq,78,harga_minyak,harga minyak,21,0.295775,0.295775
+2026-11,freq,79,kamis,kamis,21,0.295775,0.295775
+2026-11,freq,80,pasar_modal,pasar modal,21,0.295775,0.295775
+2026-11,khas,1,presiden_donald,presiden donald,20,0.28169,0.675463
+2026-11,khas,2,bisnis,bisnis,19,0.267606,0.641691
+2026-11,khas,3,pemilu_sela,pemilu sela,19,0.267606,0.641691
+2026-11,khas,4,demokrat,demokrat,18,0.253521,0.607917
+2026-11,khas,5,kongres,kongres,18,0.253521,0.607917
+2026-11,khas,6,year,year,18,0.253521,0.607917
+2026-11,khas,7,melampaui_ekspektasi,melampaui ekspektasi,16,0.225352,0.54037
+2026-11,khas,8,partai_republik,partai republik,15,0.211268,0.506599
+2026-11,khas,9,produksi,produksi,15,0.211268,0.506599
+2026-11,khas,10,aktivitas,aktivitas,27,0.380282,0.494094
+2026-11,khas,11,aturan,aturan,14,0.197183,0.472824
+2026-11,khas,12,bertambah,bertambah,14,0.197183,0.472824
+2026-11,khas,13,kehilangan,kehilangan,14,0.197183,0.472824
+2026-11,khas,14,mengeluarkan,mengeluarkan,14,0.197183,0.472824
+2026-11,khas,15,penekan,penekan,14,0.197183,0.472824
+2026-11,khas,16,politik,politik,14,0.197183,0.472824
+2026-11,khas,17,tumbuh,tumbuh,24,0.338028,0.439194
+2026-11,khas,18,disampaikan,disampaikan,13,0.183099,0.439052
+2026-11,khas,19,konsumen,konsumen,13,0.183099,0.439052
+2026-11,khas,20,menguasai,menguasai,13,0.183099,0.439052
+2026-11,khas,21,pemilu,pemilu,13,0.183099,0.439052
+2026-11,khas,22,republik,republik,13,0.183099,0.439052
+2026-11,khas,23,senat,senat,13,0.183099,0.439052
+2026-11,khas,24,yoy,yoy,18,0.253521,0.432189
+2026-11,khas,25,mentah_dunia,mentah dunia,12,0.169014,0.405278
+2026-11,khas,26,aadi,AADI,11,0.15493,0.371506
+2026-11,khas,27,biaya_hidup,biaya hidup,11,0.15493,0.371506
+2026-11,khas,28,harian,harian,11,0.15493,0.371506
+2026-11,khas,29,hsc,hsc,11,0.15493,0.371506
+2026-11,khas,30,index,index,11,0.15493,0.371506
+2026-11,khas,31,kompak_masuk,kompak masuk,11,0.15493,0.371506
+2026-11,khas,32,memengaruhi,memengaruhi,11,0.15493,0.371506
+2026-11,khas,33,mengalami_penurunan,mengalami penurunan,11,0.15493,0.371506
+2026-11,khas,34,merebut_kendali,merebut kendali,11,0.15493,0.371506
+2026-11,khas,35,minyak_mentah,minyak mentah,11,0.15493,0.371506
+2026-11,khas,36,pembelian_bersih,pembelian bersih,11,0.15493,0.371506
+2026-11,khas,37,pemilu_as,pemilu as,11,0.15493,0.371506
+2026-11,khas,38,perhitungan,perhitungan,11,0.15493,0.371506
+2026-11,khas,39,rapat,rapat,11,0.15493,0.371506
+2026-11,khas,40,sektor_keuangan,sektor keuangan,11,0.15493,0.371506
+2026-11,khas,41,suara,suara,11,0.15493,0.371506
+2026-11,khas,42,tenaga_kerja,tenaga kerja,11,0.15493,0.371506
+2026-11,khas,43,trump,Trump,20,0.28169,0.365995
+2026-11,khas,44,pertumbuhan_ekonomi,pertumbuhan ekonomi,15,0.211268,0.360159
+2026-11,khas,45,bobot,bobot,10,0.140845,0.337732
+2026-11,khas,46,memasuki,memasuki,10,0.140845,0.337732
+2026-11,khas,47,merosot,merosot,14,0.197183,0.336147
+2026-11,khas,48,angka,angka,23,0.323944,0.327702
+2026-11,khas,49,produk,produk,17,0.239437,0.311096
+2026-11,khas,50,acuan,acuan,9,0.126761,0.30396
+2026-11,khas,51,aksi,aksi,9,0.126761,0.30396
+2026-11,khas,52,mayoritas,mayoritas,9,0.126761,0.30396
+2026-11,khas,53,rilis,rilis,9,0.126761,0.30396
+2026-11,khas,54,terbatas,terbatas,9,0.126761,0.30396
+2026-11,khas,55,tunai,tunai,9,0.126761,0.30396
+2026-11,khas,56,ekspor,ekspor,16,0.225352,0.292796
+2026-11,khas,57,sama,sama,12,0.169014,0.288126
+2026-11,khas,58,lainnya,lainnya,15,0.211268,0.274497
+2026-11,khas,59,permintaan,permintaan,15,0.211268,0.274497
+2026-11,khas,60,bertahan,bertahan,8,0.112676,0.270185
+2026-11,khas,61,cenderung,cenderung,8,0.112676,0.270185
+2026-11,khas,62,ekspektasi,ekspektasi,8,0.112676,0.270185
+2026-11,khas,63,internasional,internasional,8,0.112676,0.270185
+2026-11,khas,64,lima,lima,8,0.112676,0.270185
+2026-11,khas,65,menambah,menambah,8,0.112676,0.270185
+2026-11,khas,66,mengutip,mengutip,8,0.112676,0.270185
+2026-11,khas,67,arah_kebijakan,arah kebijakan,11,0.15493,0.264117
+2026-11,khas,68,modal,modal,11,0.15493,0.264117
+2026-11,khas,69,menyatakan,menyatakan,14,0.197183,0.256197
+2026-11,khas,70,emas,EMAS,13,0.183099,0.237897
+2026-11,khas,71,keuangan,keuangan,13,0.183099,0.237897
+2026-11,khas,72,mengenai,mengenai,13,0.183099,0.237897
+2026-11,khas,73,keluar,keluar,7,0.098592,0.236413
+2026-11,khas,74,net_foreign_sell,net foreign sell,7,0.098592,0.236413
+2026-11,khas,75,pernyataan,pernyataan,7,0.098592,0.236413
+2026-11,khas,76,tak,tak,7,0.098592,0.236413
+2026-11,khas,77,ojk,OJK,16,0.225352,0.227966
+2026-11,khas,78,asii,ASII,12,0.169014,0.219597
+2026-11,khas,79,brent,brent,12,0.169014,0.219597
+2026-11,khas,80,china,china,12,0.169014,0.219597

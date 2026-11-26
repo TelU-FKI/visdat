@@ -1,0 +1,17 @@
+/* P1-specific projection; the DOM word sphere sits above the subdued 3D core. */
+.p1-sphere { position: relative; isolation: isolate; overflow: hidden; touch-action: none; }
+#panel-1 #hero-words.p1-sphere { position: absolute; inset: 48px 8px 46px; display: block; z-index: 2; overflow: hidden; }
+.p1-core { position: absolute; inset: 0; z-index: 0; overflow: hidden; pointer-events: none; }
+.p1-sphere__words { position: absolute; inset: 0; z-index: 2; pointer-events: auto; }
+.p1-word { pointer-events: auto; min-height: 0 !important; height: auto; color: #8de9f7; background: transparent; border: 0; padding: 1px 2px; font-family: "Chakra Petch", system-ui, sans-serif; font-weight: 600; line-height: 1; white-space: nowrap; cursor: pointer; user-select: none; transform-origin: center; text-shadow: none; }
+.p1-word[data-cat="entity"], .p1-word[data-cat="ticker"] { color: #ffbf58; }
+.p1-word:hover, .p1-word:focus-visible { color: #fff1b0; outline: 2px solid #ffbf58; outline-offset: 2px; }
+.p1-word.is-selected { color: #ffe08a; }
+.p1-sphere__tooltip { position: absolute; z-index: 5; left: 12px; bottom: 12px; padding: 8px 12px; color: #d6faff; background: #061522e8; border: 1px solid #26d7f4; font: 16px/1.35 "JetBrains Mono", monospace; pointer-events: none; }
+.p1-core__canvas, .p1-core__still { z-index: 0; }
+.p1-intro__skip:focus-visible { outline: 3px solid #fff1b0; outline-offset: 3px; }
+#panel-1 .panel-footer { flex-wrap: wrap; align-items: center; gap: 4px 12px; }
+#panel-1 .p1-note-footer { position: static; display: inline; margin-left: auto; align-self: auto; z-index: auto; color: #9abac8; background: transparent; padding: 0; font: 18px/1.2 "Chakra Petch", system-ui, sans-serif; white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) { .p1-word { transition: none !important; } }
+
+.p1-deferred { position:absolute; inset:12px; display:grid; place-items:center; color:#8aa3ae; font:16px/1.4 'JetBrains Mono',monospace; }

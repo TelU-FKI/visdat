@@ -1,0 +1,92 @@
+[
+  {
+    "viewport": "1920x1080",
+    "consoleErrors": [],
+    "httpRequests": [],
+    "layout": {
+      "viewport": [
+        1920,
+        1080
+      ],
+      "document": [
+        1920,
+        1080
+      ],
+      "minTextPx": 18,
+      "reducedMotion": true,
+      "alwaysVisible": true
+    },
+    "keyboard": {
+      "leftAtStart": "2026-01",
+      "right": "2026-02",
+      "rightAtEnd": "2026-02",
+      "modeToggle": "freq",
+      "khasDisabledBelow30": true,
+      "thinModeForcedFreq": "freq",
+      "home": [
+        "ALL",
+        "freq"
+      ],
+      "space": "Ⅱ STOP",
+      "focus5": true,
+      "reset": [
+        "2026-01",
+        "freq",
+        null
+      ],
+      "presentation": [
+        true,
+        "40px"
+      ],
+      "cursorHidesAfter3s": true,
+      "cursorReturnsOnMove": true,
+      "detailTabs": "bump",
+      "help": true
+    }
+  },
+  {
+    "viewport": "1280x720",
+    "consoleErrors": [],
+    "httpRequests": [],
+    "layout": {
+      "viewport": [
+        1280,
+        720
+      ],
+      "document": [
+        1280,
+        720
+      ],
+      "minTextPx": 18,
+      "reducedMotion": true,
+      "alwaysVisible": true
+    },
+    "keyboard": {
+      "leftAtStart": "2026-01",
+      "right": "2026-02",
+      "rightAtEnd": "2026-02",
+      "modeToggle": "freq",
+      "khasDisabledBelow30": true,
+      "thinModeForcedFreq": "freq",
+      "home": [
+        "ALL",
+        "freq"
+      ],
+      "space": "Ⅱ STOP",
+      "focus5": true,
+      "reset": [
+        "2026-01",
+        "freq",
+        null
+      ],
+      "presentation": [
+        true,
+        "40px"
+      ],
+      "cursorHidesAfter3s": true,
+      "cursorReturnsOnMove": true,
+      "detailTabs": "bump",
+      "help": true
+    }
+  }
+]

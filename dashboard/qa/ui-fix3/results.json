@@ -1,0 +1,662 @@
+{
+  "screenshots": [
+    {
+      "viewport": "1920x1080",
+      "month": "2026-01",
+      "tab": "network",
+      "screenshot": "jan-network-1920x1080.png",
+      "state": {
+        "month": "2026-01",
+        "network": {
+          "nodes": 36,
+          "edges": 37,
+          "labels": 15,
+          "rendered": 15,
+          "geometryCount": 51,
+          "outside": [],
+          "labelOverlaps": [],
+          "canvas": [
+            1866,
+            259
+          ]
+        },
+        "heat": null,
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 13
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-01",
+      "tab": "headlines",
+      "screenshot": "jan-headlines-1920x1080.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": null,
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 13
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-01",
+      "tab": "heat",
+      "screenshot": "jan-heat-1920x1080.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "rowHeight": 28,
+          "active": "2026-01",
+          "range": "BARIS 1–10 DARI 32",
+          "scroll": [
+            0,
+            896,
+            258
+          ],
+          "outline": true
+        },
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 13
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-03",
+      "tab": "network",
+      "screenshot": "mar-network-1920x1080.png",
+      "state": {
+        "month": "2026-03",
+        "network": {
+          "nodes": 16,
+          "edges": 17,
+          "labels": 15,
+          "rendered": 15,
+          "geometryCount": 31,
+          "outside": [],
+          "labelOverlaps": [],
+          "canvas": [
+            1866,
+            259
+          ]
+        },
+        "heat": null,
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 13
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-03",
+      "tab": "headlines",
+      "screenshot": "mar-headlines-1920x1080.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": null,
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 13
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-03",
+      "tab": "heat",
+      "screenshot": "mar-heat-1920x1080.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "rowHeight": 28,
+          "active": "2026-03",
+          "range": "BARIS 7–16 DARI 32",
+          "scroll": [
+            168,
+            896,
+            258
+          ],
+          "outline": true
+        },
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 13
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-11",
+      "tab": "network",
+      "screenshot": "nov-network-1920x1080.png",
+      "state": {
+        "month": "2026-11",
+        "network": {
+          "nodes": 31,
+          "edges": 35,
+          "labels": 15,
+          "rendered": 15,
+          "geometryCount": 46,
+          "outside": [],
+          "labelOverlaps": [],
+          "canvas": [
+            1866,
+            259
+          ]
+        },
+        "heat": null,
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 12
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-11",
+      "tab": "headlines",
+      "screenshot": "nov-headlines-1920x1080.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": null,
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 12
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-11",
+      "tab": "heat",
+      "screenshot": "nov-heat-1920x1080.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "rowHeight": 28,
+          "active": "2026-11",
+          "range": "BARIS 23–32 DARI 32",
+          "scroll": [
+            638,
+            896,
+            258
+          ],
+          "outline": true
+        },
+        "p2": {
+          "visibleRows": 15,
+          "textCount": 30,
+          "overlaps": [],
+          "longLabelTooltips": 12
+        },
+        "novFits": true,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-01",
+      "tab": "network",
+      "screenshot": "jan-network-1280x720.png",
+      "state": {
+        "month": "2026-01",
+        "network": {
+          "nodes": 36,
+          "edges": 37,
+          "labels": 15,
+          "rendered": 15,
+          "geometryCount": 51,
+          "outside": [],
+          "labelOverlaps": [],
+          "canvas": [
+            1228,
+            196
+          ]
+        },
+        "heat": null,
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 7
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-01",
+      "tab": "headlines",
+      "screenshot": "jan-headlines-1280x720.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": null,
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 7
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-01",
+      "tab": "heat",
+      "screenshot": "jan-heat-1280x720.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "rowHeight": 28,
+          "active": "2026-01",
+          "range": "BARIS 1–7 DARI 32",
+          "scroll": [
+            0,
+            896,
+            180
+          ],
+          "outline": true
+        },
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 7
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-03",
+      "tab": "network",
+      "screenshot": "mar-network-1280x720.png",
+      "state": {
+        "month": "2026-03",
+        "network": {
+          "nodes": 16,
+          "edges": 17,
+          "labels": 15,
+          "rendered": 15,
+          "geometryCount": 31,
+          "outside": [],
+          "labelOverlaps": [],
+          "canvas": [
+            1228,
+            196
+          ]
+        },
+        "heat": null,
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 6
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-03",
+      "tab": "headlines",
+      "screenshot": "mar-headlines-1280x720.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": null,
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 6
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-03",
+      "tab": "heat",
+      "screenshot": "mar-heat-1280x720.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "rowHeight": 28,
+          "active": "2026-03",
+          "range": "BARIS 7–13 DARI 32",
+          "scroll": [
+            168,
+            896,
+            180
+          ],
+          "outline": true
+        },
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 6
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-11",
+      "tab": "network",
+      "screenshot": "nov-network-1280x720.png",
+      "state": {
+        "month": "2026-11",
+        "network": {
+          "nodes": 31,
+          "edges": 35,
+          "labels": 15,
+          "rendered": 15,
+          "geometryCount": 46,
+          "outside": [],
+          "labelOverlaps": [],
+          "canvas": [
+            1228,
+            196
+          ]
+        },
+        "heat": null,
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 7
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-11",
+      "tab": "headlines",
+      "screenshot": "nov-headlines-1280x720.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": null,
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 7
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-11",
+      "tab": "heat",
+      "screenshot": "nov-heat-1280x720.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "rowHeight": 28,
+          "active": "2026-11",
+          "range": "BARIS 26–32 DARI 32",
+          "scroll": [
+            716,
+            896,
+            180
+          ],
+          "outline": true
+        },
+        "p2": {
+          "visibleRows": 8,
+          "textCount": 16,
+          "overlaps": [],
+          "longLabelTooltips": 7
+        },
+        "novFits": true,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    }
+  ],
+  "expandedP6": [
+    {
+      "viewport": "1920x1080",
+      "screenshot": "expanded-heat-1920x1080.png",
+      "state": {
+        "expanded": true,
+        "rows": 32,
+        "scroll": [
+          0,
+          902,
+          902
+        ],
+        "range": "BARIS 1–32 DARI 32",
+        "closeButton": true,
+        "detail": {
+          "x": 56,
+          "y": 56,
+          "width": 1808,
+          "height": 968,
+          "top": 56,
+          "right": 1864,
+          "bottom": 1024,
+          "left": 56
+        },
+        "closedByEscape": true
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "screenshot": "expanded-heat-1280x720.png",
+      "state": {
+        "expanded": true,
+        "rows": 32,
+        "scroll": [
+          168,
+          896,
+          542
+        ],
+        "range": "BARIS 7–26 DARI 32",
+        "closeButton": true,
+        "detail": {
+          "x": 56,
+          "y": 56,
+          "width": 1168,
+          "height": 608,
+          "top": 56,
+          "right": 1224,
+          "bottom": 664,
+          "left": 56
+        },
+        "closedByEscape": true
+      }
+    }
+  ],
+  "audits": [
+    {
+      "viewport": "1920x1080",
+      "defaultTab": "network",
+      "minimumVisibleNonP1TextPx": 18,
+      "arrowRightMonth": "2026-04",
+      "document": [
+        1920,
+        1080,
+        1920,
+        1080
+      ]
+    },
+    {
+      "viewport": "1280x720",
+      "defaultTab": "network",
+      "minimumVisibleNonP1TextPx": 18,
+      "arrowRightMonth": "2026-04",
+      "document": [
+        1280,
+        720,
+        1280,
+        720
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "httpRequests": []
+}

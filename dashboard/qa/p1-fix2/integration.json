@@ -1,0 +1,231 @@
+{
+  "screenshots": {
+    "jan-1920x1080": "dashboard/qa/p1-fix2/p1-jan-1920x1080.png",
+    "mar-1920x1080": "dashboard/qa/p1-fix2/p1-mar-1920x1080.png",
+    "nov-1920x1080": "dashboard/qa/p1-fix2/p1-nov-1920x1080.png",
+    "jan-1280x720": "dashboard/qa/p1-fix2/p1-jan-1280x720.png",
+    "mar-1280x720": "dashboard/qa/p1-fix2/p1-mar-1280x720.png",
+    "nov-1280x720": "dashboard/qa/p1-fix2/p1-nov-1280x720.png"
+  },
+  "overlapPairs": {
+    "jan-1920x1080": {
+      "poses": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": 0,
+      "count": 80,
+      "hostWidth": 843,
+      "maxDisplayChars": 20,
+      "activeSector": "sector_00",
+      "longPhraseExamples": []
+    },
+    "mar-1920x1080": {
+      "poses": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": 0,
+      "count": 80,
+      "hostWidth": 843,
+      "maxDisplayChars": 15,
+      "activeSector": "sector_02",
+      "longPhraseExamples": []
+    },
+    "nov-1920x1080": {
+      "poses": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": 0,
+      "count": 80,
+      "hostWidth": 843,
+      "maxDisplayChars": 20,
+      "activeSector": "sector_10",
+      "longPhraseExamples": []
+    },
+    "jan-1280x720": {
+      "poses": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": 0,
+      "count": 40,
+      "hostWidth": 558,
+      "maxDisplayChars": 20,
+      "activeSector": "sector_00",
+      "longPhraseExamples": []
+    },
+    "mar-1280x720": {
+      "poses": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": 0,
+      "count": 40,
+      "hostWidth": 558,
+      "maxDisplayChars": 12,
+      "activeSector": "sector_02",
+      "longPhraseExamples": []
+    },
+    "nov-1280x720": {
+      "poses": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": 0,
+      "count": 40,
+      "hostWidth": 558,
+      "maxDisplayChars": 20,
+      "activeSector": "sector_10",
+      "longPhraseExamples": []
+    }
+  },
+  "contrast": {
+    "jan-1920x1080": {
+      "brightestBehindTop15Rgb": [
+        16,
+        83,
+        95
+      ],
+      "luminance": 0.07123,
+      "cyan": 6.24,
+      "amber": 5.3,
+      "heroContentBrightestRgb": [
+        16,
+        83,
+        95
+      ],
+      "amberPixelCount": 15
+    },
+    "mar-1920x1080": {
+      "brightestBehindTop15Rgb": [
+        30,
+        89,
+        94
+      ],
+      "luminance": 0.08229,
+      "cyan": 5.72,
+      "amber": 4.85,
+      "heroContentBrightestRgb": [
+        36,
+        91,
+        91
+      ],
+      "amberPixelCount": 12878
+    },
+    "nov-1920x1080": {
+      "brightestBehindTop15Rgb": [
+        93,
+        72,
+        37
+      ],
+      "luminance": 0.07095,
+      "cyan": 6.25,
+      "amber": 5.31,
+      "heroContentBrightestRgb": [
+        93,
+        75,
+        40
+      ],
+      "amberPixelCount": 12931
+    },
+    "jan-1280x720": {
+      "brightestBehindTop15Rgb": [
+        21,
+        57,
+        72
+      ],
+      "luminance": 0.03554,
+      "cyan": 8.84,
+      "amber": 7.51,
+      "heroContentBrightestRgb": [
+        16,
+        84,
+        96
+      ],
+      "amberPixelCount": 0
+    },
+    "mar-1280x720": {
+      "brightestBehindTop15Rgb": [
+        21,
+        57,
+        72
+      ],
+      "luminance": 0.03554,
+      "cyan": 8.84,
+      "amber": 7.51,
+      "heroContentBrightestRgb": [
+        36,
+        91,
+        91
+      ],
+      "amberPixelCount": 13
+    },
+    "nov-1280x720": {
+      "brightestBehindTop15Rgb": [
+        15,
+        80,
+        92
+      ],
+      "luminance": 0.06612,
+      "cyan": 6.52,
+      "amber": 5.53,
+      "heroContentBrightestRgb": [
+        93,
+        73,
+        37
+      ],
+      "amberPixelCount": 12
+    }
+  },
+  "consoleErrors": [],
+  "httpRequests": [],
+  "localRequests": 58,
+  "interactions": {
+    "introPlayed": true,
+    "pointerClick": {
+      "term": "trading_halt",
+      "selected": "trading_halt"
+    }
+  },
+  "performance": {
+    "seconds": 10.0,
+    "medianFps": 120,
+    "frames": 600,
+    "longTasksTotal": 4,
+    "longTasksMonthSwitch": 0
+  },
+  "accessibility": {
+    "reducedMotionStable": true,
+    "fallback": {
+      "status": "GLB: gagal, pakai pengganti",
+      "still": true,
+      "canvas": true
+    }
+  },
+  "totalDashboardBytes": 47217845,
+  "browser": "151.0.7922.34",
+  "contrastBeforePreviousP1Fix": {
+    "brightestHeroContentRgb": [
+      21,
+      57,
+      72
+    ],
+    "cyan": 8.84,
+    "amber": 7.51,
+    "source": "dashboard/qa/p1-fix/integration.json"
+  }
+}

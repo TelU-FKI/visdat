@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8"><title>P1 local fixture harness</title>
+<link rel="stylesheet" href="css/p1-sphere.css"><style>html,body{margin:0;width:100%;height:100%;background:#030a12;color:#a8efff;font:16px system-ui}#panel{position:relative;width:100vw;height:100vh;overflow:hidden;background:radial-gradient(ellipse,#0a2433,#030a12 70%)}.p1-word{transition:color .15s}.p1-word[data-cat=entity]{color:#ffbf58!important}.p1-word.is-selected{color:#ffe08a!important}.p1-word.is-hovered{transform:scale(1.15)!important}.p1-sphere__tooltip{position:absolute;bottom:16px;left:16px;background:#061522;padding:8px;z-index:300}.p1-sphere__words{position:absolute;inset:0;z-index:2}</style>
+<div id="panel" aria-label="Kata populer"></div>
+<script src="vendor/three.r160.1.min.js"></script><script src="vendor/gsap.3.14.2.min.js"></script><script src="data/fixture.data.js"></script><script src="js/core-glb-data.js"></script>
+<script src="js/sphere.js"></script><script src="js/core3d.js"></script><script src="js/intro.js"></script>
+<script>
+const listeners={};const HUD={state:{month:'2026-01',mode:'khas',term:null,motion:true},set(p){this.state={...this.state,...p};for(const k of Object.keys(p))(listeners[k]||[]).forEach(fn=>fn(this.state[k]));},on(k,fn){(listeners[k]||=[]).push(fn);return()=>listeners[k]=listeners[k].filter(x=>x!==fn);}};
+const host=document.querySelector('#panel');window.testPanels=[Panels.Core3D.create(host,IHSG_DATA,HUD),Panels.Sphere.create(host,IHSG_DATA,HUD)];window.testHUD=HUD;window.testIntro=Intro.create(host,{onDone(){window.introDone=true;}});window.testDebug=P1Debug.start();
+</script>

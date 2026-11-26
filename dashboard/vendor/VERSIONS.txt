@@ -1,0 +1,11 @@
+Offline vendor dependencies (pinned 2026-11-09)
+
+- D3 7.9.0: d3.v7.9.0.min.js — ISC license (LICENSE.d3.txt)
+- force-graph 1.49.6: force-graph.1.49.6.min.js — MIT license (LICENSE.force-graph.txt)
+- GSAP 3.14.2: gsap.3.14.2.min.js — GSAP Standard License (LICENSE.gsap.txt)
+- Three.js r160 / npm 0.160.1: three.r160.1.min.js — MIT license (LICENSE.three.txt)
+- GLTFLoader r160: GLTFLoader.r160.iife.js — official examples/jsm GLTFLoader + BufferGeometryUtils bundled with esbuild 0.28.2; IIFE attaches `THREE.GLTFLoader` and is required after three.r160.1.min.js. This keeps the pinned Three.js revision and works with classic scripts under `file://`, where native ES module loading is blocked. `dashboard/js/core-glb-data.js` embeds the asset bytes because standard Chrome blocks XHR/fetch to sibling file URLs from the page opaque origin; GLTFLoader.parse handles the exact core.glb payload. Bundle source: `three@0.160.1/examples/jsm/loaders/GLTFLoader.js` and `examples/jsm/utils/BufferGeometryUtils.js`; uses the existing Three.js MIT license.
+- Chakra Petch 400/600, Google Fonts v13, woff2 Latin subset — SIL Open Font License 1.1 (fonts/ChakraPetch-OFL.txt)
+- JetBrains Mono 400/700, Google Fonts v24, woff2 Latin subset — SIL Open Font License 1.1 (fonts/JetBrainsMono-OFL.txt)
+
+All runtime assets are loaded through relative file paths; no CDN or external runtime requests.

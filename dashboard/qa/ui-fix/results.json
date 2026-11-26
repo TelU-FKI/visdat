@@ -1,0 +1,3505 @@
+{
+  "screenshots": [
+    {
+      "viewport": "1920x1080",
+      "month": "2026-01",
+      "tab": "network",
+      "screenshot": "01-network-1920x1080.png",
+      "state": {
+        "activeTab": "network",
+        "month": "2026-01",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": {
+          "nodes": 36,
+          "edges": 37,
+          "labeled": 15,
+          "canvas": {
+            "x": 27,
+            "y": 796.21875,
+            "width": 1866,
+            "height": 259,
+            "right": 1893,
+            "bottom": 1055.21875
+          }
+        },
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. trading halt",
+            "actual": "1. trading halt"
+          },
+          {
+            "expected": "2. menteri keuangan",
+            "actual": "2. menteri keuangan"
+          },
+          {
+            "expected": "3. investor global",
+            "actual": "3. investor global"
+          },
+          {
+            "expected": "4. purbaya yudhi sadewa",
+            "actual": "4. purbaya yudhi sadewa"
+          },
+          {
+            "expected": "5. free float",
+            "actual": "5. free float"
+          },
+          {
+            "expected": "6. BUMI",
+            "actual": "6. BUMI"
+          },
+          {
+            "expected": "7. ambruk",
+            "actual": "7. ambruk"
+          },
+          {
+            "expected": "8. kekhawatiran",
+            "actual": "8. kekhawatiran"
+          },
+          {
+            "expected": "9. ekonomi",
+            "actual": "9. ekonomi"
+          },
+          {
+            "expected": "10. OJK",
+            "actual": "10. OJK"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-01",
+      "tab": "headlines",
+      "screenshot": "01-headlines-1920x1080.png",
+      "state": {
+        "activeTab": "headlines",
+        "month": "2026-01",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. trading halt",
+            "actual": "1. trading halt"
+          },
+          {
+            "expected": "2. menteri keuangan",
+            "actual": "2. menteri keuangan"
+          },
+          {
+            "expected": "3. investor global",
+            "actual": "3. investor global"
+          },
+          {
+            "expected": "4. purbaya yudhi sadewa",
+            "actual": "4. purbaya yudhi sadewa"
+          },
+          {
+            "expected": "5. free float",
+            "actual": "5. free float"
+          },
+          {
+            "expected": "6. BUMI",
+            "actual": "6. BUMI"
+          },
+          {
+            "expected": "7. ambruk",
+            "actual": "7. ambruk"
+          },
+          {
+            "expected": "8. kekhawatiran",
+            "actual": "8. kekhawatiran"
+          },
+          {
+            "expected": "9. ekonomi",
+            "actual": "9. ekonomi"
+          },
+          {
+            "expected": "10. OJK",
+            "actual": "10. OJK"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-01",
+      "tab": "bump",
+      "screenshot": "01-bump-1920x1080.png",
+      "state": {
+        "activeTab": "bump",
+        "month": "2026-01",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 12,
+          "labelBoxes": [
+            {
+              "text": "presiden donald",
+              "rect": {
+                "x": 1649,
+                "y": 757.703125,
+                "width": 131.28125,
+                "height": 24,
+                "right": 1780.28125,
+                "bottom": 781.703125
+              }
+            },
+            {
+              "text": "emerging market",
+              "rect": {
+                "x": 1649,
+                "y": 779.703125,
+                "width": 139.65625,
+                "height": 24,
+                "right": 1788.65625,
+                "bottom": 803.703125
+              }
+            },
+            {
+              "text": "tunai",
+              "rect": {
+                "x": 1649,
+                "y": 801.703125,
+                "width": 41.671875,
+                "height": 24,
+                "right": 1690.671875,
+                "bottom": 825.703125
+              }
+            },
+            {
+              "text": "lainnya stagnan",
+              "rect": {
+                "x": 1649,
+                "y": 823.703125,
+                "width": 130.484375,
+                "height": 24,
+                "right": 1779.484375,
+                "bottom": 847.703125
+              }
+            },
+            {
+              "text": "net foreign sell",
+              "rect": {
+                "x": 1649,
+                "y": 845.703125,
+                "width": 122.171875,
+                "height": 24,
+                "right": 1771.171875,
+                "bottom": 869.703125
+              }
+            },
+            {
+              "text": "keluar",
+              "rect": {
+                "x": 1649,
+                "y": 867.703125,
+                "width": 50.359375,
+                "height": 24,
+                "right": 1699.359375,
+                "bottom": 891.703125
+              }
+            },
+            {
+              "text": "gencatan senjata",
+              "rect": {
+                "x": 1649,
+                "y": 889.703125,
+                "width": 142.546875,
+                "height": 24,
+                "right": 1791.546875,
+                "bottom": 913.703125
+              }
+            },
+            {
+              "text": "Danantara",
+              "rect": {
+                "x": 1649,
+                "y": 911.703125,
+                "width": 85.40625,
+                "height": 24,
+                "right": 1734.40625,
+                "bottom": 935.703125
+              }
+            },
+            {
+              "text": "trading halt",
+              "rect": {
+                "x": 1649,
+                "y": 933.703125,
+                "width": 94.71875,
+                "height": 24,
+                "right": 1743.71875,
+                "bottom": 957.703125
+              }
+            },
+            {
+              "text": "bergerak stagnan",
+              "rect": {
+                "x": 1649,
+                "y": 955.703125,
+                "width": 144.703125,
+                "height": 24,
+                "right": 1793.703125,
+                "bottom": 979.703125
+              }
+            },
+            {
+              "text": "israel",
+              "rect": {
+                "x": 1649,
+                "y": 977.703125,
+                "width": 44.328125,
+                "height": 24,
+                "right": 1693.328125,
+                "bottom": 1001.703125
+              }
+            },
+            {
+              "text": "aktivitas",
+              "rect": {
+                "x": 1649,
+                "y": 999.703125,
+                "width": 69.90625,
+                "height": 24,
+                "right": 1718.90625,
+                "bottom": 1023.703125
+              }
+            }
+          ]
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. trading halt",
+            "actual": "1. trading halt"
+          },
+          {
+            "expected": "2. menteri keuangan",
+            "actual": "2. menteri keuangan"
+          },
+          {
+            "expected": "3. investor global",
+            "actual": "3. investor global"
+          },
+          {
+            "expected": "4. purbaya yudhi sadewa",
+            "actual": "4. purbaya yudhi sadewa"
+          },
+          {
+            "expected": "5. free float",
+            "actual": "5. free float"
+          },
+          {
+            "expected": "6. BUMI",
+            "actual": "6. BUMI"
+          },
+          {
+            "expected": "7. ambruk",
+            "actual": "7. ambruk"
+          },
+          {
+            "expected": "8. kekhawatiran",
+            "actual": "8. kekhawatiran"
+          },
+          {
+            "expected": "9. ekonomi",
+            "actual": "9. ekonomi"
+          },
+          {
+            "expected": "10. OJK",
+            "actual": "10. OJK"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-03",
+      "tab": "network",
+      "screenshot": "03-network-1920x1080.png",
+      "state": {
+        "activeTab": "network",
+        "month": "2026-03",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": {
+          "nodes": 16,
+          "edges": 17,
+          "labeled": 15,
+          "canvas": {
+            "x": 27,
+            "y": 796.21875,
+            "width": 1866,
+            "height": 259,
+            "right": 1893,
+            "bottom": 1055.21875
+          }
+        },
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. israel",
+            "actual": "1. israel"
+          },
+          {
+            "expected": "2. militer",
+            "actual": "2. militer"
+          },
+          {
+            "expected": "3. konflik",
+            "actual": "3. konflik"
+          },
+          {
+            "expected": "4. risiko",
+            "actual": "4. risiko"
+          },
+          {
+            "expected": "5. perang",
+            "actual": "5. perang"
+          },
+          {
+            "expected": "6. selat hormuz",
+            "actual": "6. selat hormuz"
+          },
+          {
+            "expected": "7. asia",
+            "actual": "7. asia"
+          },
+          {
+            "expected": "8. jalur",
+            "actual": "8. jalur"
+          },
+          {
+            "expected": "9. serangan",
+            "actual": "9. serangan"
+          },
+          {
+            "expected": "10. menahan",
+            "actual": "10. menahan"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-03",
+      "tab": "headlines",
+      "screenshot": "03-headlines-1920x1080.png",
+      "state": {
+        "activeTab": "headlines",
+        "month": "2026-03",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. israel",
+            "actual": "1. israel"
+          },
+          {
+            "expected": "2. militer",
+            "actual": "2. militer"
+          },
+          {
+            "expected": "3. konflik",
+            "actual": "3. konflik"
+          },
+          {
+            "expected": "4. risiko",
+            "actual": "4. risiko"
+          },
+          {
+            "expected": "5. perang",
+            "actual": "5. perang"
+          },
+          {
+            "expected": "6. selat hormuz",
+            "actual": "6. selat hormuz"
+          },
+          {
+            "expected": "7. asia",
+            "actual": "7. asia"
+          },
+          {
+            "expected": "8. jalur",
+            "actual": "8. jalur"
+          },
+          {
+            "expected": "9. serangan",
+            "actual": "9. serangan"
+          },
+          {
+            "expected": "10. menahan",
+            "actual": "10. menahan"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-03",
+      "tab": "bump",
+      "screenshot": "03-bump-1920x1080.png",
+      "state": {
+        "activeTab": "bump",
+        "month": "2026-03",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 12,
+          "labelBoxes": [
+            {
+              "text": "presiden donald",
+              "rect": {
+                "x": 1649,
+                "y": 757.703125,
+                "width": 131.28125,
+                "height": 24,
+                "right": 1780.28125,
+                "bottom": 781.703125
+              }
+            },
+            {
+              "text": "emerging market",
+              "rect": {
+                "x": 1649,
+                "y": 779.703125,
+                "width": 139.65625,
+                "height": 24,
+                "right": 1788.65625,
+                "bottom": 803.703125
+              }
+            },
+            {
+              "text": "tunai",
+              "rect": {
+                "x": 1649,
+                "y": 801.703125,
+                "width": 41.671875,
+                "height": 24,
+                "right": 1690.671875,
+                "bottom": 825.703125
+              }
+            },
+            {
+              "text": "lainnya stagnan",
+              "rect": {
+                "x": 1649,
+                "y": 823.703125,
+                "width": 130.484375,
+                "height": 24,
+                "right": 1779.484375,
+                "bottom": 847.703125
+              }
+            },
+            {
+              "text": "net foreign sell",
+              "rect": {
+                "x": 1649,
+                "y": 845.703125,
+                "width": 122.171875,
+                "height": 24,
+                "right": 1771.171875,
+                "bottom": 869.703125
+              }
+            },
+            {
+              "text": "keluar",
+              "rect": {
+                "x": 1649,
+                "y": 867.703125,
+                "width": 50.359375,
+                "height": 24,
+                "right": 1699.359375,
+                "bottom": 891.703125
+              }
+            },
+            {
+              "text": "gencatan senjata",
+              "rect": {
+                "x": 1649,
+                "y": 889.703125,
+                "width": 142.546875,
+                "height": 24,
+                "right": 1791.546875,
+                "bottom": 913.703125
+              }
+            },
+            {
+              "text": "Danantara",
+              "rect": {
+                "x": 1649,
+                "y": 911.703125,
+                "width": 85.40625,
+                "height": 24,
+                "right": 1734.40625,
+                "bottom": 935.703125
+              }
+            },
+            {
+              "text": "trading halt",
+              "rect": {
+                "x": 1649,
+                "y": 933.703125,
+                "width": 94.71875,
+                "height": 24,
+                "right": 1743.71875,
+                "bottom": 957.703125
+              }
+            },
+            {
+              "text": "bergerak stagnan",
+              "rect": {
+                "x": 1649,
+                "y": 955.703125,
+                "width": 144.703125,
+                "height": 24,
+                "right": 1793.703125,
+                "bottom": 979.703125
+              }
+            },
+            {
+              "text": "israel",
+              "rect": {
+                "x": 1649,
+                "y": 977.703125,
+                "width": 44.328125,
+                "height": 24,
+                "right": 1693.328125,
+                "bottom": 1001.703125
+              }
+            },
+            {
+              "text": "aktivitas",
+              "rect": {
+                "x": 1649,
+                "y": 999.703125,
+                "width": 69.90625,
+                "height": 24,
+                "right": 1718.90625,
+                "bottom": 1023.703125
+              }
+            }
+          ]
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. israel",
+            "actual": "1. israel"
+          },
+          {
+            "expected": "2. militer",
+            "actual": "2. militer"
+          },
+          {
+            "expected": "3. konflik",
+            "actual": "3. konflik"
+          },
+          {
+            "expected": "4. risiko",
+            "actual": "4. risiko"
+          },
+          {
+            "expected": "5. perang",
+            "actual": "5. perang"
+          },
+          {
+            "expected": "6. selat hormuz",
+            "actual": "6. selat hormuz"
+          },
+          {
+            "expected": "7. asia",
+            "actual": "7. asia"
+          },
+          {
+            "expected": "8. jalur",
+            "actual": "8. jalur"
+          },
+          {
+            "expected": "9. serangan",
+            "actual": "9. serangan"
+          },
+          {
+            "expected": "10. menahan",
+            "actual": "10. menahan"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-11",
+      "tab": "network",
+      "screenshot": "11-network-1920x1080.png",
+      "state": {
+        "activeTab": "network",
+        "month": "2026-11",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": {
+          "nodes": 31,
+          "edges": 35,
+          "labeled": 15,
+          "canvas": {
+            "x": 27,
+            "y": 796.21875,
+            "width": 1866,
+            "height": 259,
+            "right": 1893,
+            "bottom": 1055.21875
+          }
+        },
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. presiden donald",
+            "actual": "1. presiden donald"
+          },
+          {
+            "expected": "2. bisnis",
+            "actual": "2. bisnis"
+          },
+          {
+            "expected": "3. pemilu sela",
+            "actual": "3. pemilu sela"
+          },
+          {
+            "expected": "4. demokrat",
+            "actual": "4. demokrat"
+          },
+          {
+            "expected": "5. kongres",
+            "actual": "5. kongres"
+          },
+          {
+            "expected": "6. year",
+            "actual": "6. year"
+          },
+          {
+            "expected": "7. melampaui ekspektasi",
+            "actual": "7. melampaui ekspektasi"
+          },
+          {
+            "expected": "8. aktivitas",
+            "actual": "8. aktivitas"
+          },
+          {
+            "expected": "9. tumbuh",
+            "actual": "9. tumbuh"
+          },
+          {
+            "expected": "10. yoy",
+            "actual": "10. yoy"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-11",
+      "tab": "headlines",
+      "screenshot": "11-headlines-1920x1080.png",
+      "state": {
+        "activeTab": "headlines",
+        "month": "2026-11",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. presiden donald",
+            "actual": "1. presiden donald"
+          },
+          {
+            "expected": "2. bisnis",
+            "actual": "2. bisnis"
+          },
+          {
+            "expected": "3. pemilu sela",
+            "actual": "3. pemilu sela"
+          },
+          {
+            "expected": "4. demokrat",
+            "actual": "4. demokrat"
+          },
+          {
+            "expected": "5. kongres",
+            "actual": "5. kongres"
+          },
+          {
+            "expected": "6. year",
+            "actual": "6. year"
+          },
+          {
+            "expected": "7. melampaui ekspektasi",
+            "actual": "7. melampaui ekspektasi"
+          },
+          {
+            "expected": "8. aktivitas",
+            "actual": "8. aktivitas"
+          },
+          {
+            "expected": "9. tumbuh",
+            "actual": "9. tumbuh"
+          },
+          {
+            "expected": "10. yoy",
+            "actual": "10. yoy"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "month": "2026-11",
+      "tab": "bump",
+      "screenshot": "11-bump-1920x1080.png",
+      "state": {
+        "activeTab": "bump",
+        "month": "2026-11",
+        "panels": {
+          "p1": {
+            "x": 12,
+            "y": 76,
+            "width": 823.671875,
+            "height": 602.21875,
+            "right": 835.671875,
+            "bottom": 678.21875
+          },
+          "p2": {
+            "x": 847.671875,
+            "y": 76,
+            "width": 468,
+            "height": 602.21875,
+            "right": 1315.671875,
+            "bottom": 678.21875
+          },
+          "p4": {
+            "x": 1327.671875,
+            "y": 76,
+            "width": 580.328125,
+            "height": 602.21875,
+            "right": 1908,
+            "bottom": 678.21875
+          },
+          "detail": {
+            "x": 12,
+            "y": 744.21875,
+            "width": 1896,
+            "height": 323.765625,
+            "right": 1908,
+            "bottom": 1067.984375
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 12,
+          "labelBoxes": [
+            {
+              "text": "presiden donald",
+              "rect": {
+                "x": 1649,
+                "y": 757.703125,
+                "width": 131.28125,
+                "height": 24,
+                "right": 1780.28125,
+                "bottom": 781.703125
+              }
+            },
+            {
+              "text": "emerging market",
+              "rect": {
+                "x": 1649,
+                "y": 779.703125,
+                "width": 139.65625,
+                "height": 24,
+                "right": 1788.65625,
+                "bottom": 803.703125
+              }
+            },
+            {
+              "text": "tunai",
+              "rect": {
+                "x": 1649,
+                "y": 801.703125,
+                "width": 41.671875,
+                "height": 24,
+                "right": 1690.671875,
+                "bottom": 825.703125
+              }
+            },
+            {
+              "text": "lainnya stagnan",
+              "rect": {
+                "x": 1649,
+                "y": 823.703125,
+                "width": 130.484375,
+                "height": 24,
+                "right": 1779.484375,
+                "bottom": 847.703125
+              }
+            },
+            {
+              "text": "net foreign sell",
+              "rect": {
+                "x": 1649,
+                "y": 845.703125,
+                "width": 122.171875,
+                "height": 24,
+                "right": 1771.171875,
+                "bottom": 869.703125
+              }
+            },
+            {
+              "text": "keluar",
+              "rect": {
+                "x": 1649,
+                "y": 867.703125,
+                "width": 50.359375,
+                "height": 24,
+                "right": 1699.359375,
+                "bottom": 891.703125
+              }
+            },
+            {
+              "text": "gencatan senjata",
+              "rect": {
+                "x": 1649,
+                "y": 889.703125,
+                "width": 142.546875,
+                "height": 24,
+                "right": 1791.546875,
+                "bottom": 913.703125
+              }
+            },
+            {
+              "text": "Danantara",
+              "rect": {
+                "x": 1649,
+                "y": 911.703125,
+                "width": 85.40625,
+                "height": 24,
+                "right": 1734.40625,
+                "bottom": 935.703125
+              }
+            },
+            {
+              "text": "trading halt",
+              "rect": {
+                "x": 1649,
+                "y": 933.703125,
+                "width": 94.71875,
+                "height": 24,
+                "right": 1743.71875,
+                "bottom": 957.703125
+              }
+            },
+            {
+              "text": "bergerak stagnan",
+              "rect": {
+                "x": 1649,
+                "y": 955.703125,
+                "width": 144.703125,
+                "height": 24,
+                "right": 1793.703125,
+                "bottom": 979.703125
+              }
+            },
+            {
+              "text": "israel",
+              "rect": {
+                "x": 1649,
+                "y": 977.703125,
+                "width": 44.328125,
+                "height": 24,
+                "right": 1693.328125,
+                "bottom": 1001.703125
+              }
+            },
+            {
+              "text": "aktivitas",
+              "rect": {
+                "x": 1649,
+                "y": 999.703125,
+                "width": 69.90625,
+                "height": 24,
+                "right": 1718.90625,
+                "bottom": 1023.703125
+              }
+            }
+          ]
+        },
+        "timelineLabels": [
+          {
+            "x": 1393.8936767578125,
+            "y": 549.21875,
+            "width": 30.046875,
+            "height": 24,
+            "right": 1423.9405517578125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1483.84619140625,
+            "y": 549.21875,
+            "width": 33.90625,
+            "height": 24,
+            "right": 1517.75244140625,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1582.835205078125,
+            "y": 549.21875,
+            "width": 25.921875,
+            "height": 24,
+            "right": 1608.757080078125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1676.35546875,
+            "y": 549.21875,
+            "width": 29.4119873046875,
+            "height": 24,
+            "right": 1705.7674560546875,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1772.47216796875,
+            "y": 549.21875,
+            "width": 29.825927734375,
+            "height": 24,
+            "right": 1802.298095703125,
+            "bottom": 573.21875
+          },
+          {
+            "x": 1866.187744140625,
+            "y": 549.21875,
+            "width": 32.8499755859375,
+            "height": 24,
+            "right": 1899.0377197265625,
+            "bottom": 573.21875
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. presiden donald",
+            "actual": "1. presiden donald"
+          },
+          {
+            "expected": "2. bisnis",
+            "actual": "2. bisnis"
+          },
+          {
+            "expected": "3. pemilu sela",
+            "actual": "3. pemilu sela"
+          },
+          {
+            "expected": "4. demokrat",
+            "actual": "4. demokrat"
+          },
+          {
+            "expected": "5. kongres",
+            "actual": "5. kongres"
+          },
+          {
+            "expected": "6. year",
+            "actual": "6. year"
+          },
+          {
+            "expected": "7. melampaui ekspektasi",
+            "actual": "7. melampaui ekspektasi"
+          },
+          {
+            "expected": "8. aktivitas",
+            "actual": "8. aktivitas"
+          },
+          {
+            "expected": "9. tumbuh",
+            "actual": "9. tumbuh"
+          },
+          {
+            "expected": "10. yoy",
+            "actual": "10. yoy"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-01",
+      "tab": "network",
+      "screenshot": "01-network-1280x720.png",
+      "state": {
+        "activeTab": "network",
+        "month": "2026-01",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": {
+          "nodes": 36,
+          "edges": 37,
+          "labeled": 15,
+          "canvas": {
+            "x": 33,
+            "y": 420,
+            "width": 1213.984375,
+            "height": 273,
+            "right": 1246.984375,
+            "bottom": 693
+          }
+        },
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. trading halt",
+            "actual": "1. trading halt"
+          },
+          {
+            "expected": "2. menteri keuangan",
+            "actual": "2. menteri keuangan"
+          },
+          {
+            "expected": "3. investor global",
+            "actual": "3. investor global"
+          },
+          {
+            "expected": "4. purbaya yudhi sadewa",
+            "actual": "4. purbaya yudhi sadewa"
+          },
+          {
+            "expected": "5. free float",
+            "actual": "5. free float"
+          },
+          {
+            "expected": "6. BUMI",
+            "actual": "6. BUMI"
+          },
+          {
+            "expected": "7. ambruk",
+            "actual": "7. ambruk"
+          },
+          {
+            "expected": "8. kekhawatiran",
+            "actual": "8. kekhawatiran"
+          },
+          {
+            "expected": "9. ekonomi",
+            "actual": "9. ekonomi"
+          },
+          {
+            "expected": "10. OJK",
+            "actual": "10. OJK"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-01",
+      "tab": "headlines",
+      "screenshot": "01-headlines-1280x720.png",
+      "state": {
+        "activeTab": "headlines",
+        "month": "2026-01",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. trading halt",
+            "actual": "1. trading halt"
+          },
+          {
+            "expected": "2. menteri keuangan",
+            "actual": "2. menteri keuangan"
+          },
+          {
+            "expected": "3. investor global",
+            "actual": "3. investor global"
+          },
+          {
+            "expected": "4. purbaya yudhi sadewa",
+            "actual": "4. purbaya yudhi sadewa"
+          },
+          {
+            "expected": "5. free float",
+            "actual": "5. free float"
+          },
+          {
+            "expected": "6. BUMI",
+            "actual": "6. BUMI"
+          },
+          {
+            "expected": "7. ambruk",
+            "actual": "7. ambruk"
+          },
+          {
+            "expected": "8. kekhawatiran",
+            "actual": "8. kekhawatiran"
+          },
+          {
+            "expected": "9. ekonomi",
+            "actual": "9. ekonomi"
+          },
+          {
+            "expected": "10. OJK",
+            "actual": "10. OJK"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-01",
+      "tab": "bump",
+      "screenshot": "01-bump-1280x720.png",
+      "state": {
+        "activeTab": "bump",
+        "month": "2026-01",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 12,
+          "labelBoxes": [
+            {
+              "text": "presiden donald",
+              "rect": {
+                "x": 1000.984375,
+                "y": 385.484375,
+                "width": 131.28125,
+                "height": 24,
+                "right": 1132.265625,
+                "bottom": 409.484375
+              }
+            },
+            {
+              "text": "emerging market",
+              "rect": {
+                "x": 1000.984375,
+                "y": 407.484375,
+                "width": 139.65625,
+                "height": 24,
+                "right": 1140.640625,
+                "bottom": 431.484375
+              }
+            },
+            {
+              "text": "tunai",
+              "rect": {
+                "x": 1000.984375,
+                "y": 429.484375,
+                "width": 41.671875,
+                "height": 24,
+                "right": 1042.65625,
+                "bottom": 453.484375
+              }
+            },
+            {
+              "text": "lainnya stagnan",
+              "rect": {
+                "x": 1000.984375,
+                "y": 451.484375,
+                "width": 130.484375,
+                "height": 24,
+                "right": 1131.46875,
+                "bottom": 475.484375
+              }
+            },
+            {
+              "text": "net foreign sell",
+              "rect": {
+                "x": 1000.984375,
+                "y": 473.484375,
+                "width": 122.171875,
+                "height": 24,
+                "right": 1123.15625,
+                "bottom": 497.484375
+              }
+            },
+            {
+              "text": "keluar",
+              "rect": {
+                "x": 1000.984375,
+                "y": 495.484375,
+                "width": 50.359375,
+                "height": 24,
+                "right": 1051.34375,
+                "bottom": 519.484375
+              }
+            },
+            {
+              "text": "gencatan senjata",
+              "rect": {
+                "x": 1000.984375,
+                "y": 517.484375,
+                "width": 142.546875,
+                "height": 24,
+                "right": 1143.53125,
+                "bottom": 541.484375
+              }
+            },
+            {
+              "text": "Danantara",
+              "rect": {
+                "x": 1000.984375,
+                "y": 539.484375,
+                "width": 85.40625,
+                "height": 24,
+                "right": 1086.390625,
+                "bottom": 563.484375
+              }
+            },
+            {
+              "text": "trading halt",
+              "rect": {
+                "x": 1000.984375,
+                "y": 561.484375,
+                "width": 94.71875,
+                "height": 24,
+                "right": 1095.703125,
+                "bottom": 585.484375
+              }
+            },
+            {
+              "text": "bergerak stagnan",
+              "rect": {
+                "x": 1000.984375,
+                "y": 583.484375,
+                "width": 144.703125,
+                "height": 24,
+                "right": 1145.6875,
+                "bottom": 607.484375
+              }
+            },
+            {
+              "text": "israel",
+              "rect": {
+                "x": 1000.984375,
+                "y": 605.484375,
+                "width": 44.328125,
+                "height": 24,
+                "right": 1045.3125,
+                "bottom": 629.484375
+              }
+            },
+            {
+              "text": "aktivitas",
+              "rect": {
+                "x": 1000.984375,
+                "y": 627.484375,
+                "width": 69.90625,
+                "height": 24,
+                "right": 1070.890625,
+                "bottom": 651.484375
+              }
+            }
+          ]
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. trading halt",
+            "actual": "1. trading halt"
+          },
+          {
+            "expected": "2. menteri keuangan",
+            "actual": "2. menteri keuangan"
+          },
+          {
+            "expected": "3. investor global",
+            "actual": "3. investor global"
+          },
+          {
+            "expected": "4. purbaya yudhi sadewa",
+            "actual": "4. purbaya yudhi sadewa"
+          },
+          {
+            "expected": "5. free float",
+            "actual": "5. free float"
+          },
+          {
+            "expected": "6. BUMI",
+            "actual": "6. BUMI"
+          },
+          {
+            "expected": "7. ambruk",
+            "actual": "7. ambruk"
+          },
+          {
+            "expected": "8. kekhawatiran",
+            "actual": "8. kekhawatiran"
+          },
+          {
+            "expected": "9. ekonomi",
+            "actual": "9. ekonomi"
+          },
+          {
+            "expected": "10. OJK",
+            "actual": "10. OJK"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-03",
+      "tab": "network",
+      "screenshot": "03-network-1280x720.png",
+      "state": {
+        "activeTab": "network",
+        "month": "2026-03",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": {
+          "nodes": 16,
+          "edges": 17,
+          "labeled": 15,
+          "canvas": {
+            "x": 33,
+            "y": 420,
+            "width": 1213.984375,
+            "height": 273,
+            "right": 1246.984375,
+            "bottom": 693
+          }
+        },
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. israel",
+            "actual": "1. israel"
+          },
+          {
+            "expected": "2. militer",
+            "actual": "2. militer"
+          },
+          {
+            "expected": "3. konflik",
+            "actual": "3. konflik"
+          },
+          {
+            "expected": "4. risiko",
+            "actual": "4. risiko"
+          },
+          {
+            "expected": "5. perang",
+            "actual": "5. perang"
+          },
+          {
+            "expected": "6. selat hormuz",
+            "actual": "6. selat hormuz"
+          },
+          {
+            "expected": "7. asia",
+            "actual": "7. asia"
+          },
+          {
+            "expected": "8. jalur",
+            "actual": "8. jalur"
+          },
+          {
+            "expected": "9. serangan",
+            "actual": "9. serangan"
+          },
+          {
+            "expected": "10. menahan",
+            "actual": "10. menahan"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-03",
+      "tab": "headlines",
+      "screenshot": "03-headlines-1280x720.png",
+      "state": {
+        "activeTab": "headlines",
+        "month": "2026-03",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. israel",
+            "actual": "1. israel"
+          },
+          {
+            "expected": "2. militer",
+            "actual": "2. militer"
+          },
+          {
+            "expected": "3. konflik",
+            "actual": "3. konflik"
+          },
+          {
+            "expected": "4. risiko",
+            "actual": "4. risiko"
+          },
+          {
+            "expected": "5. perang",
+            "actual": "5. perang"
+          },
+          {
+            "expected": "6. selat hormuz",
+            "actual": "6. selat hormuz"
+          },
+          {
+            "expected": "7. asia",
+            "actual": "7. asia"
+          },
+          {
+            "expected": "8. jalur",
+            "actual": "8. jalur"
+          },
+          {
+            "expected": "9. serangan",
+            "actual": "9. serangan"
+          },
+          {
+            "expected": "10. menahan",
+            "actual": "10. menahan"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-03",
+      "tab": "bump",
+      "screenshot": "03-bump-1280x720.png",
+      "state": {
+        "activeTab": "bump",
+        "month": "2026-03",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 12,
+          "labelBoxes": [
+            {
+              "text": "presiden donald",
+              "rect": {
+                "x": 1000.984375,
+                "y": 385.484375,
+                "width": 131.28125,
+                "height": 24,
+                "right": 1132.265625,
+                "bottom": 409.484375
+              }
+            },
+            {
+              "text": "emerging market",
+              "rect": {
+                "x": 1000.984375,
+                "y": 407.484375,
+                "width": 139.65625,
+                "height": 24,
+                "right": 1140.640625,
+                "bottom": 431.484375
+              }
+            },
+            {
+              "text": "tunai",
+              "rect": {
+                "x": 1000.984375,
+                "y": 429.484375,
+                "width": 41.671875,
+                "height": 24,
+                "right": 1042.65625,
+                "bottom": 453.484375
+              }
+            },
+            {
+              "text": "lainnya stagnan",
+              "rect": {
+                "x": 1000.984375,
+                "y": 451.484375,
+                "width": 130.484375,
+                "height": 24,
+                "right": 1131.46875,
+                "bottom": 475.484375
+              }
+            },
+            {
+              "text": "net foreign sell",
+              "rect": {
+                "x": 1000.984375,
+                "y": 473.484375,
+                "width": 122.171875,
+                "height": 24,
+                "right": 1123.15625,
+                "bottom": 497.484375
+              }
+            },
+            {
+              "text": "keluar",
+              "rect": {
+                "x": 1000.984375,
+                "y": 495.484375,
+                "width": 50.359375,
+                "height": 24,
+                "right": 1051.34375,
+                "bottom": 519.484375
+              }
+            },
+            {
+              "text": "gencatan senjata",
+              "rect": {
+                "x": 1000.984375,
+                "y": 517.484375,
+                "width": 142.546875,
+                "height": 24,
+                "right": 1143.53125,
+                "bottom": 541.484375
+              }
+            },
+            {
+              "text": "Danantara",
+              "rect": {
+                "x": 1000.984375,
+                "y": 539.484375,
+                "width": 85.40625,
+                "height": 24,
+                "right": 1086.390625,
+                "bottom": 563.484375
+              }
+            },
+            {
+              "text": "trading halt",
+              "rect": {
+                "x": 1000.984375,
+                "y": 561.484375,
+                "width": 94.71875,
+                "height": 24,
+                "right": 1095.703125,
+                "bottom": 585.484375
+              }
+            },
+            {
+              "text": "bergerak stagnan",
+              "rect": {
+                "x": 1000.984375,
+                "y": 583.484375,
+                "width": 144.703125,
+                "height": 24,
+                "right": 1145.6875,
+                "bottom": 607.484375
+              }
+            },
+            {
+              "text": "israel",
+              "rect": {
+                "x": 1000.984375,
+                "y": 605.484375,
+                "width": 44.328125,
+                "height": 24,
+                "right": 1045.3125,
+                "bottom": 629.484375
+              }
+            },
+            {
+              "text": "aktivitas",
+              "rect": {
+                "x": 1000.984375,
+                "y": 627.484375,
+                "width": 69.90625,
+                "height": 24,
+                "right": 1070.890625,
+                "bottom": 651.484375
+              }
+            }
+          ]
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. israel",
+            "actual": "1. israel"
+          },
+          {
+            "expected": "2. militer",
+            "actual": "2. militer"
+          },
+          {
+            "expected": "3. konflik",
+            "actual": "3. konflik"
+          },
+          {
+            "expected": "4. risiko",
+            "actual": "4. risiko"
+          },
+          {
+            "expected": "5. perang",
+            "actual": "5. perang"
+          },
+          {
+            "expected": "6. selat hormuz",
+            "actual": "6. selat hormuz"
+          },
+          {
+            "expected": "7. asia",
+            "actual": "7. asia"
+          },
+          {
+            "expected": "8. jalur",
+            "actual": "8. jalur"
+          },
+          {
+            "expected": "9. serangan",
+            "actual": "9. serangan"
+          },
+          {
+            "expected": "10. menahan",
+            "actual": "10. menahan"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-11",
+      "tab": "network",
+      "screenshot": "11-network-1280x720.png",
+      "state": {
+        "activeTab": "network",
+        "month": "2026-11",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": {
+          "nodes": 31,
+          "edges": 35,
+          "labeled": 15,
+          "canvas": {
+            "x": 33,
+            "y": 420,
+            "width": 1213.984375,
+            "height": 273,
+            "right": 1246.984375,
+            "bottom": 693
+          }
+        },
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. presiden donald",
+            "actual": "1. presiden donald"
+          },
+          {
+            "expected": "2. bisnis",
+            "actual": "2. bisnis"
+          },
+          {
+            "expected": "3. pemilu sela",
+            "actual": "3. pemilu sela"
+          },
+          {
+            "expected": "4. demokrat",
+            "actual": "4. demokrat"
+          },
+          {
+            "expected": "5. kongres",
+            "actual": "5. kongres"
+          },
+          {
+            "expected": "6. year",
+            "actual": "6. year"
+          },
+          {
+            "expected": "7. melampaui ekspektasi",
+            "actual": "7. melampaui ekspektasi"
+          },
+          {
+            "expected": "8. aktivitas",
+            "actual": "8. aktivitas"
+          },
+          {
+            "expected": "9. tumbuh",
+            "actual": "9. tumbuh"
+          },
+          {
+            "expected": "10. yoy",
+            "actual": "10. yoy"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-11",
+      "tab": "headlines",
+      "screenshot": "11-headlines-1280x720.png",
+      "state": {
+        "activeTab": "headlines",
+        "month": "2026-11",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 0,
+          "labelBoxes": []
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. presiden donald",
+            "actual": "1. presiden donald"
+          },
+          {
+            "expected": "2. bisnis",
+            "actual": "2. bisnis"
+          },
+          {
+            "expected": "3. pemilu sela",
+            "actual": "3. pemilu sela"
+          },
+          {
+            "expected": "4. demokrat",
+            "actual": "4. demokrat"
+          },
+          {
+            "expected": "5. kongres",
+            "actual": "5. kongres"
+          },
+          {
+            "expected": "6. year",
+            "actual": "6. year"
+          },
+          {
+            "expected": "7. melampaui ekspektasi",
+            "actual": "7. melampaui ekspektasi"
+          },
+          {
+            "expected": "8. aktivitas",
+            "actual": "8. aktivitas"
+          },
+          {
+            "expected": "9. tumbuh",
+            "actual": "9. tumbuh"
+          },
+          {
+            "expected": "10. yoy",
+            "actual": "10. yoy"
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "month": "2026-11",
+      "tab": "bump",
+      "screenshot": "11-bump-1280x720.png",
+      "state": {
+        "activeTab": "bump",
+        "month": "2026-11",
+        "panels": {
+          "p1": {
+            "x": 9,
+            "y": 73,
+            "width": 547.359375,
+            "height": 232,
+            "right": 556.359375,
+            "bottom": 305
+          },
+          "p2": {
+            "x": 565.359375,
+            "y": 73,
+            "width": 311,
+            "height": 232,
+            "right": 876.359375,
+            "bottom": 305
+          },
+          "p4": {
+            "x": 885.359375,
+            "y": 73,
+            "width": 385.625,
+            "height": 232,
+            "right": 1270.984375,
+            "bottom": 305
+          },
+          "detail": {
+            "x": 9,
+            "y": 363,
+            "width": 1261.984375,
+            "height": 348,
+            "right": 1270.984375,
+            "bottom": 711
+          }
+        },
+        "p1FontMin": 13,
+        "otherTextMin": 18,
+        "network": null,
+        "bump": {
+          "labels": 12,
+          "labelBoxes": [
+            {
+              "text": "presiden donald",
+              "rect": {
+                "x": 1000.984375,
+                "y": 385.484375,
+                "width": 131.28125,
+                "height": 24,
+                "right": 1132.265625,
+                "bottom": 409.484375
+              }
+            },
+            {
+              "text": "emerging market",
+              "rect": {
+                "x": 1000.984375,
+                "y": 407.484375,
+                "width": 139.65625,
+                "height": 24,
+                "right": 1140.640625,
+                "bottom": 431.484375
+              }
+            },
+            {
+              "text": "tunai",
+              "rect": {
+                "x": 1000.984375,
+                "y": 429.484375,
+                "width": 41.671875,
+                "height": 24,
+                "right": 1042.65625,
+                "bottom": 453.484375
+              }
+            },
+            {
+              "text": "lainnya stagnan",
+              "rect": {
+                "x": 1000.984375,
+                "y": 451.484375,
+                "width": 130.484375,
+                "height": 24,
+                "right": 1131.46875,
+                "bottom": 475.484375
+              }
+            },
+            {
+              "text": "net foreign sell",
+              "rect": {
+                "x": 1000.984375,
+                "y": 473.484375,
+                "width": 122.171875,
+                "height": 24,
+                "right": 1123.15625,
+                "bottom": 497.484375
+              }
+            },
+            {
+              "text": "keluar",
+              "rect": {
+                "x": 1000.984375,
+                "y": 495.484375,
+                "width": 50.359375,
+                "height": 24,
+                "right": 1051.34375,
+                "bottom": 519.484375
+              }
+            },
+            {
+              "text": "gencatan senjata",
+              "rect": {
+                "x": 1000.984375,
+                "y": 517.484375,
+                "width": 142.546875,
+                "height": 24,
+                "right": 1143.53125,
+                "bottom": 541.484375
+              }
+            },
+            {
+              "text": "Danantara",
+              "rect": {
+                "x": 1000.984375,
+                "y": 539.484375,
+                "width": 85.40625,
+                "height": 24,
+                "right": 1086.390625,
+                "bottom": 563.484375
+              }
+            },
+            {
+              "text": "trading halt",
+              "rect": {
+                "x": 1000.984375,
+                "y": 561.484375,
+                "width": 94.71875,
+                "height": 24,
+                "right": 1095.703125,
+                "bottom": 585.484375
+              }
+            },
+            {
+              "text": "bergerak stagnan",
+              "rect": {
+                "x": 1000.984375,
+                "y": 583.484375,
+                "width": 144.703125,
+                "height": 24,
+                "right": 1145.6875,
+                "bottom": 607.484375
+              }
+            },
+            {
+              "text": "israel",
+              "rect": {
+                "x": 1000.984375,
+                "y": 605.484375,
+                "width": 44.328125,
+                "height": 24,
+                "right": 1045.3125,
+                "bottom": 629.484375
+              }
+            },
+            {
+              "text": "aktivitas",
+              "rect": {
+                "x": 1000.984375,
+                "y": 627.484375,
+                "width": 69.90625,
+                "height": 24,
+                "right": 1070.890625,
+                "bottom": 651.484375
+              }
+            }
+          ]
+        },
+        "timelineLabels": [
+          {
+            "x": 986.5194702148438,
+            "y": 186.6666717529297,
+            "width": 20.03125,
+            "height": 16,
+            "right": 1006.5507202148438,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1022.6192016601562,
+            "y": 186.6666717529297,
+            "width": 22.60931396484375,
+            "height": 16,
+            "right": 1045.228515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1063.939453125,
+            "y": 186.6666717529297,
+            "width": 17.28125,
+            "height": 16,
+            "right": 1081.220703125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1101.611328125,
+            "y": 186.6666717529297,
+            "width": 19.6080322265625,
+            "height": 16,
+            "right": 1121.2193603515625,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1140.6121826171875,
+            "y": 186.6666717529297,
+            "width": 19.884033203125,
+            "height": 16,
+            "right": 1160.4962158203125,
+            "bottom": 202.6666717529297
+          },
+          {
+            "x": 1178.4090576171875,
+            "y": 186.6666717529297,
+            "width": 21.9000244140625,
+            "height": 16,
+            "right": 1200.30908203125,
+            "bottom": 202.6666717529297
+          }
+        ],
+        "top10Labels": [
+          {
+            "expected": "1. presiden donald",
+            "actual": "1. presiden donald"
+          },
+          {
+            "expected": "2. bisnis",
+            "actual": "2. bisnis"
+          },
+          {
+            "expected": "3. pemilu sela",
+            "actual": "3. pemilu sela"
+          },
+          {
+            "expected": "4. demokrat",
+            "actual": "4. demokrat"
+          },
+          {
+            "expected": "5. kongres",
+            "actual": "5. kongres"
+          },
+          {
+            "expected": "6. year",
+            "actual": "6. year"
+          },
+          {
+            "expected": "7. melampaui ekspektasi",
+            "actual": "7. melampaui ekspektasi"
+          },
+          {
+            "expected": "8. aktivitas",
+            "actual": "8. aktivitas"
+          },
+          {
+            "expected": "9. tumbuh",
+            "actual": "9. tumbuh"
+          },
+          {
+            "expected": "10. yoy",
+            "actual": "10. yoy"
+          }
+        ]
+      }
+    }
+  ],
+  "audits": [
+    {
+      "viewport": "1920x1080",
+      "audit": {
+        "viewport": [
+          1920,
+          1080
+        ],
+        "document": [
+          1920,
+          1080
+        ],
+        "defaultTab": "headlines",
+        "minDomTextPx": 18,
+        "minP1ComputedPx": 13,
+        "reducedMotion": true
+      },
+      "keyboard": {
+        "right": "2026-11",
+        "mode": "freq",
+        "home": "ALL",
+        "space": "Ⅱ STOP",
+        "focus5": true
+      },
+      "consoleErrors": [],
+      "httpRequests": []
+    },
+    {
+      "viewport": "1280x720",
+      "audit": {
+        "viewport": [
+          1280,
+          720
+        ],
+        "document": [
+          1280,
+          720
+        ],
+        "defaultTab": "headlines",
+        "minDomTextPx": 18,
+        "minP1ComputedPx": 13,
+        "reducedMotion": true
+      },
+      "keyboard": {
+        "right": "2026-11",
+        "mode": "freq",
+        "home": "ALL",
+        "space": "Ⅱ STOP",
+        "focus5": true
+      },
+      "consoleErrors": [],
+      "httpRequests": []
+    }
+  ],
+  "notes": [
+    "P1 sphere text sizes are owned by Worker 3 and excluded from the 18px DOM text audit; their computed perspective font sizes may be smaller than 18px."
+  ]
+}

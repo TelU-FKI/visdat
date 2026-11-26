@@ -1,0 +1,183 @@
+{
+  "url": "file:// dashboard/index.html?debug=1",
+  "screenshots": {
+    "1920x1080": "dashboard/qa/integration-1920x1080.png",
+    "1280x720": "dashboard/qa/integration-1280x720.png"
+  },
+  "httpBlocked": true,
+  "viewports": {
+    "1920x1080": {
+      "document": [
+        1920,
+        1080
+      ],
+      "viewport": [
+        1920,
+        1080
+      ]
+    },
+    "1280x720": {
+      "viewport": [
+        1280,
+        720
+      ],
+      "document": [
+        1280,
+        720
+      ]
+    }
+  },
+  "interactions": {
+    "pointerTarget": {
+      "x": 209,
+      "y": 153,
+      "id": "trading_halt",
+      "label": "trading halt"
+    },
+    "pointerClickTerm": "trading_halt",
+    "pointerClickWorked": true,
+    "escapeClearsTerm": true,
+    "leftRight": {
+      "initial": "2026-01",
+      "leftAtStart": "2026-01",
+      "right": "2026-02"
+    },
+    "home": [
+      "ALL",
+      "freq"
+    ],
+    "reset": [
+      "2026-01",
+      "khas",
+      null
+    ],
+    "modeToggle": "freq",
+    "space": [
+      "Ⅱ STOP",
+      "▶ AUTO"
+    ],
+    "focusKeys": [
+      {
+        "key": "1",
+        "panel": "panel-1",
+        "detailTab": "network"
+      },
+      {
+        "key": "2",
+        "panel": "panel-2",
+        "detailTab": "network"
+      },
+      {
+        "key": "3",
+        "panel": "detail-panel",
+        "detailTab": "network"
+      },
+      {
+        "key": "4",
+        "panel": "panel-4",
+        "detailTab": "network"
+      },
+      {
+        "key": "5",
+        "panel": "detail-panel",
+        "detailTab": "headlines"
+      },
+      {
+        "key": "6",
+        "panel": "detail-panel",
+        "detailTab": "bump"
+      }
+    ],
+    "fullscreenShortcut": [
+      true,
+      true
+    ],
+    "help": [
+      true,
+      true
+    ]
+  },
+  "performance": {
+    "viewport": "1920x1080",
+    "measurementSeconds": 10.5,
+    "medianFps": 120,
+    "sampleFrames": 600,
+    "longTasksTotal10s": 5,
+    "longTasksBeforeMonthChange": 5,
+    "longTasksAfterMonthChange": 5,
+    "longTasksDuringMonthChange": 0
+  },
+  "glb": {
+    "activeSectorAfterRight": "sector_01",
+    "sectorAfterModeChange": "sector_00",
+    "pulseCount": 4,
+    "status": "loaded",
+    "text": "GLB: dimuat",
+    "loaderCalls": 1,
+    "loaderCall": "parse",
+    "nodeNames": [
+      "Scene",
+      "core_orb",
+      "ring_a",
+      "ring_b",
+      "ring_c",
+      "sectors",
+      "sector_00",
+      "sector_01",
+      "sector_02",
+      "sector_03",
+      "sector_04",
+      "sector_05",
+      "sector_06",
+      "sector_07",
+      "sector_08",
+      "sector_09",
+      "sector_10",
+      "sector_11",
+      "target",
+      "ticks"
+    ],
+    "initialSector": "sector_00"
+  },
+  "intro": {
+    "videoPlayed": true,
+    "stateBeforeSkip": "video-playing",
+    "source": "assets/intro.webm",
+    "enterSkipped": true,
+    "escapeSkipped": true
+  },
+  "network": {
+    "requestsTotal": 56,
+    "httpRequests": [],
+    "failedRequests": []
+  },
+  "consoleErrors": [],
+  "p1": {
+    "renderedWords": 80,
+    "visibleWords": 58,
+    "scrollRequired": true,
+    "hostScrollHeight": 556,
+    "hostClientHeight": 390,
+    "compactViewport": {
+      "renderedWords": 80,
+      "visibleWords": 12,
+      "scrollRequired": true,
+      "hostScrollHeight": 814,
+      "hostClientHeight": 200,
+      "scrollTopAfterWheel": 614,
+      "lastTermAfterWheelVisible": true
+    }
+  },
+  "totalDashboardBytes": 11973178,
+  "data": {
+    "articles": 2473,
+    "monthCount": 11,
+    "dataScript": "dashboard/data/data.js"
+  },
+  "environment": {
+    "browser": "Chromium 151.0.7922.34",
+    "mode": "headless Playwright",
+    "platform": "macOS (reported by navigator.userAgent)",
+    "hardwareConcurrency": 8
+  }
+}

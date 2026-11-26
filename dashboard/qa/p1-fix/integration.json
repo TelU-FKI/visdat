@@ -1,0 +1,180 @@
+{
+  "url": "file:// dashboard/index.html?debug=1",
+  "screenshots": {
+    "jan-1920x1080": "dashboard/qa/p1-fix/p1-jan-1920x1080.png",
+    "mar-1920x1080": "dashboard/qa/p1-fix/p1-mar-1920x1080.png",
+    "nov-1920x1080": "dashboard/qa/p1-fix/p1-nov-1920x1080.png",
+    "jan-1280x720": "dashboard/qa/p1-fix/p1-jan-1280x720.png",
+    "mar-1280x720": "dashboard/qa/p1-fix/p1-mar-1280x720.png",
+    "nov-1280x720": "dashboard/qa/p1-fix/p1-nov-1280x720.png"
+  },
+  "httpRequests": [],
+  "consoleErrors": [],
+  "months": {
+    "jan-1920x1080": {
+      "month": "2026-01",
+      "wordCount": 80,
+      "insideHost": 80,
+      "scrollHeight": 506,
+      "clientHeight": 506,
+      "scrolling": "hidden",
+      "topMinPx": 18,
+      "lowerMinPx": 7.8,
+      "lowerMedianPx": 9.9,
+      "sector": "sector_00",
+      "brightestCoreBgRgb": [
+        21,
+        57,
+        72
+      ],
+      "backgroundLuminance": 0.0355,
+      "contrastCyan": 8.84,
+      "contrastAmber": 7.51
+    },
+    "mar-1920x1080": {
+      "month": "2026-03",
+      "wordCount": 80,
+      "insideHost": 80,
+      "scrollHeight": 506,
+      "clientHeight": 506,
+      "scrolling": "hidden",
+      "topMinPx": 18,
+      "lowerMinPx": 7.8,
+      "lowerMedianPx": 10.3,
+      "sector": "sector_02",
+      "brightestCoreBgRgb": [
+        21,
+        57,
+        72
+      ],
+      "backgroundLuminance": 0.0355,
+      "contrastCyan": 8.84,
+      "contrastAmber": 7.51
+    },
+    "nov-1920x1080": {
+      "month": "2026-11",
+      "wordCount": 80,
+      "insideHost": 80,
+      "scrollHeight": 506,
+      "clientHeight": 506,
+      "scrolling": "hidden",
+      "topMinPx": 18,
+      "lowerMinPx": 7.8,
+      "lowerMedianPx": 11.1,
+      "sector": "sector_10",
+      "brightestCoreBgRgb": [
+        21,
+        57,
+        72
+      ],
+      "backgroundLuminance": 0.0355,
+      "contrastCyan": 8.84,
+      "contrastAmber": 7.51
+    },
+    "jan-1280x720": {
+      "month": "2026-01",
+      "wordCount": 80,
+      "insideHost": 80,
+      "scrollHeight": 244,
+      "clientHeight": 244,
+      "scrolling": "hidden",
+      "topMinPx": 18,
+      "lowerMinPx": 7.8,
+      "lowerMedianPx": 9.9,
+      "sector": "sector_00",
+      "brightestCoreBgRgb": [
+        21,
+        57,
+        73
+      ],
+      "backgroundLuminance": 0.0357,
+      "contrastCyan": 8.83,
+      "contrastAmber": 7.5
+    },
+    "mar-1280x720": {
+      "month": "2026-03",
+      "wordCount": 80,
+      "insideHost": 80,
+      "scrollHeight": 244,
+      "clientHeight": 244,
+      "scrolling": "hidden",
+      "topMinPx": 18,
+      "lowerMinPx": 7.8,
+      "lowerMedianPx": 10.3,
+      "sector": "sector_02",
+      "brightestCoreBgRgb": [
+        21,
+        57,
+        73
+      ],
+      "backgroundLuminance": 0.0357,
+      "contrastCyan": 8.83,
+      "contrastAmber": 7.5
+    },
+    "nov-1280x720": {
+      "month": "2026-11",
+      "wordCount": 80,
+      "insideHost": 80,
+      "scrollHeight": 244,
+      "clientHeight": 244,
+      "scrolling": "hidden",
+      "topMinPx": 18,
+      "lowerMinPx": 7.8,
+      "lowerMedianPx": 11.1,
+      "sector": "sector_10",
+      "brightestCoreBgRgb": [
+        21,
+        57,
+        73
+      ],
+      "backgroundLuminance": 0.0357,
+      "contrastCyan": 8.83,
+      "contrastAmber": 7.5
+    }
+  },
+  "interactions": {
+    "introVideoPlayed": true,
+    "pointerTarget": {
+      "x": 692.9999694824219,
+      "y": 487.2000274658203,
+      "id": "melalui"
+    },
+    "pointerClickSelected": "melalui",
+    "drag": {
+      "target": {
+        "x": 26,
+        "y": 130
+      },
+      "rotationBefore": 0.9827,
+      "rotationAfter": 1.4305,
+      "changed": true
+    },
+    "hoverStopsMotion": true,
+    "tabFocusedP1Word": true,
+    "enterSelectedFocusedTerm": "melalui",
+    "focusedTerm": "melalui"
+  },
+  "performance": {
+    "viewport": "1920x1080",
+    "seconds": 10.0,
+    "medianFps": 120,
+    "frames": 600,
+    "longTasksTotal10s": 6,
+    "longTasksDuringMonthChange": 0
+  },
+  "accessibility": {
+    "reducedMotionTest": "separate page",
+    "reducedMotionRotationStable": true,
+    "noWebGLFallback": {
+      "text": "GLB: gagal, pakai pengganti",
+      "stillVisible": true,
+      "canvasHidden": true
+    }
+  },
+  "totalDashboardBytes": 34443705,
+  "environment": {
+    "browser": "151.0.7922.34",
+    "mode": "headless Playwright"
+  },
+  "localFileRequests": 58
+}

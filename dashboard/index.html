@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#05080d"><title>J.A.R.V.I.S. // IHSG 2026</title>
+  <link rel="stylesheet" href="css/hud.css">
+  <link rel="stylesheet" href="css/p1-sphere.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">J</span><span>J.A.R.V.I.S.<small>// IHSG 2026</small></span></div>
+    <div class="status"><span class="status-label">BULAN</span><strong id="month-readout">JAN 2026</strong><span id="article-count">n=0</span><span id="thin-alert" hidden>DATA TIPIS</span></div>
+    <div class="mode-switch" role="group" aria-label="Mode pemeringkatan"><button id="freq-mode">FREKUENSI</button><button id="khas-mode" class="active">KHAS</button></div>
+    <div class="header-actions"><button id="auto-button" aria-label="Putar otomatis">▶ AUTO</button><button id="help-button" aria-label="Bantuan pintasan">?</button></div>
+  </header>
+  <main class="dashboard">
+    <section class="panel hero-panel" id="panel-1" aria-label="P1 Awan kata">
+      <div class="panel-heading"><div><span class="panel-index">P1</span><h1>AWAN KATA <span id="hero-mode">KHAS</span></h1></div><span class="panel-meta" id="hero-count">—</span></div>
+      <div class="hero-content"><div id="p1-core" class="p1-core" aria-hidden="true"></div><div class="reticle" aria-hidden="true"><i></i><b></b></div><div id="hero-words" class="hero-words" aria-label="Kata pilihan"></div><div class="hero-note" id="hero-note">Pilih kata untuk menelusuri judul</div></div>
+      <div class="panel-footer"><span>DOM • PERSPEKTIF 3D</span><span id="selected-term">TANPA PILIHAN</span></div>
+    </section>
+    <section class="panel rank-panel" id="panel-2" aria-label="P2 Peringkat kata">
+      <div class="panel-heading"><div><span class="panel-index">P2</span><h2>PERINGKAT KATA</h2></div><span class="panel-meta">15 TERATAS</span></div>
+      <div id="ranks-chart" class="chart-area"></div><div id="rank-scroll-hint" class="rank-scroll-hint" hidden><span id="rank-scroll-count"></span><button type="button" id="rank-expand" aria-label="Perbesar P2 untuk melihat 15 kata" title="Perbesar P2 untuk melihat semua 15 kata">BESAR 15</button></div><div class="panel-footer"><span id="rank-mode-label">SKOR KHAS</span><span id="rank-unit">SKOR | CAKUPAN %</span></div>
+    </section>
+    <section class="panel timeline-panel" id="panel-4" aria-label="P4 Garis waktu dan harga">
+      <div class="panel-heading"><div><span class="panel-index">P4</span><h2>WAKTU &amp; HARGA IHSG</h2></div><span class="panel-meta" id="price-meta">HARGA PENUTUPAN</span></div>
+      <div id="timeline-chart" class="chart-area"></div>
+      <div class="timeline-controls"><button id="prev-month" aria-label="Bulan sebelumnya">◀</button><input id="month-slider" type="range" min="0" max="1" value="0" aria-label="Pilih bulan"><button id="next-month" aria-label="Bulan berikutnya">▶</button><span class="timeline-hint">← → GANTI BULAN</span></div>
+      <p class="correlation-note">Kemunculan kata dan harga berbarengan dalam waktu, bukan bukti sebab-akibat.</p>
+    </section>
+    <nav class="detail-tabs" aria-label="Panel detail">
+      <span class="tabs-title">DETAIL</span><button data-tab="network" class="tab active" aria-controls="detail-panel">P3 JARINGAN</button><button data-tab="headlines" class="tab" aria-controls="detail-panel">P5 JUDUL</button><button data-tab="heat" class="tab" aria-controls="detail-panel">P6 PETA PANAS</button><button id="expand-detail" class="expand-button" aria-controls="detail-panel" aria-expanded="false">PERBESAR</button>
+    </nav>
+    <section class="panel detail-panel" id="detail-panel" aria-label="Panel detail"><button id="close-expanded" class="detail-close" hidden>PERKECIL · ESC</button><div id="detail-content"></div></section>
+  </main>
+  <div id="help-dialog" class="dialog-backdrop" hidden><section class="help-card" role="dialog" aria-modal="true" aria-labelledby="help-title"><button class="dialog-close" id="close-help" aria-label="Tutup bantuan">×</button><h2 id="help-title">PINTASAN KELAS</h2><dl><dt>← / →</dt><dd>Ganti bulan</dd><dt>Home</dt><dd>Seluruh periode</dd><dt>Spasi</dt><dd>Putar otomatis</dd><dt>M</dt><dd>FREKUENSI / KHAS</dd><dt>1–6</dt><dd>Perbesar panel</dd><dt>E</dt><dd>Perbesar detail</dd><dt>F</dt><dd>Layar penuh</dd><dt>R</dt><dd>Reset tampilan</dd><dt>Esc</dt><dd>Kembali / hapus pilihan</dd><dt>?</dt><dd>Buka bantuan</dd></dl><div id="khas-explainer" class="khas-explainer"><p>FREKUENSI menunjukkan persentase artikel bulan itu yang memuat kata. KHAS membandingkan cakupan kata dengan bulan lain.</p><p>Skor KHAS = df_share × ln(M / support). support menghitung bulan dengan df_share ≥ 15%; kata harus muncul pada setidaknya 10 bulan.</p></div></section></div>
+  <div id="toast" aria-live="polite"></div>
+  <script src="vendor/d3.v7.9.0.min.js"></script><script src="vendor/force-graph.1.49.6.min.js"></script><script src="vendor/gsap.3.14.2.min.js"></script><script src="vendor/three.r160.1.min.js"></script>
+  <script src="vendor/GLTFLoader.r160.iife.js"></script>
+  <script src="data/data.js"></script><script>if(new URLSearchParams(location.search).get("fixture")==="1")document.write('<script src="data/fixture.data.js"><\/script>')</script><script src="js/core-glb-data.js"></script>
+  <script src="js/bus.js"></script><script src="js/sphere.js"></script><script>window.Panels.P1=window.Panels.Sphere;</script><script src="js/ranks.js"></script><script src="js/timeline.js"></script><script src="js/heat.js"></script><script src="js/headlines.js"></script><script src="js/network.js"></script><script src="js/app.js"></script><script src="js/core3d.js"></script><script src="js/intro.js"></script><script src="js/p1-init.js"></script>
+</body></html>

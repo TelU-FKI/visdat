@@ -1,0 +1,7 @@
+# Phase 1 backup: excluded credential-pattern matches
+/dashboard/data/data.js
+/dashboard/data/headlines.json
+/data/news/cnbc_ref_dosen.csv
+/dist/jarvis-ihsg/data/data.js
+# Generated build output
+/dist/

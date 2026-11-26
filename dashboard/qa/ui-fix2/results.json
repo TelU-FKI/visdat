@@ -1,0 +1,452 @@
+{
+  "screenshots": [
+    {
+      "viewport": "1920x1080",
+      "tab": "network",
+      "month": "2026-01",
+      "screenshot": "01-network-1920x1080.png",
+      "state": {
+        "month": "2026-01",
+        "network": {
+          "nodes": 36,
+          "edges": 37,
+          "labels": 15,
+          "rendered": 15
+        },
+        "heat": null,
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "headlines",
+      "month": "2026-01",
+      "screenshot": "01-headlines-1920x1080.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": null,
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "heat",
+      "month": "2026-01",
+      "screenshot": "01-heat-1920x1080.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "active": "2026-01",
+          "outline": true,
+          "legend": true
+        },
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "network",
+      "month": "2026-03",
+      "screenshot": "03-network-1920x1080.png",
+      "state": {
+        "month": "2026-03",
+        "network": {
+          "nodes": 16,
+          "edges": 17,
+          "labels": 15,
+          "rendered": 15
+        },
+        "heat": null,
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "headlines",
+      "month": "2026-03",
+      "screenshot": "03-headlines-1920x1080.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": null,
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "heat",
+      "month": "2026-03",
+      "screenshot": "03-heat-1920x1080.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "active": "2026-03",
+          "outline": true,
+          "legend": true
+        },
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "network",
+      "month": "2026-11",
+      "screenshot": "11-network-1920x1080.png",
+      "state": {
+        "month": "2026-11",
+        "network": {
+          "nodes": 31,
+          "edges": 35,
+          "labels": 15,
+          "rendered": 15
+        },
+        "heat": null,
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "headlines",
+      "month": "2026-11",
+      "screenshot": "11-headlines-1920x1080.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": null,
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1920x1080",
+      "tab": "heat",
+      "month": "2026-11",
+      "screenshot": "11-heat-1920x1080.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "active": "2026-11",
+          "outline": true,
+          "legend": true
+        },
+        "rankVisible": 15,
+        "novRight": 1879.9681396484375,
+        "doc": [
+          1920,
+          1080,
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "network",
+      "month": "2026-01",
+      "screenshot": "01-network-1280x720.png",
+      "state": {
+        "month": "2026-01",
+        "network": {
+          "nodes": 36,
+          "edges": 37,
+          "labels": 15,
+          "rendered": 15
+        },
+        "heat": null,
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "headlines",
+      "month": "2026-01",
+      "screenshot": "01-headlines-1280x720.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": null,
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "heat",
+      "month": "2026-01",
+      "screenshot": "01-heat-1280x720.png",
+      "state": {
+        "month": "2026-01",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "active": "2026-01",
+          "outline": true,
+          "legend": true
+        },
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "network",
+      "month": "2026-03",
+      "screenshot": "03-network-1280x720.png",
+      "state": {
+        "month": "2026-03",
+        "network": {
+          "nodes": 16,
+          "edges": 17,
+          "labels": 15,
+          "rendered": 15
+        },
+        "heat": null,
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "headlines",
+      "month": "2026-03",
+      "screenshot": "03-headlines-1280x720.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": null,
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "heat",
+      "month": "2026-03",
+      "screenshot": "03-heat-1280x720.png",
+      "state": {
+        "month": "2026-03",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "active": "2026-03",
+          "outline": true,
+          "legend": true
+        },
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "network",
+      "month": "2026-11",
+      "screenshot": "11-network-1280x720.png",
+      "state": {
+        "month": "2026-11",
+        "network": {
+          "nodes": 31,
+          "edges": 35,
+          "labels": 15,
+          "rendered": 15
+        },
+        "heat": null,
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "headlines",
+      "month": "2026-11",
+      "screenshot": "11-headlines-1280x720.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": null,
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    },
+    {
+      "viewport": "1280x720",
+      "tab": "heat",
+      "month": "2026-11",
+      "screenshot": "11-heat-1280x720.png",
+      "state": {
+        "month": "2026-11",
+        "network": null,
+        "heat": {
+          "terms": 32,
+          "months": 11,
+          "active": "2026-11",
+          "outline": true,
+          "legend": true
+        },
+        "rankVisible": 8,
+        "novRight": 1246.6923828125,
+        "doc": [
+          1280,
+          720,
+          1280,
+          720
+        ]
+      }
+    }
+  ],
+  "audits": [
+    {
+      "viewport": "1920x1080",
+      "defaultTab": "network",
+      "minVisibleNonP1": 18,
+      "arrowRightMonth": "2026-11",
+      "doc": [
+        1920,
+        1080,
+        1920,
+        1080
+      ]
+    },
+    {
+      "viewport": "1280x720",
+      "defaultTab": "network",
+      "minVisibleNonP1": 18,
+      "arrowRightMonth": "2026-11",
+      "doc": [
+        1280,
+        720,
+        1280,
+        720
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "viewport": "1920x1080",
+      "selectedTerm": "trading_halt",
+      "selectedRows": 1
+    },
+    {
+      "viewport": "1280x720",
+      "selectedTerm": "trading_halt",
+      "selectedRows": 1
+    }
+  ],
+  "consoleErrors": [],
+  "httpRequests": []
+}
