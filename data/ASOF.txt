@@ -1,0 +1,5 @@
+diambil: 2026-10-19
+data harga terakhir: 2026-10-16
+nama: Invesco QQQ Trust
+expense_ratio_persen: 0.18
+sumber: Yahoo Finance via yfinance

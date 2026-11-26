@@ -1,0 +1,3 @@
+# Phase 1 backup: generated outputs and Python cache
+/dist/
+__pycache__/
